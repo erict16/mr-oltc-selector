@@ -1,8 +1,11 @@
 # Changelog
 
+## 1.0.1 — 2026-09
+
+- Buttons use red-orange; sheet stays cool.
+- Compact type strings: `VV-III-250Y/76-10193W`.
+- CLI: `npx -y mr-oltc-selector@1.0.1`.
+
 ## 1.0.0 — 2026-09
 
 - On-load type selection from published VACUTAP / OILTAP axes.
-- Compact vacuum families first; oil families only when oil is requested.
-- Web workbench (GitHub Pages) and `npx -y mr-oltc-selector@1.0.0`.
-- Indicative only. Engineering confirms before order.

@@ -10,33 +10,33 @@ export type Release = {
 
 const v100: Record<Lang, Release> = {
   zh: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {
-        kind: "new",
+        kind: "imp",
         items: [
-          "按公开真空/油有载样本册选型：紧凑系列优先，组合式随后。",
-          "油灭弧和真空灭弧都是硬约束，盖不住就提示超出目录。",
+          "按钮改成红橙色，页面底色仍是原来的冷色。",
+          "型号串改成连写，例如 VV-III-250Y/76-10193W。",
         ],
       },
     ],
   },
   en: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {
-        kind: "new",
+        kind: "imp",
         items: [
-          "Selects from published vacuum and oil on-load axes: compact families first.",
-          "Vacuum and oil are hard locks; out of catalogue if nothing covers.",
+          "Buttons are vermilion; the sheet stays cool.",
+          "Type strings are compact, e.g. VV-III-250Y/76-10193W.",
         ],
       },
     ],
   },
   vi: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {
@@ -49,7 +49,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   es: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {
@@ -62,7 +62,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   tr: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {
@@ -75,7 +75,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   ru: {
-    version: "1.0.0",
+    version: "1.0.1",
     date: "2026-09",
     groups: [
       {

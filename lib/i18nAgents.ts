@@ -41,7 +41,7 @@ export type AgentGuideCopy = {
   limit: string;
 };
 
-const PIN = "npx -y mr-oltc-selector@1.0.0";
+const PIN = "npx -y mr-oltc-selector@1.0.1";
 const INSTALL_LINE =
   "请根据 https://skillhub.cn/install/skillhub.md，安装有载开关选型助手。";
 

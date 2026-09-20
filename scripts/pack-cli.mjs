@@ -44,7 +44,7 @@ for (const needle of FORBIDDEN) {
   }
 }
 
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 
 const pkg = {
   name: "mr-oltc-selector",

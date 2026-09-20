@@ -5,7 +5,7 @@ Indicative on-load tap-changer type helper. Not an official manufacturer tool.
 Fill duty (Imax or MVA+kV, Um, Y/D, reversing/coarse/linear, vacuum/oil, in-tank) and get a commercial type that exists on public VACUTAP / OILTAP axes.
 
 - Web: https://erict16.github.io/mr-oltc-selector/
-- CLI: `npx -y mr-oltc-selector@1.0.0 --iu 350 --um 72.5 --conn Y --reg W --pm 8`
+- CLI: `npx -y mr-oltc-selector@1.0.1 --iu 350 --um 72.5 --conn Y --reg W --pm 8`
 
 No prices. Pin a version; do not `npm i -g`. `--iu` is Imax and is never multiplied by `--k` (`k` is capacity-path only).
 
