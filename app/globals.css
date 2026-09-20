@@ -1,5 +1,5 @@
-/* Hallmark · macrostructure: Workbench · theme: Vermilion · tone: technical
-   scores: P4 H4 E4 S4 R4 V4 · Next.js + Tailwind tool UI */
+/* Hallmark · macrostructure: Workbench · theme: Cobalt · tone: technical
+   Accent only: vermilion buttons. Sheet stays cool. */
 @import "tailwindcss";
 
 @theme {
@@ -10,17 +10,17 @@
   --font-sans: "Noto Sans", "Noto Sans SC", "PingFang SC", "Microsoft YaHei",
     ui-sans-serif, system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", "JetBrains Mono", ui-monospace, monospace;
-  --color-paper: oklch(98.5% 0.008 48);
-  --color-ink: oklch(24% 0.02 40);
-  --color-ink-2: oklch(34% 0.018 42);
-  --color-muted: oklch(52% 0.02 42);
-  --color-caption: oklch(62% 0.012 42);
-  --color-rule: oklch(90% 0.012 48);
-  --color-rule-2: oklch(84% 0.018 48);
-  --color-soft: oklch(96.5% 0.012 48);
+  --color-paper: oklch(98.5% 0.004 250);
+  --color-ink: oklch(24% 0.02 258);
+  --color-ink-2: oklch(34% 0.018 257);
+  --color-muted: oklch(52% 0.02 257);
+  --color-caption: oklch(62% 0.012 257);
+  --color-rule: oklch(90% 0.01 250);
+  --color-rule-2: oklch(84% 0.015 250);
+  --color-soft: oklch(96.5% 0.008 250);
   --color-accent: oklch(58% 0.19 42);
-  --color-accent-ink: oklch(99% 0.01 48);
-  --color-graphite: oklch(22% 0.016 40);
+  --color-accent-ink: oklch(99% 0.01 250);
+  --color-graphite: oklch(22% 0.016 260);
   --color-warn: oklch(55% 0.14 55);
   --color-err: oklch(48% 0.16 25);
   --radius-sm: 6px;

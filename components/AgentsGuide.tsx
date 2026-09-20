@@ -18,10 +18,10 @@ const ZIP = "https://github.com/erict16/mr-oltc-selector/archive/refs/heads/mast
 const INSTALL = "npx -y mr-oltc-selector@1.0.0";
 const RUN = "npx -y mr-oltc-selector@1.0.0 --iu 350 --um 72.5 --conn Y --reg W --pm 8";
 const WB_PAGE = "https://skillhub.cn/skills/mr-oltc-selector";
-const TYPE_OLTC = "VI III 400 Y-76-10 19 3W";
-const TYPE_OCTC = "VV III 250 Y-76-10 19 3W";
-const TYPE_DRY = "VV III 400 Y-76-10 19 3W";
-const TYPE_SHZV = "VM III 500 Y-123/B-10 19 3W";
+const TYPE_OLTC = "VI-III-400Y/76-10193W";
+const TYPE_OCTC = "VV-III-250Y/76-10193W";
+const TYPE_DRY = "VV-III-400Y/76-10193W";
+const TYPE_SHZV = "VM-III-500Y/123B-10193W";
 
 export function AgentsGuide() {
   const lang = useAppLang();

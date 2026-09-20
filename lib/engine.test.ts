@@ -110,7 +110,7 @@ describe("hard locks", () => {
     );
     expect(out.ok).toBe(true);
     const primary = out.results[0]!.model;
-    expect(primary).not.toMatch(/VM III \d+ D/);
+    expect(primary).not.toMatch(/VM-III-\d+D/);
     expect(commercialTypeExists(primary)).toBe(true);
   });
 

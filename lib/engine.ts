@@ -140,14 +140,7 @@ function formatUmToken(
 ): string {
   const umStr = Number.isInteger(um) ? String(um) : String(um);
   if (!usesSelectorSize || !size) return umStr;
-  return `${umStr}/${size}`;
-}
-
-/** 10193W �?10 19 3W */
-export function spacedTapCode(code: string): string {
-  const m = code.match(/^(\d{2})(\d{2})(\d)([WG0])?$/);
-  if (!m) return code;
-  return `${m[1]} ${m[2]} ${m[3]}${m[4] ?? ""}`;
+  return `${umStr}${size}`;
 }
 
 function buildModelString(
@@ -160,14 +153,12 @@ function buildModelString(
   unitCount: number,
   _octcSeries?: OctcSeriesChoice,
 ): string {
-  // VACUTAP VM III 500 Y-123/B-10 19 3W
-  // VACUTAP VV III 250 Y-76-10 19 3W
-  const conn =
-    connection === "any" ? "" : connection;
-  const tap = spacedTapCode(tapCode);
-  const yd = conn ? ` ${conn}` : "";
-  const core = `${series.code} ${phases} ${current}${yd}-${umToken}-${tap}`;
-  if (unitCount > 1) return `${unitCount}x ${core}`;
+  // Compact commercial string, same shape as Huaming:
+  //   VVIII-250Y/76-10193W
+  //   VMIII-500Y/123B-10193W
+  const conn = connection === "any" ? "" : connection;
+  const core = `${series.code}-${phases}-${current}${conn}/${umToken}-${tapCode}`;
+  if (unitCount > 1) return `${unitCount}x${core}`;
   return core;
 }
 
@@ -564,12 +555,12 @@ export function selectOltc(input: SelectInput): SelectOutput {
         );
         if (att.phases === "I") {
           finalModel = finalModel.replace(
-            new RegExp(`(${s.code}I-\\d+)[YD]/`),
+            new RegExp(`(${s.code}-I-\\d+)[YD]/`),
             "$1/",
           );
         } else if (att.phases === "II" && modelConn === "any") {
           finalModel = finalModel.replace(
-            new RegExp(`(${s.code}II-\\d+)[YD]/`),
+            new RegExp(`(${s.code}-II-\\d+)[YD]/`),
             "$1/",
           );
         }
@@ -842,7 +833,7 @@ export const FIXTURES = {
       midPositions: 3 as const,
       mdu: "none" as const,
     },
-    expectContains: "VV III 250 Y-76",
+    expectContains: "VV-III-250Y/76",
   },
   vm500Y123B: {
     input: {
@@ -860,6 +851,6 @@ export const FIXTURES = {
       selectorSize: "B" as const,
       mdu: "none" as const,
     },
-    expectContains: "VM III 500 Y-123/B",
+    expectContains: "VM-III-500Y/123B",
   },
 };

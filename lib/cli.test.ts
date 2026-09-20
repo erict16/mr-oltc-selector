@@ -25,7 +25,7 @@ describe("CLI", () => {
     expect(a.out).toBe(b.out);
     const primary = a.out.trim().split(/\r?\n/)[0]!;
     expect(commercialTypeExists(primary)).toBe(true);
-    expect(primary).toMatch(/^(VI|VV|VM) /);
+    expect(primary).toMatch(/^(VI|VV|VM)-/);
     expect(a.out).not.toMatch(/RMB|CNY|USD|listRmb|coeff|报价|\$/i);
   });
 

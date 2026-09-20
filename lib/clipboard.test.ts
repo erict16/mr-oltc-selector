@@ -9,8 +9,8 @@ describe("copyText", () => {
   it("uses clipboard.writeText when it works", async () => {
     const writeText = vi.fn().mockResolvedValue(undefined);
     vi.stubGlobal("navigator", { clipboard: { writeText } });
-    await expect(copyText("VV III 250 Y-76-10 19 3W")).resolves.toBe(true);
-    expect(writeText).toHaveBeenCalledWith("VV III 250 Y-76-10 19 3W");
+    await expect(copyText("VV-III-250Y/76-10193W")).resolves.toBe(true);
+    expect(writeText).toHaveBeenCalledWith("VV-III-250Y/76-10193W");
   });
 
   it("falls back to execCommand when clipboard is missing", async () => {

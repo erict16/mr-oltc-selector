@@ -14,8 +14,8 @@ Minimum-adequate: VI / VV compact vacuum, then VM, then VRS / VRL. OILTAP V / G 
 
 ## Type string
 
-`VV III 250 Y-76-10 19 3W` (compound, no selector letter).
-`VM III 500 Y-123/B-10 19 3W` (combined, selector letter).
+`VV-III-250Y/76-10193W` (compound, no selector letter).
+`VM-III-500Y/123B-10193W` (combined, selector letter).
 
 ## Website copy
 
