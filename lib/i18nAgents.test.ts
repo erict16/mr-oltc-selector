@@ -1,3 +1,5 @@
+import { readFileSync } from "node:fs";
+import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { LANG_OPTIONS } from "./i18n";
 import { agentGuide } from "./i18nAgents";
@@ -24,5 +26,15 @@ describe("agent guide copy", () => {
       expect(blob, id).not.toMatch(/\bMR\b/);
       expect(blob, id).not.toMatch(/华明/);
     }
+  });
+});
+
+describe("preset hints are Reinhausen families", () => {
+  it("i18n copy has no Huaming type codes", () => {
+    const text = readFileSync(path.join(process.cwd(), "lib", "i18n.ts"), "utf8");
+    expect(text).not.toMatch(/\bCM2\b/);
+    expect(text).not.toMatch(/\bCV2\b/);
+    expect(text).not.toMatch(/\bSHZV\b/);
+    expect(text).not.toMatch(/252 kV/);
   });
 });
