@@ -1,0 +1,586 @@
+SOURCE_URL: https://www.reinhausen.com/fileadmin/downloadcenter/oltc/vv/f0053808_en_vacutapvv_compact_oltc.pdf
+DOCUMENT_FILE: f0053808_en_VV_compact.pdf
+PAGES: 8
+EXTRACTOR: pdfplumber layout
+
+
+
+===== PAGE 1/8 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      VACUTAP®          V V®                                                      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      THE    COMPACT                                                              
+                                                                                  
+      ON-LOAD          TAP-CHANGER.                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      WWW.REINHAUSEN.COM                                                          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 2/8 =====
+
+                                                                                  
+      VACUTAP® VV®                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2                                                                           
+
+===== PAGE 3/8 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      EXPERIENCE             FROM        US    –                                  
+                                                                                  
+                                                                                  
+      SECURITY          FOR      YOU.                                             
+                                                                                  
+                                                                                  
+                                                                                  
+      The on-load tap-changers of the VACUTAP® series combine decades of experience in
+      vacuum-switching technology with the consistent further development of this technology.
+                                                                                  
+      This results in on-load tap-changers with unbeatable reliability and efficiency.
+                                                                                  
+                                                                                  
+                                          Compact design                          
+                                                                                  
+                                          The VACUTAP ® V V® combines a diverter switch and tap selector
+                                          in one functional unit. This compact design offers a low-cost
+      We started to develop vacuum-switching technology solution, especially for delta-connected transformer windings.
+      back in the 1980s. Extensive know-how makes us an                           
+      expert in this innovative technology. Maintenance-free for nearly all network
+                                          applications                            
+      In contrast to conventional oil circuit engineering, there                  
+      is no arcing in the insulating oil with VACUTAP® on-load In 2006, VACUTAP ® VR® and V V® became the first tap-changers
+      tap-changers. Therefore, no oil filter unit is required anywhere in the world to perform 300,000 tap-change opera-
+      in operation. Additionally, this new generation of tap tions without maintenance. For you this means maintenance-free
+      changers is designed for use with selected alternative performance for nearly all network applications and therefore
+      insulating fluids.                  maximum availability of your transformers. This is made pos-
+                                          sible through features such as vacuum interrupters, which are
+                                          developed in-house in accordance with our strict requirements
+                                          and have proven themselves in years of operation. In our globally
+                                          unique Testing Department, our on-load tap-changers are also
+        Benefits of vacuum technology                                             
+                                          tested in mechanical and electrical service life tests well beyond
+        compared with oil circuit engineering:                                    
+                                          the requirements of IEC standards.      
+        I No arcing in the tap-changer oil                                        
+        I No oil filter unit needed       ATEX-certified                          
+        I Clean oil makes maintenance work                                        
+         easier and faster                MR vacuum switches are used in steel and aluminum smelters
+        I Substantially reduced frequency of maintenance around the world as well as on drilling rigs in areas that pose
+         compared to conventional oil circuit engineering an explosion hazard or in chemical operations with a corrosive
+                                          or dirty environment. This is because MR is the first and only
+                                          manufacturer of on-load tap-changers to have VACUTAP® V V®
+        Extra: Constant switching characteristics over the and VACUTAP® VR® tap changers certified in accordance with
+        entire life of the vacuum interrupter. The vacuum Directive 94/9/EC (ATEX) – conforms to IEC and NEC 505 in North
+        level in the tubes is even improved further during America.               
+        switching operations because the metal vapor                              
+        plasma generated by the arc from the contact ma-                          
+        terial binds with free gas molecules (getter effect).                     
+        In addition, there is no oxidation of the contact                         
+        surface. This ensures a uniformly good transition                         
+        resistance.                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                            3     
+
+===== PAGE 4/8 =====
+
+                                                                                  
+      VACUTAP® VV®                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                              Step voltage                                        
+                  2000                                                            
+                                                                                  
+                                                                                  
+                  1500                                                            
+                                                                                  
+                                                                                  
+                                                                                  
+                  1000                                                            
+                           V V 250      V V 400  V V 600                          
+                                                                                  
+                  500                                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                    0                                                             
+                     0 50 100 150 200 250 300 350 400 450 500 550 600             
+                            Netzbetrieb                                           
+                                                                                  
+                    Step capacity diagram for electric arc furnaces upon request. 
+                                                                                  
+                                                                                  
+                                                                                  
+       Installation lengths                                                       
+                                                                                  
+                             3-phase V V III                     1-phase V V I    
+       Y 40 kV D 40 kV   Y 76 kV  D 76 kV       D 145 kV    76 kV     145 kV      
+       250, 400, 600 A 250, 400, 600 A 250, 400, 600 A 250, 400, 600 A 250, 400 A 400 A 400 A
+       h = 1,628 mm h = 1,628 mm h = 1,810 mm h = 1,810 mm h = 2,224 mm h = 816 mm h = 978 mm
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      4                                                                           
+                )AVk                                                              
+                ni(                                                               
+                P                                                                 
+                tS                                                                
+                    VACUTAP® V V® step capacity diagram                           
+                                                                        Lorem ipsum
+                              Step capacity                                       
+                                       I (in A)                                   
+                                       u                                          
+
+===== PAGE 5/8 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      TECHNICAL            DATA.                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       On-load tap-changer                                                        
+                                                                                  
+       Designation                 V V III 250 Y V V III 250 D V V III 400 Y V V III 400 D
+       Number of phases and application 3; at neutral point 3; at any 3; at neutral point 3; at any
+                                             point on winding      point on winding
+       Max. rated through-current I (in A) 250                  400               
+                    um                                                            
+       Rated short-time current (in kA)    4                     5                
+       Rated duration of short-circuits (in s) 3                 3                
+       Rated peak withstand current (in kA) 10                  12.5              
+       Rated step voltage U (in V)        2,000               2,000 … 1,7001      
+                i                                                                 
+       Step capacity (in kVA)                     See P /I diagram                
+                                                    St u                          
+       Rated frequency                             50 … 60 Hz                     
+       Operating positions           Without change-over selector: max. 12, with change-over selector: max. 23
+       Rated insulation level                                                     
+       Highest voltage for equipment U (in kV) 2 40/76 40/76/1454 40/76 40/76/1454
+                      m                                                           
+       Rated lightning impulse withstand voltage 200/350 200/350/650 200/350 200/350/650
+       (in kV, 1.2 | 50)                                                          
+       Rated short-duration power frequency withstand 70/140 70/140/275 70/140 70/140/275
+       voltage (in kV, 50 Hz, 1 min)                                              
+       Rated withstand voltages of internal insulation See table 2.3 in technical data for VACUTAP® VV (TD 203)
+       Oil compartment           Pressure-tight up to 0.3 bar permanent differential pressure (testpressure 0.6 bar),
+                                 head and cover of the on-load tap-changer are vacuum-proof.
+       Temperature range         The VACUTAP® VV on-load tap-changer can be operated in the rated load range at oil
+                                 temperatures of between -25 ˚C and +105 ˚C.      
+       On-load tap-changer                                                        
+       Designation                 V V III 600 Y V V III 600 D V V I 4013 V V I 4013
+       Number of phases and application 3; at neutral point 3; at any 1; at any   
+                                             point on winding point on winding    
+       Max. rated through-current I (in A) 600                  400               
+                    um                                                            
+       Rated short-time current (in kA)    6                     5                
+       Rated duration of short-circuits (in s) 3                 3                
+       Rated peak withstand current (in kA) 15                  12.5              
+       Rated step voltage U (in V)     2,000 … 1,000 1        2,000 … 1,700 1     
+                i                                                                 
+       Step capacity (in kVA)                     See P /I diagram                
+                                                    St u                          
+       Rated frequency                             50 … 60 Hz                     
+       Operating positions       Without change-over selector: max. 12 With change-over selector: max. 23
+                                 With change-over selector: max. 23               
+       Rated insulation level                                                     
+       Highest voltage for equipment U (in kV) 2 40/76 40/76/145 4 76 145 4       
+                      m                                                           
+       Rated lightning impulse withstand voltage 200/350 200/350/650 350 650      
+       (in kV, 1.2 | 50)                                                          
+       Rated short-duration power frequency withstand 70/140 70/140/275 140 275   
+       voltage (in kV, 50 Hz, 1 min)                                              
+       Rated withstand voltages of internal insulation See table 2.3 in technical data for VACUTAP® VV (TD 203)
+       Oil compartment           Pressure-tight up to 0.3 bar permanent differential pressure (test pressure 0.6 bar),
+                                 head and cover of the on-load tap-changer are vacuum-proof.
+       Temperature range         The VACUTAP® VV on-load tap-changer can be operated in the rated load range at oil
+                                 temperatures of between -25 ˚C and +105 ˚C.      
+      1 See also P -/I diagram                                                    
+           St u                                                                   
+      2 In accordance with VDE 0111, Part 1: Effective value of the conductor-conductor voltage for which an equipment is dimensioned in terms of its insulation.
+      3 600 A model on request                                                    
+      4 A maximum operating voltage of 132 kV + 15 % = 151.8 kV is permitted if the test voltages for the 145 kV series are not exceeded.
+                                                                            5     
+
+===== PAGE 6/8 =====
+
+                                                                                  
+      VACUTAP® VV®                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+      ENVIRONMENTALLY                     FRIENDLY                                
+                                                                                  
+                                                                                  
+      AND      FORWARD-LOOKING.                                                   
+                                                                                  
+                                                                                  
+                                                                                  
+            A future trend in transformer technology has kept our developers busy: the increas-
+            ing demand for higher fire safety, greater compatibility with the environment and
+                                                                                  
+            largely maintenance-free performance. We have found a solution. It is based on the
+            connection of our VACUTAP® technology with alternative insulating fluids.
+                                                                                  
+                                                                                  
+                                                                                  
+            Alternative insulating fluids with natural esters are Fireproof       
+            made from plants such as rapeseed, soy, sunflower                     
+            or coconut. Filtering these fluids and adding additives A variety of fluids is available on the market that ful-
+            results in a high-quality electrical insulating fluid fill fire protection requirements (class K fluids with a
+            that provides exactly the advantages that will be flashpoint > 300 °C to IEC 61100). The natural esters
+            required in the future.        seem particularly advantageous in this regard.
+                                                                                  
+            All variants of our VACUTAP® V V® on-load tap-                        
+                                            Water hazard class*                   
+                                                                * Classification in accordance
+            changer are suitable for use with selected alternative                
+                                                                with the German Adminis-
+                                            Mineral oil     1                     
+            insulating fluids.                                  trative Regulation on the
+                                                                Classification of Substances
+                                            HMWH            1                     
+                                                                hazardous to waters into
+            Further information on approved alternative insulat- Silicone oil 1 Water Hazard Classes
+                                                                (VwVwS), Germany 1999:
+            ing fluids on request.          Synthetic esters 0  WGK 0 = non-hazardous to
+                                                                water, WGK 1 = low water
+                                            Natural esters  0   hazard            
+                                           Biodegradable                          
+                                           The environmental friendliness (biodegradability)
+                                           of a material can be evaluated by, for example, its
+                                           classification into a water hazard class. Ester fluids
+                                           have an advantage in this regard because they are
+                                           classified as “non-hazardous to water”.
+                                                                                  
+                                                                                  
+                                                 Please note: The use of VACUTAP® tap
+                                                 changers in conjunction with ester
+                                                 fluids is a special application. 
+                                                 Our experts will work with you to
+                                                 clarify the possibilities for the specific
+                                                 application.                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      6                                                                           
+      )puC                                                                        
+      nepO                                                                        
+      ,29D                                                                        
+      MTSA(                                                                       
+      )C°(                                                                        
+      tniophsalF                                                                  
+            Class K fluids, flashpoint > 300 °C to IEC 61039                      
+         350                                                                      
+         300                                                                      
+         250                                                                      
+         200                                                                      
+         150                                                                      
+         100                                                                      
+         50                                                                       
+          0                                                                       
+              lio                                                                 
+              lareniM                                                             
+                     -ralucelom                                                   
+                     hgiH                                                         
+                      snobracordyh                                                
+                      thgiew                                                      
+                             sretse                                               
+                             citehtnyS                                            
+                                    sretse                                        
+                                    larutaN                                       
+                                           slio                                   
+                                           nociliS                                
+
+===== PAGE 7/8 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+              VACUTAP®           V  V®   –                                        
+                                                                                  
+                                                                                  
+                                                                                  
+              AN     INVESTMENT              THAT      PAYS      OFF.             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                        Maintenance-free and long-lasting                         
+                                                                                  
+                                                                                  
+                        I Maintenance-free up to 300,000 tap-change operations with no time
+                         component, therefore maintenance-free for virtually all network applications
+                        I Change of vacuum interrupters only after 600,000 tap-change operations
+                        I Change of the diverter switch insert only after 1.2 million tap-change operations
+                                                                                  
+                        Maximum operational reliability                           
+                                                                                  
+                        I Suitable for operation in earthquake-prone areas        
+                        I Also available as ATEX-certified version in Ex protection model with
+                         TAPMOTION® ED motor-drive unit                           
+                        I Fully tried and tested: more than 12,000 VACUTAP® V V® are in use
+                         around the globe                                         
+                                                                                  
+                                                                                  
+                        Low life-cycle costs                                      
+                                                                                  
+                        I No arcing in the tap-changer oil                        
+                        I No oil filter unit needed                               
+                        I Clean oil makes maintenance work easier and faster      
+                        I Substantially reduced frequency of maintenance compared to conventional oil
+                         circuit engineering                                      
+                                                                                  
+                                                                                  
+                        Designed with future requirements in mind                 
+                                                                                  
+                        Factory-built for selected alternative insulating fluids  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                            7     
+
+===== PAGE 8/8 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Maschinenfabrik Reinhausen GmbH                                             
+      Falkensteinstrasse 8                                                        
+      93059 Regensburg, Germany                                                   
+                                                                                  
+      Phone: +49 941 4090-0                                                       
+      Fax: +49 941 4090-7001                                                      
+      E-mail: info@reinhausen.com                                                 
+                                                                                  
+      www.reinhausen.com                                                          
+                                                                                  
+                                                                                  
+                                                                                  
+      Please note:                                                                
+      The data in our publications may differ from                                
+      the data of the devices delivered. We reserve                               
+      the right to make changes without notice.                                   
+      IN169/09 EN – VACUTAP ® V V ® –                                             
+      F0053808 – 05/24 – uw                                                       
+      ©Maschinenfabrik Reinhausen GmbH 2013                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                          THE POWER  BEHIND   POWER.              
+                                                                                  
+                                                                                  
+                                                                                  

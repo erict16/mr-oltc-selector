@@ -1,0 +1,72 @@
+import type { Metadata, Viewport } from "next";
+import { LangProvider } from "@/components/LangProvider";
+import { SiteFooter } from "@/components/SiteFooter";
+import "./globals.css";
+
+/** Must match next.config basePath for GH Pages favicon URLs */
+const basePath = process.env.GH_PAGES === "true" ? "/mr-oltc-selector" : "";
+
+export const metadata: Metadata = {
+  title: "OLTC Selector · 有载开关选型",
+  description:
+    "Private OLTC type-designation helper. Indicative only — not an official manufacturer tool or OS.",
+  metadataBase: new URL(
+    basePath
+      ? "https://erict16.github.io/mr-oltc-selector"
+      : process.env.VERCEL_PROJECT_PRODUCTION_URL
+        ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+        : "http://127.0.0.1:3000",
+  ),
+  icons: {
+    icon: [{ url: `${basePath}/favicon.svg`, type: "image/svg+xml" }],
+    shortcut: `${basePath}/favicon.svg`,
+  },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+  themeColor: "#faf6f2",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
+  return (
+    <html lang="zh-CN">
+      <head>
+        <link rel="icon" href={`${basePath}/favicon.svg`} type="image/svg+xml" />
+        <link rel="shortcut icon" href={`${basePath}/favicon.svg`} />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body className="antialiased">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded-[var(--radius-sm)] focus:bg-white focus:px-3 focus:py-2 focus:text-sm focus:shadow"
+        >
+          Skip to content
+        </a>
+        {/* Document scrolls; footer is not pinned. main is a column so the
+            selector shell can flex-1 fill leftover height and center. */}
+        <LangProvider initial="zh">
+          <div className="flex min-h-dvh flex-col">
+            <main id="main" className="flex min-w-0 flex-1 flex-col">
+              {children}
+            </main>
+            <SiteFooter />
+          </div>
+        </LangProvider>
+      </body>
+    </html>
+  );
+}

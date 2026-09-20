@@ -1,0 +1,2336 @@
+SOURCE: https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/oiltap_g/technical_data/td_g_1800048_03_de.pdf
+
+===== PAGE 1/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+     Laststufenschalter                                                           
+                                                                                  
+     OILTAP®      G                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+     Technische  Daten                                                            
+                                                                                  
+                                                                                  
+                                                                                  
+     1800048/03 DE                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 2/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       © Alle Rechte bei Maschinenfabrik Reinhausen                               
+       Weitergabe sowie Vervielfältigung dieses Dokumentes, Verwertung und Mitteilung seines Inhalts sind verboten,
+       soweit nicht ausdrücklich gestattet.                                       
+       Zuwiderhandlungen verpflichten zu Schadenersatz. Alle Rechte für den Fall der Patent-, Gebrauchsmuster- und
+       Geschmacksmustereintragung vorbehalten.                                    
+       Nach Redaktionsschluss der vorliegenden Dokumentation können sich am Produkt Änderungen ergeben haben.
+       Änderungen der technischen Daten bzw. Konstruktionsänderungen sowie Änderungen des Lieferumfanges
+       bleiben ausdrücklich vorbehalten.                                          
+       Grundsätzlich sind die bei der Abwicklung der jeweiligen Angebote und Aufträge übermittelten Informationen und
+       getroffenen Vereinbarungen verbindlich.                                    
+       Die Originalbetriebsanleitung wurde in deutscher Sprache erstellt.         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 3/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Inhaltsverzeichnis                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Inhaltsverzeichnis                                                       
+                                                                                  
+                                                                                  
+         1    Einleitung............................................................................................................................. 4
+                                                                                  
+         1.1  Laststufenschalterbezeichnungen....................................................................................................... 5
+         1.1.1 Beispiel für Typenbezeichnung: OILTAP G III 1602 Y – 72,5 / D – 10 19 1 WR................................................... 5
+         1.2  Laststufenschalterausführungen......................................................................................................... 7
+                                                                                  
+         1.3  Grundschaltbilder.............................................................................................................................. 10
+         2    Technische Daten............................................................................................................. 11
+                                                                                  
+         2.1  Laststufenschaltereigenschaften....................................................................................................... 11
+         2.2  Stufenleistungsdiagramme................................................................................................................ 16
+         2.2.1 Stufenleistungsdiagramm bei Netzbetrieb und Prozessbetrieb........................................................................... 16
+                                                                                  
+         2.2.2 Stufenleistungsdiagramm bei Lichtbogenofenbetrieb......................................................................................... 18
+         2.3  Zulässige Spannungsbeanspruchungen........................................................................................... 20
+         2.3.1 Übersicht Isolationsstrecken............................................................................................................................... 20
+                                                                                  
+         2.3.2 Bemessungsisolationspegel am Lastumschalter ............................................................................................... 22
+         2.3.3 Bemessungsisolationspegel der inneren Isolation des Wählers......................................................................... 23
+         2.4  Kontaktlebensdauer........................................................................................................................... 26
+                                                                                  
+         3    Sonderausführungen........................................................................................................ 27
+         3.1  Brücken zur Parallelschaltung von Wählerebenen............................................................................ 27
+                                                                                  
+         4    Zeichnungen...................................................................................................................... 28
+                                                                                  
+         4.1  Grundschaltbilder, Kontaktbezeichnung nach MR-Standard............................................................. 28
+         4.2  Maßzeichnungen............................................................................................................................... 32
+         4.3  Einbauzeichnung............................................................................................................................... 38
+                                                                                  
+         4.4  Laststufenschalterkopf....................................................................................................................... 40
+         4.5  Wähler............................................................................................................................................... 45
+         4.6  Schaltbilder (Beispiele)...................................................................................................................... 51
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  3      
+                                                                                  
+                                                                                  
+
+===== PAGE 4/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                 1 Einleitung     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      1 Einleitung                                                                
+                                                                                  
+      Diese technische Unterlage enthält detaillierte Informationen zu den technischen Eigenschaften des Pro-
+      dukts. Grundlegende Informationen finden Sie in den Technischen Daten TD 61 – Allgemeiner Teil.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      4     OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 5/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Einleitung                                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1.1 Laststufenschalterbezeichnungen                                      
+                                                                                  
+         Jeder Laststufenschaltertyp wird in vielen Ausführungen - unterschiedlich nach Anzahl der Phasen, maximal-
+         em Bemessungsdurchgangsstrom, höchster Spannung für Betriebsmittel U , Wählerbaureihe und Grund-
+                                                       m                          
+         schaltbild - geliefert. Die Bezeichnung einer bestimmten Laststufenschalterausführung muss daher auch
+         nach diesen Merkmalen durchgeführt werden. Der Laststufenschalter ist damit unverwechselbar gekenn-
+         zeichnet.                                                                
+         1.1.1 Beispiel für Typenbezeichnung: OILTAP G III 1602 Y – 72,5 / D – 10 19 1 WR
+          Bezeichnung Bedeutung          Ausführung              Parameter        
+                                                                                  
+          OILTAP G   Typ                 OILTAP G                   G             
+          III        Anzahl der Phasen   1 Phase                    I             
+                                                                                  
+                                         3 Phasen                   III           
+          1602       I [A] = maximaler Bemes- G III 1602 Y         1600           
+                     rm                                                           
+                     sungs-Durchgangsstrom                                        
+                                         G III 2002 Y              2000           
+                                         G I 1612                  1600           
+                                         G I 1622                  1600           
+                                         G I 3022                  3000           
+                                         G I 3002                  3000           
+          1602       Anzahl der bestückten Sektoren 3               0             
+                                                                                  
+                                         2                          2             
+                                         1                          1             
+          1602       Entwicklungsstand   1                          1             
+                                                                                  
+                                         2 (aktuell)                2             
+          Y          Anwendungen         nur bei Einsatz mit Sternpunkt Y         
+          72,5       U [kV] = höchste Spannung für                 72,5           
+                      m                                                           
+                     Betriebsmittel1)                                             
+                                                                   123            
+                                                                   170            
+                                                                   245            
+                                                                   3002)          
+          D          Wählerbaureihe                                 D             
+                                                                                  
+                                                                    E             
+         Tabelle 1: Erläuterung der Typenbezeichnung (1)                          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  5      
+                                                                                  
+                                                                                  
+
+===== PAGE 6/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                 1 Einleitung     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       Bezeichnung Bedeutung          Ausführung             Parameter            
+       10        Anzahl maximaler Betriebsstel- Teiligkeit des Feinwählers:       
+                 lungen ohne Vorwähler                                            
+                                                10               10               
+                                                12               12               
+                                                14               14               
+                                                16               16               
+                                                                                  
+                                                18              183)              
+       19        Anzahl maximaler Betriebsstel-                                   
+                 lungen mit Vorwähler                                             
+                                         Teiligkeit des Feinwählers:              
+                                                                                  
+                                                10               19               
+                                                12               23               
+                                                                                  
+                                                14               27               
+                                                16               31               
+                                                18              353)              
+                                                                                  
+       1W        Mittelstellungen     0 Mittelstellungen (ohne Vorwähler) 0       
+                                      1 Mittelstellung           1                
+                                      3 Mittelstellungen         3                
+                                                                                  
+       1W        Vorwähler            Wender                     W                
+                                      Grobstufe                  G                
+                                                                                  
+       R         Art der Potenzialanlenkung4) Angebaute Anlenkwiderstände R       
+                                      Anlenkschalter und Anlenkwider- S           
+                                      stände auf Platte                           
+                                      Anlenkschalter mit angebauten An- P         
+                                      lenkwiderständen                            
+      Tabelle 2: Erläuterung der Typenbezeichnung (2)                             
+                                                                                  
+      1) Nach IEC 60214-1:2003, Kap. 3.57: Höchster Effektivwert einer Spannung zwischen zwei Phasen in einem
+      dreiphasigen System, für den ein Laststufenschalter hinsichtlich seiner Isolation ausgelegt ist.
+      2) Höhere Werte auf Anfrage.                                                
+                                                                                  
+      3) Teiligkeit 18 nicht für alle Typen verfügbar, siehe auch Übersichtstabellen im Kapitel Bemessungsisolati-
+      onspegel der inneren Isolation des Wählers [► 23].                          
+      4) Die Potenzialanlenkung wurde in der Vergangenheit auch als Polungsmaßnahme und der Anlenkschalter
+      als Polungsschalter bezeichnet.                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      6     OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 7/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Einleitung                                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1.2 Laststufenschalterausführungen                                       
+                                                                                  
+         Im Folgenden finden Sie eine Übersicht über die Ausführungen des OILTAP® G.
+                                                                                  
+         Laststufenschalter G III 1602 Y, mit und ohne Vorwähler                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Abbildung 1: Einbaulänge unter Deckel G III 1 602 Y                      
+         Nur für den Typ G III 1602 Y gibt es neben der Standardausführung eine zweite Ausführung mit einem um
+         130 mm kürzerem Ölgefäß. Die Länge des Ölgefäßes ist von den gewählten Leistungsdaten abhängig und
+         geht aus den Stufenleistungsdiagrammen [► 16] hervor.                    
+         Maß h = Einbaulänge unter Deckel:                                        
+                                                                                  
+           Höchste Span-      Wählerbaureihe D           Wählerbaureihe E         
+          nung für Betriebs-                                                      
+                        kurzes Ölgefäß langes Ölgefäß kurzes Ölgefäß langes Ölgefäß
+            mittel U (kV)                                                         
+                 m                                                                
+               72,5         2 701        2 831        3 147        3 277          
+               123          2 746        2 876        3 192        3 322          
+               170          2 885        3 015        3 331        3 461          
+               245          2 985        3 115        3 431        3 561          
+         Tabelle 3: Einbaulänge unter Deckel für G III 1602 Y                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  7      
+                                                                                  
+                                                                                  
+
+===== PAGE 8/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                 1 Einleitung     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Laststufenschalter G III 2002 Y, mit und ohne Vorwähler                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 2: Einbaulänge unter Deckel für G III 2002 Y                      
+      Maß h = Einbaulänge unter Deckel:                                           
+                                                                                  
+        Höchste Spannung für Betriebsmittel Wählerbaureihe D Wählerbaureihe E     
+                  U (kV)                                                          
+                   m                                                              
+                   72,5                  2 889              3 335                 
+                   123                   2 934              3 380                 
+                   170                   3 073              3 519                 
+                   245                   3 173              3 619                 
+                                                                                  
+      Tabelle 4: Einbaulänge unter Deckel für G III 2002 Y                        
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      8     OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 9/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Einleitung                                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Laststufenschalter G I 1612, G I 1622, G I 1602, mit und ohne Vorwähler  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Abbildung 3: Einbaulänge unter Deckel für G I 1612, G I 1622, G I 1602   
+         Maß h = Einbaulänge unter Deckel:                                        
+                                                                                  
+           Höchste Spannung für Betriebsmittel Wählerbaureihe D Wählerbaureihe E  
+                     U (kV)                                                       
+                      m                                                           
+                      123                   2 410              2 656              
+                      170                   2 549              2 795              
+                      245                   2 649              2 895              
+                      300                   2 768              3 014              
+                                                                                  
+         Tabelle 5: Einbaulänge unter Deckel für G I 1612, G I 1622, G I 1602     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  9      
+                                                                                  
+                                                                                  
+
+===== PAGE 10/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                 1 Einleitung     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Laststufenschalter G I 3022, G I 3002, mit und ohne Vorwähler               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 4: Einbaulänge unter Deckel für G I 3022, G I 3002                
+      Maß h = Einbaulänge unter Deckel:                                           
+                                                                                  
+        Höchste Spannung für Betriebsmittel Wählerbaureihe D Wählerbaureihe E     
+                  U (kV)                                                          
+                   m                                                              
+                   123                   2 710              2 956                 
+                   170                   2 849              3 095                 
+                   245                   2 949              3 195                 
+                   300                   3 068              3 314                 
+                                                                                  
+      Tabelle 6: Einbaulänge unter Deckel für G I 3022, G I 3002                  
+      Bei angebauter Potenzialanlenkung verlängert sich die Höhe h um den in den Maßzeichnungen [► 32]
+      angegebenen Betrag.                                                         
+                                                                                  
+      1.3 Grundschaltbilder                                                       
+                                                                                  
+      Im Kapitel Zeichnungen [► 28] finden Sie einige Beispiele für die Grundschaltungen des Laststufenschal-
+      ters mit Bezeichnung der Wähleranschlusskontakte nach MR-Standard.          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      10    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 11/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2  Technische Daten                                                      
+                                                                                  
+                                                                                  
+         2.1 Laststufenschaltereigenschaften                                      
+                                                                                  
+          Allgemeine technische Daten                                             
+          Bemessungsfrequenz (Hz) 50...60                                         
+          Betriebsstellungen ohne Vorwähler: maximal 16 (18)1)                    
+                             mit Vorwähler: maximal 31 (35)1)                     
+                                                                                  
+          Bemessungsstehspannun- siehe Tabellen [► 23]                            
+          gen der inneren Isolation                                               
+          Druckfestigkeit    Ölgefäß druckdicht bis 0,3 bar Differenzdruck dauernd (Prüfdruck 0,6 bar);
+                             Kopf und Deckel des Laststufenschalters sind vakuumfest.
+          Ölsaugleitung      serienmäßig eingebaut (Einzelheiten dazu siehe BA 18 – Ölfilteranla-
+                             ge OF 100)                                           
+          Lufttemperatur im Betrieb - 25 °C…+ 50 °C                               
+                                                                                  
+          Öltemperatur im Betrieb Der Laststufenschalter OILTAP® G kann im Temperaturbereich des umgeb-
+                             enden Transformatoröls von –25 °C bis +105 °C und laut IEC 60214-1 bis
+                             +115 °C (bei Notbetrieb des Transformators gemäß IEC 60076-7) betrieben
+                             werden. Hinweise zum Betrieb unter arktischen Bedingungen entnehmen
+                             Sie bitte den Allgemeinen Technischen Daten TD 61.   
+          Transporttemperatur, Lager- - 40 °C…+ 50 °C                             
+          temperatur                                                              
+          Montagehöhe des Ölausdeh- Siehe Technische Daten TD 61 – Allgemeiner Teil
+          nungsgefäßes                                                            
+          Aufstellungshöhe über Mee- Siehe Technische Daten TD 61 – Allgemeiner Teil
+          resspiegel                                                              
+                                                                                  
+          Maße               siehe zugehörige Maßbilder [► 32]                    
+         Tabelle 7: Allgemeine technische Daten                                   
+         1) Teiligkeit 18 nicht für alle Typen verfügbar, siehe auch Übersichtstabellen im Kapitel Bemessungsisolati-
+         onspegel der inneren Isolation des Wählers [► 23].                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  11     
+                                                                                  
+                                                                                  
+
+===== PAGE 12/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       Typabhängige technischen Daten    G III 1602 Y       G III 2002 Y          
+       Phasenzahl und Anwendung             3                  3                  
+                                        (Sternpunkt)       (Sternpunkt)           
+       maximaler Bemessungsdurchgangsstrom I 1600             2000                
+                                 um                                               
+       (A)                                                                        
+       Bemessungskurzzeitstrom (kA)        24                 24                  
+       Bemessungskurzschlussdauer (s)       3                  3                  
+       Bemessungsstoßstrom (kA)            60                 60                  
+                                                                                  
+       maximale Bemessungsstufenspannung U 5000               5000                
+                                im                                                
+       (V)1)                                                                      
+       Stufenleistung P (kVA)              5000               5000                
+                 StN                                                              
+      Tabelle 8: Typabhängige technischen Daten (1)                               
+      1) Eine auf Übererregung des Transformators zurückzuführende 10%ige Überschreitung der maximalen Be-
+      messungsstufenspannung ist zulässig, wenn dabei die Stufenleistung nicht überschritten wird.
+       Typabhängige technischen Daten G I 1612 G I 1622 G I 1602 G I 3022 G I 3002
+       Phasenzahl und Anwendung       1       1      1       1       1            
+       maximaler Bemessungsdurchgangsstrom I 1600 1600 1600 3000   3000           
+                                 um                                               
+       (A)                                                                        
+       Bemessungskurzzeitstrom (kA)   24     24      24      30     30            
+       Bemessungskurzschlussdauer (s) 3       3      3       3       3            
+       Bemessungsstoßstrom (kA)       60     60      60      75     75            
+       maximale Bemessungsstufenspannung U 5000 5000 5000   5000   5000           
+                                im                                                
+       (V)1)                                                                      
+       Stufenleistung P (kVA)        5000    6500   8000    6500   8000           
+                 StN                                                              
+      Tabelle 9: Typabhängige technischen Daten (2)                               
+      1) Eine auf Übererregung des Transformators zurückzuführende 10%ige Überschreitung der maximalen Be-
+      messungsstufenspannung ist zulässig, wenn dabei die Stufenleistung nicht überschritten wird.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      12    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 13/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Gewichte von Laststufenschalter und Wähler                               
+                                                                                  
+          Gewicht Laststufenschalter   72,5 kV 123 kV  170 kV 245 kV  300 kV      
+          Gewicht Lastumschaltereinsatz [kg] ca. 520 530 540   550     560        
+                                                                                  
+          Gewicht Ölgefäß + Kopf [kg] ca. 490   500     520    530     540        
+          Gewicht Glockenkesselflansch                  150                       
+          (wenn vorhanden) [kg] ca.                                               
+         Tabelle 10: Gewicht des Laststufenschalters (nach Spannung)              
+                                                                                  
+          Gewicht Wähler                    G III 1602 Y       G III 2002 Y       
+          Gewicht Wähler [kg] ca. ohne Vorwähler 580             700              
+                                                                                  
+                          mit Vorwähler       800                900              
+          Gewicht Anlenkschalter (wenn vorhanden)       80                        
+          [kg] ca.                                                                
+          Gewicht Zylinder mit Anlenkwiderständen,      50                        
+          pro Stück (wenn vorhanden) [kg] ca.                                     
+         Tabelle 11: Gewicht des Wählers (1)                                      
+                                                                                  
+          Gewicht Wähler               G I 1612 G I 1622 G I 1602 G I 3022 G I 3002
+                                                                                  
+          Gewicht Wähler [kg] ca. ohne Vorwähler 470 470 470   510     510        
+                          mit Vorwähler  650    650     650    750     750        
+          Gewicht Anlenkschalter (wenn vorhanden)       80                        
+          [kg] ca.                                                                
+                                                                                  
+          Gewicht Zylinder mit Anlenkwiderständen,      50                        
+          pro Stück (wenn vorhanden) [kg] ca.                                     
+         Tabelle 12: Gewicht des Wählers (2)                                      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  13     
+                                                                                  
+                                                                                  
+
+===== PAGE 14/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Verdrängungsvolumen und Ölfüllmenge des Laststufenschalters                 
+                                                                                  
+      Nur für den Typ G III 1602 Y gibt es neben der Standardausführung eine zweite Ausführung mit einem um
+      130 mm kürzerem Ölgefäß. Die Länge des Ölgefäßes ist von den gewählten Leistungsdaten abhängig und
+      geht aus den Stufenleistungsdiagrammen [► 16] hervor.                       
+       Laststufenschalter             G III 1602 Y G III 1602 Y G III 2002 Y      
+                                    kurzes Ölgefäß langes Ölgefäß                 
+       Verdrängungsvolumen [dm³] ca. 72,5 kV 1000    1067        1067             
+                                                                                  
+                             123 kV     1025         1092        1092             
+                             170 kV     1100         1167        1167             
+                                                                                  
+                             245 kV     1155         1222        1222             
+       Ölfüllmenge V des Ölgefäßes 72,5 kV 690        750         750             
+               S                                                                  
+       [dm3] ca.                                                                  
+                             123 kV     730           790         790             
+                             170 kV     750           810         810             
+                             245 kV     820           880         880             
+      Tabelle 13: Verdrängungsvolumen und Ölfüllmenge des Laststufenschalters     
+       Laststufenschalter           G I 1612 G I 1622 G I 1602 G I 3022 G I 3002  
+       Verdrängungsvolumen [dm³] ca. 123 kV 1040 1040 1040 1060   1060            
+                                                                                  
+                             170 kV 1115   1115   1115    1135    1135            
+                             245 kV 1170   1170   1170    1190    1190            
+                                                                                  
+                             300 kV 1225   1225   1225    1245    1245            
+       Ölfüllmenge V des Ölgefäßes 123 kV 810 800 790     800     790             
+               S                                                                  
+       [dm3] ca.                                                                  
+                             170 kV 830    820    810     820     810             
+                             245 kV 900    890    880     890     880             
+                             300 kV 985    975    965     975     965             
+      Tabelle 14: Verdrängungsvolumen und Ölfüllmenge des Laststufenschalters     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      14    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 15/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Mindestvolumen des Ölausdehnungsgefäßes                                  
+                                                                                  
+         Bei den empfohlenen Werten sind folgenden Rahmenbedingungen zu Grunde gelegt:
+         ▪  Als Isoliermedium wird Mineralöl für Transformatoren nach IEC 60296 (Specification for unused mineral
+            insulating oils for transformers and switchgear) eingesetzt.          
+         ▪  Bei den Berechnungen wird ein Ausdehnungskoeffizienten γ = 0,0008 K-1 für das Mineralöl zu Grunde
+            gelegt. Hiermit wird eine größere Toleranz als in der Vergangenheit berücksichtigt.
+         ▪  Der Laststufenschalter kann im Temperaturbereich des umgebenden Transformatoröls von –25 °C bis
+            +105 °C und laut IEC 60214-1 bis +115 °C (bei Notbetrieb des Transformators gemäß IEC 60076-7) be-
+            trieben werden.                                                       
+                                                                                  
+          Höchste Spannung für Betriebsmittel Um (kV)  72,5…245   > 245           
+          Mindestnutzvolumen [dm³]                     200        220             
+          Mindestfüllmenge bei 20 °C [dm³]             35         45              
+                                                                                  
+         Tabelle 15: Mindestnutzvolumen und Mindestfüllmenge im Ölausdehnungsgefäß des Laststufenschalters
+         Weitere Details finden Sie in den „Technischen Daten – allgemeiner Teil“ (TD61).
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  15     
+                                                                                  
+                                                                                  
+
+===== PAGE 16/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.2 Stufenleistungsdiagramme                                                
+                                                                                  
+      Die folgenden Diagramme zeigen die Stufenleistungen (P ) in Abhängigkeit von der Bemessungsstufen-
+                                         StN                                      
+      spannung U und dem Bemessungsdurchgangsstrom I .                            
+              i                        u                                          
+      2.2.1 Stufenleistungsdiagramm bei Netzbetrieb und Prozessbetrieb            
+      OILTAP G III                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 5: Stufenleistungen (Bemessungsstufenspannung U bei Bemessungsdurchgangsstrom I)
+                                         i                   u                    
+          I Laststufenschalter OILTAP G III 1 602 Y mit kurzem Ölgefäß            
+          II Laststufenschalter OILTAP G III 1 602 Y mit langem Ölgefäß           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      16    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 17/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         OILTAP G I                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Abbildung 6: Stufenleistungen (Bemessungsstufenspannung Ui bei Bemessungsdurchgangsstrom Iu)
+                                                                                  
+                5 000 kVA: OILTAP G I 1 612 bis maximal 1 600 A                   
+                6 500 kVA: OILTAP G I 1 622 bis maximal 1 600 A                   
+                6 500 kVA: OILTAP G I 3 022 bis maximal 3 000 A                   
+                                                                                  
+                8 000 kVA: OILTAP G I 1 602 bis maximal 1 600 A                   
+                8 000 kVA: OILTAP G I 3 002 bis maximal 3 000 A                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  17     
+                                                                                  
+                                                                                  
+
+===== PAGE 18/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.2.2 Stufenleistungsdiagramm bei Lichtbogenofenbetrieb                     
+                                                                                  
+      OILTAP G III                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 7: Stufenleistungen (Bemessungsstufenspannung Ui bei Bemessungsdurchgangsstrom Iu)
+                                                                                  
+          I Laststufenschalter OILTAP G III 1 602 Y mit kurzem Ölgefäß            
+          II Laststufenschalter OILTAP G III 1 602 Y mit langem Ölgefäß           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      18    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 19/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         OILTAP G I                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Abbildung 8: Stufenleistungen (Bemessungsstufenspannung U bei Bemessungsdurchgangsstrom I)
+                                            i                   u                 
+                4 000 kVA: OILTAP G I 1 612 bis maximal 1 600 A                   
+                4 000 kVA: OILTAP G I 2 012 bis maximal 2 000 A                   
+                6 400 kVA: OILTAP G I 1 602 bis maximal 1 600 A                   
+                                                                                  
+                6 400 kVA: OILTAP G I 2 002 bis maximal 2 000 A                   
+                6 400 kVA: OILTAP G I 3 002 bis maximal 3 000 A                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  19     
+                                                                                  
+                                                                                  
+
+===== PAGE 20/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.3 Zulässige Spannungsbeanspruchungen                                      
+                                                                                  
+      Dieser Abschnitt beschreibt die zulässigen Spannungsbeanspruchungen von einphasigen und mehrphasi-
+      gen Laststufenschaltern.                                                    
+      Sie müssen bei der Auswahl des Laststufenschalters überprüfen, ob die höchsten auftretenden Beanspru-
+      chungen die zugehörigen Bemessungsstehspannungen an den Isolationsstrecken nicht überschreiten.
+                                                                                  
+                                                                                  
+      2.3.1 Übersicht Isolationsstrecken                                          
+                                                                                  
+                   ohne Vorwähler                 mit Wender                      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               mit Grobwähler in Position +   mit Grobwähler in Position -        
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                  Maximale Beanspruchung bei                      
+                                  Bemessungsstehblitzstoßspannung an              
+                                  a0 in Mittelstellung beachten!                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 9: Übersicht Isolationsstrecken                                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      20    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 21/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Anlenkschalter                                                           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          a0    zwischen gewählter und vorgewählter Anzapfung am Lastumschalter   
+          a1    zwischen Feinwählerkontakten der Wicklung einer Stufe (beschaltet oder unbeschaltet)
+          a     zwischen Anfang und Ende einer Feinstufenwicklung und bei Ausführung mit Grobstufenwicklung
+                auch zwischen Anfang und Ende einer Grobstufenwicklung.           
+                                                                                  
+                Hinweis für Grobstufenschaltung in Position (-) des Vorwählers:   
+                Bei Beanspruchung mit Stoßspannung ist die zulässige Stehspannung "a" zwischen dem mit dem
+                K-Feinwählerkontakt verbundenen Ende einer Grobstufenwicklung und dem Feinwählerkontakt
+                am Ende der Feinstufenwicklung der gleichen Phase zu beachten.    
+          b     zwischen den Feinwählerkontakten verschiedener Phasen und zwischen Vorwählerkontakten ver-
+                schiedener Phasen, die mit dem Anfang/Ende einer Feinstufenwicklung oder mit einem Feinwäh-
+                lerkontakt verbunden sind                                         
+          f     zwischen Lastumschalterableitung und Erde                         
+          Zusätzlich bei Potenzialanlenkung mit Anlenkschalter:                   
+                                                                                  
+          a5    zwischen geöffneten Kontakten des Anlenkschalters (Sonderausführung)
+          Zusätzlich bei Grobstufenschaltung in Position (+) des Vorwählers:      
+                                                                                  
+          c1    von einem Vorwählerkontakt (-) zur Ableitung der gleichen Phase   
+          c2    zwischen Vorwählerkontakten (-) verschiedener Phasen              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  21     
+                                                                                  
+                                                                                  
+
+===== PAGE 22/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.3.2 Bemessungsisolationspegel am Lastumschalter                           
+                                                                                  
+       Abkürzungen                                                                
+       U       Nach IEC 60214-1: Höchster Effektivwert einer Spannung zwischen zwei Phasen in einem
+        m                                                                         
+               dreiphasigen System, für den ein Laststufenschalter hinsichtlich seiner Isolation ausgelegt ist.
+       U       Höchste Betriebsspannung (Phase‑Phase) am Lastumschalter (kV)      
+        b                                                                         
+       LI      Vollwellenblitzstoßspannung (kV, 1,2/50 μs)                        
+       AC      Angelegte Spannung (kV, 50 Hz, 1 min)                              
+      Tabelle 16: Abkürzungen                                                     
+       Isolationsstrecke f                                                        
+                                                                                  
+            U            U           LI [kV, 1,2/50 μs] AC [kV, 50 Hz, 1 min]     
+             m            b                                                       
+            [kV]         [kV]                                                     
+            72,5         55               350                 140                 
+            123          79               550                 230                 
+            170          145              750                 325                 
+            245          170             1050                 460                 
+                                                                                  
+            300          245             1050                 460                 
+      Tabelle 17: OILTAP® G Isolationsstrecke f                                   
+                                                                                  
+       Isolationsstrecke a0                 Um ≤ 72,5 kV   Um > 72,5 kV           
+                                        ohne Überspannungs- mit ZnO-Ableiter      
+                                             ableiter                             
+       Blitzstoß (kV, 1,2/50 µs)              ≤ 140           ≤ 150               
+                                                                                  
+       Varistoransprechspannung (kV) bei Blitzstoß -          ≥ 55                
+       1,2/50 µs (U (t) ≠ U (t) )                                                 
+              100% normiert 75% normiert                                          
+       Restspannung (kV) bei 3 kA Stoßstrom     -             ≤ 120               
+       AC (kV, 50 Hz, 1 min)                   30              27                 
+      Tabelle 18: OILTAP® G Isolationsstrecke a0                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      22    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 23/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2.3.3 Bemessungsisolationspegel der inneren Isolation des Wählers        
+                                                                                  
+         Die Wählerbaureihe (Kennbuchstabe D, E) charakterisiert die innere Isolation des Wählers, dessen Bemes-
+         sungsstehspannungen den Erfordernissen der Transformatorwicklung angepasst sein müssen.
+         Die zulässige maximale Betriebsspannung an den einzelnen Wählerstrecken entspricht dem halben Wert
+         der unten aufgeführten „Angelegten Spannung AC (kV, 50 Hz, 1 min)“.      
+                                                                                  
+         Die nachfolgende Tabelle gilt für diese Laststufenschaltertypen mit Anschlussstücken 1 bis 3 nach Zeich-
+         nung 890741, Blatt 1, im Abschnitt „Wähler“ [► 45]:                      
+         ▪  OILTAP G III 1602 Y                                                   
+         ▪  OILTAP G I 1612                                                       
+         ▪  OILTAP G I 1622                                                       
+         ▪  OILTAP G I 1602                                                       
+                                                                                  
+         ▪  OILTAP G I 3022                                                       
+         ▪  OILTAP G I 3002                                                       
+           Isolationsstrecke Wählerbaureihe D      Wählerbaureihe E               
+                                                                                  
+                                          Teiligkeit des Feinwählers              
+                             10…16       10      12     14      16     18         
+                                                                                  
+            a1      LI        150                       150                       
+                    AC         30                       30                        
+             a      LI        500        680     660    645    630     560        
+                                                                                  
+                    AC        150                       180                       
+            b2)     LI        500        680     660    645    630     560        
+                    AC        150                       180                       
+                                                                                  
+            c1      LI        650                       850                       
+                    AC        235                       280                       
+                                                                                  
+            c22)    LI        680                       850                       
+                    AC        245                       280                       
+            a53)    LI        400                       400                       
+                                                                                  
+                    AC        120                       120                       
+         Tabelle 19: Bemessungsisolationspegel der inneren Isolation für Anschlussstücke 1 bis 3
+         2) Isolationsstrecken gelten nur für G III 1602 Y                        
+                                                                                  
+         3) Zwischen geöffneten Kontakten des Anlenkschalters (Sonderausführung)  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  23     
+                                                                                  
+                                                                                  
+
+===== PAGE 24/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Die nachfolgende Tabelle gilt für diese Laststufenschaltertypen mit Anschlussstücken 4 bis 7 nach Zeich-
+      nung 890741, Blatt 2, im Abschnitt „Wähler“ [► 45]:                         
+      ▪  OILTAP G III 1602 Y                                                      
+                                                                                  
+      ▪  OILTAP G I 1612                                                          
+      ▪  OILTAP G I 1622                                                          
+      ▪  OILTAP G I 1602                                                          
+      ▪  OILTAP G I 3022                                                          
+      ▪  OILTAP G I 3002                                                          
+                                                                                  
+         Isolationsstrecke Wählerbaureihe D       Wählerbaureihe E                
+                                       Teiligkeit des Feinwählers                 
+                                                                                  
+                             10…16        10       12      14       16            
+          a1      LI          150                      150                        
+                  AC          30                       30                         
+                                                                                  
+          a       LI          380                      420                        
+                  AC          120                      150                        
+                                                                                  
+          b2)     LI          380                      420                        
+                  AC          120                      150                        
+          c1      LI          490                      530                        
+                                                                                  
+                  AC          190                      190                        
+         c22)     LI          510                      530                        
+                  AC          200                      190                        
+                                                                                  
+         a53)     LI          400                      400                        
+                  AC          120                      120                        
+                                                                                  
+      Tabelle 20: Bemessungsisolationspegel der inneren Isolation für Anschlussstücke 4 bis 7
+      2) Isolationsstrecken gelten nur für G III 1602 Y                           
+                                                                                  
+      3) Zwischen geöffneten Kontakten des Anlenkschalters (Sonderausführung)     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      24    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 25/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technische Daten                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Laststufenschaltertyp:                                                   
+                                                                                  
+         Die nachfolgende Tabelle gilt für diesen Laststufenschaltertyp mit Kundenanschluss gemäß Zeichnung
+         895970 im Abschnitt „Maßzeichnungen“ [► 32]:                             
+         ▪  OILTAP G III 2002 Y                                                   
+            Isolationsstrecke Wählerbaureihe D       Wählerbaureihe E             
+                                                                                  
+                                           Teiligkeit des Feinwählers             
+                                10…16        10       12      14       16         
+                                                                                  
+             a1      LI          150                      150                     
+                     AC          30                       30                      
+             a       LI          410         540      520     500     480         
+                                                                                  
+                     AC          135                      150                     
+             b       LI          410         540      520     500     480         
+                     AC          135                      150                     
+                                                                                  
+             c1      LI          490                      700                     
+                     AC          185                      230                     
+                                                                                  
+             c22)    LI          500                      720                     
+                     AC          185                      230                     
+            a53)     LI          400                      400                     
+                                                                                  
+                     AC          120                      120                     
+         Tabelle 21: Bemessungsisolationspegel der inneren Isolation für OILTAP G III 2002 Y
+         3) Zwischen geöffneten Kontakten des Anlenkschalters (Sonderausführung)  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  25     
+                                                                                  
+                                                                                  
+
+===== PAGE 26/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                            2 Technische Daten    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.4 Kontaktlebensdauer                                                      
+                                                                                  
+      Die zu erwartende mittlere Kontaktlebensdauer der lichtbogenführenden Lastumschalterkontakte kann in Ab-
+      hängigkeit der relativen Belastung (I /I ) nach folgender Abbildung abgeschätzt werden. Da die tatsächliche
+                            u um                                                  
+      Kontaktlebensdauer im Einzelfall von vielen Einflussfaktoren des betrieblichen Einsatzes abhängt, sind nur
+      angenäherte Angaben möglich (gilt nicht für Konstantstrombetrieb).          
+      Detaillierte Informationen zur Kontaktlebensdauer und zum zulässigen Kontaktabbrand finden Sie in der ent-
+      sprechenden Wartungsanleitung.                                              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Abbildung 10: Zu erwartende mittlere Kontaktlebensdauer bei durchschnittlicher Belastung OILTAP® G
+      n – Schaltzahl                                                              
+                                                                                  
+      I – Bemessungsdurchgangsstrom                                               
+       u                                                                          
+      I – Max. Bemessungsdurchgangsstrom                                          
+       um                                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      26    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 27/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         3 Sonderausführungen                                                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         3  Sonderausführungen                                                    
+                                                                                  
+                                                                                  
+         3.1 Brücken zur Parallelschaltung von Wählerebenen                       
+                                                                                  
+         Parallelbrücken ermöglichen die Stromaufteilung an den Anschlusskontakten von 2 Wählerebenen und sind
+         nur für OILTAP G I 3002 und OILTAP G I 3022 erhältlich, siehe Zeichnung 894548 im Abschnitt „Wähler
+         [► 45]“.                                                                 
+         Parallelbrücken an den Wähleranschlusskontakten sind dann zwingend notwendig, wenn die Stufenwicklung
+         in zwei oder mehreren Teilleitern gewickelt worden ist und jeder dieser Teilstränge als Anzapfung zu An-
+         schlusskontakten des Wählers geführt wird.                               
+         Diese Maßnahme verhindert sicher Folgendes:                              
+         ▪  die Verschleppung von Ausgleichströmen in die Strombahnen von Wähler und Lastumschalter
+                                                                                  
+         ▪  einen Kommutierungslichtbogen an bewegten Wählerkontaktbrücken        
+         ▪  Überspannungen zwischen benachbarten parallelgeschalteten Wähleranschlusskontakten
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  27     
+                                                                                  
+                                                                                  
+
+===== PAGE 28/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                               4 Zeichnungen      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4 Zeichnungen                                                         
+                                                                                  
+                                                                                  
+            4.1 Grundschaltbilder, Kontaktbezeichnung nach MR-Standard            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      28    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 29/58 =====
+
+
+===== PAGE 30/58 =====
+
+
+===== PAGE 31/58 =====
+
+
+===== PAGE 32/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                           4.2 Maßzeichnungen     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.2 Maßzeichnungen                                                    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      32    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 33/58 =====
+
+
+===== PAGE 34/58 =====
+
+
+===== PAGE 35/58 =====
+
+
+===== PAGE 36/58 =====
+
+
+===== PAGE 37/58 =====
+
+
+===== PAGE 38/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                           4.3 Einbauzeichnung    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.3 Einbauzeichnung                                                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      38    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 39/58 =====
+
+
+===== PAGE 40/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                       4.4 Laststufenschalterkopf 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.4 Laststufenschalterkopf                                            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      40    OILTAP® G                 1800048/03 DE Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 41/58 =====
+
+
+===== PAGE 42/58 =====
+
+
+===== PAGE 43/58 =====
+
+
+===== PAGE 44/58 =====
+
+
+===== PAGE 45/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         4.5 Wähler                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               4.5 Wähler                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  45     
+                                                                                  
+                                                                                  
+
+===== PAGE 46/58 =====
+
+
+===== PAGE 47/58 =====
+
+
+===== PAGE 48/58 =====
+
+
+===== PAGE 49/58 =====
+
+
+===== PAGE 50/58 =====
+
+
+===== PAGE 51/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         4.6 Schaltbilder (Beispiele)                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               4.6 Schaltbilder (Beispiele)                                       
+                                                                                  
+               Nachfolgend finden Sie Beispiele zu den Schaltbildern.             
+                                                                                  
+               Das auftragsspezifische Schaltbild erhalten Sie mit der Lieferung. 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 DE     OILTAP® G  51     
+                                                                                  
+                                                                                  
+
+===== PAGE 52/58 =====
+
+
+===== PAGE 53/58 =====
+
+
+===== PAGE 54/58 =====
+
+
+===== PAGE 55/58 =====
+
+
+===== PAGE 56/58 =====
+
+
+===== PAGE 57/58 =====
+
+
+===== PAGE 58/58 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      MR worldwide                                                                
+                                                                                  
+      Australia             Malaysia                                              
+      Reinhausen Australia Pty. Ltd. Reinhausen Asia-Pacific Sdn. Bhd             
+      17/20-22 St Albans Road Level 11 Chulan Tower                               
+      Kingsgrove NSW 2208   No. 3 Jalan Conlay                                    
+      Phone: +61 2 9502 2202 50450 Kuala Lumpur                                   
+      Fax: +61 2 9502 2224  Phone: +60 3 2142 6481                                
+      E-Mail: sales@au.reinhausen.com Fax: +60 3 2142 6422                        
+                            E-Mail: mr_rap@my.reinhausen.com                      
+      Brazil                                                                      
+      MR do Brasil Indústria Mecánica Ltda. P.R.C. (China)                        
+      Av. Elias Yazbek, 465 MR China Ltd. (MRT)                                   
+      CEP: 06803-000        开德贸易（上海）有限公司                                          
+      Embu - São Paulo      中国上海浦东新区浦东南路360号                                      
+      Phone: +55 11 4785 2150 新上海国际大厦4楼E座                                         
+      Fax: +55 11 4785 2185 邮编： 200120                                            
+      E-Mail: vendas@reinhausen.com.br 电话：＋86 21 61634588                         
+                            传真：＋86 21 61634582                                    
+      Canada                邮箱：mr-sales@cn.reinhausen.com                         
+      Reinhausen Canada Inc. mr-service@cn.reinhausen.com                         
+      3755, rue Java, Suite 180                                                   
+      Brossard, Québec J4Y 0E4 Russian Federation                                 
+      Phone: +1 514 370 5377 OOO MR                                               
+      Fax: +1 450 659 3092  Naberezhnaya Akademika Tupoleva                       
+      E-Mail: m.foata@ca.reinhausen.com 15, Bld. 2 ("Tupolev Plaza")              
+                            105005 Moscow                                         
+      India                 Phone: +7 495 980 89 67                               
+      Easun-MR Tap Changers Ltd. (Joint Venture) Fax: +7 495 980 89 67            
+      612, CTH Road         E-Mail: mrr@reinhausen.ru                             
+      Tiruninravur, Chennai 602 024                                               
+      Phone: +91 44 26300883 South Africa                                         
+      Fax: +91 44 26390881  Reinhausen South Africa (Pty) Ltd.                    
+      E-Mail: service@easunmr.com No. 15, Third Street, Booysens Reserve          
+                            Johannesburg                                          
+      Indonesia             Phone: +27 11 8352077                                 
+      Pt. Reinhausen Indonesia Fax: +27 11 8353806                                
+      German Center, Suite 6310, E-Mail: support@za.reinhausen.com                
+      Jl. Kapt. Subijanto Dj.                                                     
+      BSD City, Tangerang   South Korea                                           
+      Phone: +62 21 5315-3183 Reinhausen Korea Ltd.                               
+      Fax: +62 21 5315-3184 21st floor, Standard Chartered Bank Bldg.,            
+      E-Mail: c.haering@id.reinhausen.com 47, Chongro, Chongro-gu,                
+                            Seoul 110-702                                         
+      Iran                  Phone: +82 2 767 4909                                 
+      Iran Transfo After Sales Services Co. Fax: +82 2 736 0049                   
+      (Joint Venture)       E-Mail: you-mi.jang@kr.reinhausen.com                 
+      Zanjan, Industrial Township No. 1 (Aliabad)                                 
+      Corner of Morad Str.  U.S.A.                                                
+      Postal Code 4533144551 Reinhausen Manufacturing Inc.                        
+      E-Mail: itass@iran-transfo.com 2549 North 9th Avenue                        
+                            Humboldt, TN 38343                                    
+      Italy                 Phone: +1 731 784 7681                                
+      Reinhausen Italia S.r.l. Fax: +1 731 784 7682                               
+      Via Alserio, 16       E-Mail: sales@reinhausen.com                          
+      20159 Milano                                                                
+      Phone: +39 02 6943471 United Arab Emirates                                  
+      Fax: +39 02 69434766  Reinhausen Middle East FZE                            
+      E-Mail: sales@it.reinhausen.com Dubai Airport Freezone, Building Phase 6    
+                            3rd floor, Office No. 6EB, 341 Dubai                  
+      Japan                 Phone: +971 4 2368 451                                
+      MR Japan Corporation  Fax: +971 4 2368 225                                  
+      German Industry Park  Email: service@ae.reinhausen.com                      
+      1-18-2 Hakusan, Midori-ku                                                   
+      Yokohama 226-0006                                                           
+      Phone: +81 45 929 5728                                                      
+      Fax: +81 45 929 5741                                                        
+      Luxembourg                                                                  
+      Reinhausen Luxembourg S.A.                                                  
+      72, Rue de Prés                                                             
+      L-7333 Steinsel                                                             
+      Phone: +352 27 3347 1                                                       
+      Fax: +352 27 3347 99                                                        
+      E-Mail: sales@lu.reinhausen.com                                             
+  Maschinenfabrik Reinhausen GmbH +49 (0)941 4090-0 www.reinhausen.com            
+  Falkensteinstrasse 8   +49(0)941 4090-7001                                      
+  93059 Regensburg       sales@reinhausen.com                                     
+  1800048/03 DE ▪ 07/18 ▪ F0019102                                                

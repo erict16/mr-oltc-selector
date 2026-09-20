@@ -1,0 +1,35 @@
+SOURCE_URL: https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/overview/oltc_technical_overview.pdf
+DOCUMENT_FILE: oltc_technical_overview.pdf
+PAGES: 1
+EXTRACTOR: pdfplumber layout
+
+
+
+===== PAGE 1/1 =====
+
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    Technical data                                                                                    OLTC                                                                                               OCTC                  
+    Technology                    Oil type                                                                      Vacuum type                                                                                                    
+                                                                                                                                                                                                                               
+    Assembly                                                                 In-tank                                                            Dry type                Bolt-on                                                
+    Switching principle                                                                      Resistor-type                                                                  Reactor-type                                       
+    Type                   OILTAP® V   OILTAP® G   ECOTAP® VPD® VACUTAP® VI VACUTAP® VV® VACUTAP® VVS VACUTAP® VM® VACUTAP® VR® VACUTAP® VRL® I VACUTAP® AVT VACUTAP® VT® VACUTAP® VBO® VACUTAP® RMV-II DEETAP® DU DEETAP® SPTM DEETAP® SPTL
+    Max. rated through-current                                                                                                                                                                                                 
+                                                                                                                                                                                                                               
+    1 phase                 350 A       4500 A        100 A        –          400 A*       –          1500 A    1600 A / 2600 A* 3200 A    –          500 A         –           –           4000 A       600 A       800 A     
+    3 phase                 350 A       2000 A        100 A       400 A       600 A       400 A       650 A       1600 A       –          170 A       500 A       400 A       2500 A        4000 A       600 A       800 A     
+    Max. rated step voltage 1500 V      5000 V        825 V       1500 V      2000 V      1300 V      3300 V   6000V / 12000 V* 6000 V    500 V       900 V       825 V       1000 V                                           
+    Max. step capacity                                                                                                                                                                                                         
+    1 phase                 525 kVA    6500 kVA      82.5 kVA      -         700 kVA       -         3500 kVA 6000 kVA / 12000 kVA* 10.000 kVA –      250 kVA      –            –                                              
+    3 phase                 525 kVA    5000 kVA      82.5 kVA    600 kVA     700 kVA     400 kVA     1625 kVA    6000 kVA      –          85 kVA      250 kVA     330 kVA     1625 kVA                                         
+                                                                                                                                                                                                                               
+    Highest voltage for Equipment Um 40 – 123 kV 72.5 – 362 kV 36 kV / 40.5 kV* 40 – 123 kV 40 – 145 kV 40 – 76 kV 72.5 – 300 kV 72.5 – 420 kV 72.5 – 420 kV 12 kV 40.5 kV 40 kV 15 – 72.5 kV 36 – 550 kV 72.5 – 170 kV 72.5 – 245 kV
+    Operating positions                                                                                                                                                                                                        
+    Without change-over selector 14 max. 18 max.      9 max.      14 max.     12 max.      –          22 max.     18 max.     18 max.     9 max.      9 max.      17 max.     17 max        17 max.    11/20* max. 9/20* max.  
+    With change-over selector 27 max.   35 max.      17 max**     27 max.     23 max.     19 max.     35 max.     35 max.     35 max.      –           –          33 max.     33 max.                                          
+    With multiple coarse change-over selector – –      –           –           –           –         107 max.     107 max.    107 max.     –           –           –            –                                              
+                                                  *40.5 only with 3 phases *600 A on request                  *Special design                                                                        *Special design *Special design
+                                                  **No change-over                                                                                                                                                             
+                                                  selector for 1 phase                                                                                                                                                         
+                                                  (max. 9 positions)                                                                                                                                                           

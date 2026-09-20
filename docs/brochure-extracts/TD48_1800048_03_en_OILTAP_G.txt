@@ -1,0 +1,2394 @@
+SOURCE: https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/oiltap_g/technical_data/td_g_1800048_03_en.pdf
+
+===== PAGE 1/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+     On-Load     Tap-Changer                                                      
+                                                                                  
+     OILTAP®      G                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+     Technical Data                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+     1800048/03 EN                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 2/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       © All rights reserved by Maschinenfabrik Reinhausen                        
+       Dissemination and reproduction of this document and use and disclosure of its content are strictly prohibited
+       unless expressly permitted.                                                
+       Infringements will result in liability for compensation. All rights reserved in the event of the granting of patents,
+       utility models or designs.                                                 
+       The product may have been altered since this document was published.       
+       We reserve the right to change the technical data, design and scope of supply.
+       Generally the information provided and agreements made when processing the individual quotations and orders
+       are binding.                                                               
+       The original operating instructions were written in German.                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 3/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Table of contents                                                        
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Table of contents                                                        
+                                                                                  
+                                                                                  
+         1    Introduction......................................................................................................................... 4
+                                                                                  
+         1.1  On-load tap-changer designations...................................................................................................... 5
+         1.1.1 Example for Type Designation: OILTAP G III 1602 Y – 72,5 / D – 10 19 1 WR.................................................... 5
+         1.2  On-load tap-changer models............................................................................................................... 7
+                                                                                  
+         1.3  Basic connection diagrams................................................................................................................ 10
+         2    Technical data................................................................................................................... 11
+                                                                                  
+         2.1  On-load tap-changer properties......................................................................................................... 11
+         2.2  Step capacity diagrams..................................................................................................................... 16
+         2.2.1 Step capacity diagram for network application and process operation............................................................... 16
+                                                                                  
+         2.2.2 Step capacity diagram with electrical arc furnace operation............................................................................... 18
+         2.3  Permitted voltage stresses................................................................................................................ 20
+         2.3.1 Insulation distances overview.............................................................................................................................. 20
+                                                                                  
+         2.3.2 Rated insulation level on diverter switch ............................................................................................................ 22
+         2.3.3 Rated insulation level of inner insulation of the selector..................................................................................... 23
+         2.4  Contact life......................................................................................................................................... 26
+                                                                                  
+         3    Special designs................................................................................................................. 27
+         3.1  Bridges for parallel connection of selector planes............................................................................. 27
+                                                                                  
+         4    Drawings............................................................................................................................ 28
+                                                                                  
+         4.1  Basic connection diagrams, contact designation according to MR standard.................................... 28
+         4.2  Dimensional drawings....................................................................................................................... 32
+         4.3  Installation drawing............................................................................................................................ 38
+                                                                                  
+         4.4  On-load tap-changer head................................................................................................................. 40
+         4.5  Selector............................................................................................................................................. 45
+         4.6  Connection diagrams (examples)...................................................................................................... 51
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  3      
+                                                                                  
+                                                                                  
+
+===== PAGE 4/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                1 Introduction    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      1 Introduction                                                              
+                                                                                  
+      This technical file contains detailed information about the technical properties of the product. Basic informa-
+      tion is given in the "Technical Data (TD 61) - General Section".            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      4     OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 5/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Introduction                                                           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1.1 On-load tap-changer designations                                     
+                                                                                  
+         Each type of on-load tap-changer is available in a number of models, offering a different number of phases,
+         maximum rated through-current, highest voltage for equipment U , selector size and basic connection dia-
+                                                 m                                
+         gram. The designation of a particular on-load tap-changer model therefore depends on these features,
+         hence ensuring an unmistakable and non-interchangeable on-load tap-changer designation.
+         1.1.1 Example for Type Designation: OILTAP G III 1602 Y – 72,5 / D – 10 19 1 WR
+                                                                                  
+          Designation Definition         Design                  Parameter        
+          OILTAP G   Type                OILTAP G                   G             
+          III        Number of phases    1 phase                    I             
+                                                                                  
+                                         3 phases                   III           
+          1602       I [A] = maximum rated G III 1602 Y            1600           
+                     rm                                                           
+                     through-current                                              
+                                         G III 2002 Y              2000           
+                                         G I 1612                  1600           
+                                         G I 1622                  1600           
+                                         G I 3022                  3000           
+                                         G I 3002                  3000           
+          1602       Number of equipped sectors 3                   0             
+                                                                                  
+                                         2                          2             
+                                         1                          1             
+          1602       Development status  1                          1             
+                                                                                  
+                                         2 (currently)              2             
+          Y          Applications        For use with neutral point only Y        
+                                                                                  
+          72.5       U [kV] = highest voltage for                  72.5           
+                      m                                                           
+                     equipment1)                                                  
+                                                                   123            
+                                                                   170            
+                                                                   245            
+                                                                   3002)          
+          D          Selector size                                  D             
+                                                                    E             
+         Table 1: Explanation of type designation (1)                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  5      
+                                                                                  
+                                                                                  
+
+===== PAGE 6/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                1 Introduction    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       Designation Definition         Design                 Parameter            
+       10        Number of maximum operating Pitch of tap selector contact circle:
+                 positions without change-over                                    
+                                                10               10               
+                 selector                                                         
+                                                12               12               
+                                                14               14               
+                                                16               16               
+                                                18              183)              
+       19        Number of maximum operating                                      
+                 positions with change-over se-                                   
+                 lector                                                           
+                                       Pitch of tap selector contact circle:      
+                                                                                  
+                                                10               19               
+                                                12               23               
+                                                14               27               
+                                                                                  
+                                                16               31               
+                                                18              353)              
+                                                                                  
+       1W        Mid-positions        0 mid-positions (without change-over 0      
+                                      selector)                                   
+                                      1 mid-position             1                
+                                      3 mid-positions            3                
+                                                                                  
+       1W        Change-over selector Reversing change-over selector W            
+                                      Coarse tap connection      G                
+       R         Type of potential connection4) Attached tie-in resistors R       
+                                                                                  
+                                      Tie-in switches and tie-in resistors S      
+                                      on board                                    
+                                      Tie-in switches with attached tie-in P      
+                                      resistors                                   
+      Table 2: Explanation of type designation (2)                                
+                                                                                  
+      1) In accordance with IEC 60214-1:2003, chapter 3.57: Highest effective value for phase-to-phase voltage in
+      a three-phase system for which an on-load tap-changer is designed with respect to its insulation.
+      2) Higher values on request.                                                
+                                                                                  
+      3) Pitch of 18 not available for all types, also refer to summary tables in chapter Rated insulation level of inner
+      insulation of the selector [► 23].                                          
+      4)In the past, the potential connection was also referred to as the polarity measure, and the tie-in switch as
+      the polarity switch.                                                        
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      6     OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 7/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Introduction                                                           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1.2 On-load tap-changer models                                           
+                                                                                  
+         You will find an overview of the OILTAP® G models below.                 
+                                                                                  
+         On-load tap-changer G III 1602 Y, with and without change-over selector  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Figure 1: Installation length below cover G III 1 602 Y                  
+         Only for the G III 1602 Y type is there a second design with a 130 mm shorter oil compartment in addition to
+         the standard design. The length of the oil compartment depends on the performance data selected and can
+         be seen in the step capacity diagram [► 16].                             
+         Dimension h = installation length below cover:                           
+                                                                                  
+           Highest voltage     Selector size D            Selector size E         
+          for equipment U                                                         
+                     m Short oil compart- Long oil compart- Short oil compart- Long oil compart-
+               [kV]                                                               
+                            ment         ment         ment          ment          
+               72.5         2 701        2 831        3 147        3 277          
+               123          2 746        2 876        3 192        3 322          
+               170          2 885        3 015        3 331        3 461          
+               245          2 985        3 115        3 431        3 561          
+         Table 3: Installation length below cover for G III 1602 Y                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  7      
+                                                                                  
+                                                                                  
+
+===== PAGE 8/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                1 Introduction    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      On-load tap-changer G III 2002 Y, with and without change-over selector     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 2: Installation length below cover for G III 2002 Y                  
+      Dimension h = installation length below cover:                              
+                                                                                  
+       Highest voltage for equipment U [kV] Selector size D Selector size E       
+                             m                                                    
+                   72.5                  2 889              3 335                 
+                   123                   2 934              3 380                 
+                   170                   3 073              3 519                 
+                                                                                  
+                   245                   3 173              3 619                 
+      Table 4: Installation length below cover for G III 2002 Y                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      8     OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 9/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         1 Introduction                                                           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         On-load tap-changer G I 1612, G I 1622, G I 1602, with and without change-over selector
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Figure 3: Installation length below cover for G I 1612, G I 1622, G I 1602
+         Dimension h = installation length below cover:                           
+                                                                                  
+           Highest voltage for equipment U [kV] Selector size D Selector size E   
+                                m                                                 
+                      123                   2 410              2 656              
+                      170                   2 549              2 795              
+                      245                   2 649              2 895              
+                                                                                  
+                      300                   2 768              3 014              
+         Table 5: Installation length below cover for G I 1612, G I 1622, G I 1602
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  9      
+                                                                                  
+                                                                                  
+
+===== PAGE 10/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                1 Introduction    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      On-load tap-changer G I 3022, G I 3002, with and without change-over selector
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 4: Installation length below cover for G I 3022, G I 3002            
+      Dimension h = installation length below cover:                              
+                                                                                  
+        Highest voltage for equipment U [kV] Selector size D Selector size E      
+                             m                                                    
+                   123                   2 710              2 956                 
+                   170                   2 849              3 095                 
+                   245                   2 949              3 195                 
+                                                                                  
+                   300                   3 068              3 314                 
+      Table 6: Installation length below cover for G I 3022, G I 3002             
+      If there is a potential connection fitted, the height h is extended by the amount stated in the dimensional
+      drawings [► 32].                                                            
+                                                                                  
+                                                                                  
+      1.3 Basic connection diagrams                                               
+      In the Drawings [► 28] chapter you will find some examples of the on-load tap-changer's basic connec-
+      tions with designation of selector connection contacts in accordance with MR standard.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      10    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 11/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2  Technical data                                                        
+                                                                                  
+                                                                                  
+         2.1 On-load tap-changer properties                                       
+                                                                                  
+          General technical data                                                  
+          Rated frequency (Hz) 50...60                                            
+          Operating positions Without change-over selector: maximum of 16 (18)1)  
+                             with change-over selector: maximum of 31 (35)1)      
+                                                                                  
+          Rated withstand voltages of See tables [► 23]                           
+          the internal insulation                                                 
+          Compressive strength Oil compartment pressure-tight up to 0.3 bar permanent differential pressure
+                             (test pressure 0.6 bar), head and cover of the on-load tap-changer are vac-
+                             uum-proof.                                           
+          Oil suction pipe   Installed as standard (for details, see operating instructions OI 18 – oil filter
+                             unit OF 100)                                         
+          Air temperature during opera- - 25 °C…+ 50 °C                           
+          tion                                                                    
+                                                                                  
+          Oil temperature during opera- The on-load tap-changer OILTAP® G can be operated in the temperature
+          tion               range of the surrounding transformer oil of between –25 °C and +105 °C
+                             and up to +115 °C in accordance with IEC 60214-1 (during emergency
+                             transformer operation in accordance with IEC 60076-7). For details of oper-
+                             ation under arctic conditions, please refer to the General Technical Data for
+                             TD 61.                                               
+          Transport temperature, stor- - 40 °C…+ 50 °C                            
+          age temperature                                                         
+          Installation height of the oil See technical data TD 61 – General Section
+          conservator                                                             
+          Installation height above sea See technical data TD 61 – General Section
+          level                                                                   
+          Dimensions         See associated dimensional drawings [► 32]           
+                                                                                  
+         Table 7: General technical data                                          
+         1) Pitch of 18 not available for all types, also refer to summary tables in chapter Rated insulation level of inner
+         insulation of the selector [► 23].                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  11     
+                                                                                  
+                                                                                  
+
+===== PAGE 12/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       Type-dependent technical data     G III 1602 Y       G III 2002 Y          
+       Number of phases and application     3                  3                  
+                                        (neutral point)    (neutral point)        
+       Maximum rated through current I (A) 1600               2000                
+                           um                                                     
+       Rated short-time current (kA)       24                 24                  
+       Rated duration of short-circuits (s) 3                  3                  
+       Rated peak withstand current (kA)   60                 60                  
+                                                                                  
+       Maximum rated step voltage U (V)1)  5000               5000                
+                         in                                                       
+       Step capacity P (kVA)               5000               5000                
+                StN                                                               
+      Table 8: Type-dependent technical data (1)                                  
+      1) The maximum rated step voltage may be exceeded by 10 % due to overexcitation of the transformer if the
+      step capacity is limited to its rated value.                                
+       Type-dependent technical data G I 1612 G I 1622 G I 1602 G I 3022 G I 3002 
+       Number of phases and application 1     1      1       1       1            
+       Maximum rated through-current I (A) 1600 1600 1600   3000   3000           
+                           um                                                     
+       Rated short-time current (kA)  24     24      24      30     30            
+       Rated duration of short-circuits (s) 3 3      3       3       3            
+       Rated peak withstand current (kA) 60  60      60      75     75            
+                                                                                  
+       Maximum rated step voltage U (V)1) 5000 5000 5000    5000   5000           
+                         in                                                       
+       Step capacity P (kVA)         5000    6500   8000    6500   8000           
+                StN                                                               
+      Table 9: Type-dependent technical data (2)                                  
+      1) The maximum rated step voltage may be exceeded by 10 % due to overexcitation of the transformer if the
+      step capacity is limited to its rated value.                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      12    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 13/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Weights of on-load tap-changer and selector                              
+                                                                                  
+          Weight of on-load tap-changer 72.5 kV 123 kV 170 kV 245 kV  300 kV      
+          Weight of diverter switch insert [kg] approx. 520 530 540 550 560       
+                                                                                  
+          Weight of oil compartment + head [kg] ap- 490 500 520 530    540        
+          prox.                                                                   
+          Weight of bell-type tank flange               150                       
+          (if present) [kg] approx.                                               
+         Table 10: Weight of on-load tap-changer (by voltage)                     
+                                                                                  
+          Weight of selector                G III 1602 Y       G III 2002 Y       
+          Weight of selector [kg] Without change- 580            700              
+          approx.         over selector                                           
+                          with change-over    800                900              
+                          selector                                                
+                                                                                  
+          Weight of tie-in switch (if present) [kg] ap- 80                        
+          prox.                                                                   
+          Weight of cylinder with tie-in resistors, per 50                        
+          item (if present) [kg] approx.                                          
+         Table 11: Weight of selector (1)                                         
+                                                                                  
+          Weight of selector           G I 1612 G I 1622 G I 1602 G I 3022 G I 3002
+          Weight of selector [kg] Without change- 470 470 470  510     510        
+          approx.         over selector                                           
+                          with change-over 650  650     650    750     750        
+                          selector                                                
+                                                                                  
+          Weight of tie-in switch (if present) [kg] ap- 80                        
+          prox.                                                                   
+          Weight of cylinder with tie-in resistors, per 50                        
+          item (if present) [kg] approx.                                          
+         Table 12: Weight of selector (2)                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  13     
+                                                                                  
+                                                                                  
+
+===== PAGE 14/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Displacement and oil fill capacity of on-load tap-changer                   
+                                                                                  
+      Only for the G III 1602 Y type is there a second design with a 130 mm shorter oil compartment in addition to
+      the standard design. The length of the oil compartment depends on the performance data selected and can
+      be seen in the step capacity diagram [► 16].                                
+       On-load tap-changer            G III 1602 Y G III 1602 Y G III 2002 Y      
+                                    short oil compart- long oil compart-          
+                                        ment         ment                         
+       Displacement [dm³] approx. 72.5 kV 1000       1067        1067             
+                                                                                  
+                             123 kV     1025         1092        1092             
+                             170 kV     1100         1167        1167             
+                             245 kV     1155         1222        1222             
+                                                                                  
+       Oil fill capacity V of oil compart- 72.5 kV 690 750        750             
+                 S                                                                
+       ment [dm3] approx.                                                         
+                             123 kV     730           790         790             
+                             170 kV     750           810         810             
+                             245 kV     820           880         880             
+      Table 13: Displacement and oil fill capacity of on-load tap-changer         
+       On-load tap-changer          G I 1612 G I 1622 G I 1602 G I 3022 G I 3002  
+       Displacement [dm³] approx. 123 kV 1040 1040 1040   1060    1060            
+                                                                                  
+                             170 kV 1115   1115   1115    1135    1135            
+                             245 kV 1170   1170   1170    1190    1190            
+                             300 kV 1225   1225   1225    1245    1245            
+                                                                                  
+       Oil fill capacity V of oil compart- 123 kV 810 800 790 800 790             
+                 S                                                                
+       ment [dm3] approx.                                                         
+                             170 kV 830    820    810     820     810             
+                             245 kV 900    890    880     890     880             
+                             300 kV 985    975    965     975     965             
+      Table 14: Displacement and oil fill capacity of on-load tap-changer         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      14    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 15/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Minimum oil conservator volume                                           
+                                                                                  
+         The recommended values are based on the following conditions:            
+         ▪  Mineral oil for transformers as per IEC 60296 (Specification for unused mineral insulating oils for trans-
+            formers and switchgear) is used as the insulating medium.             
+         ▪  Calculations are based on an expansion coefficient of γ = 0.0008 K-1 for the mineral oil. This is a greater
+            tolerance than has been used in the past.                             
+         ▪  The on-load tap-changer can be operated in the temperature range of the surrounding transformer oil of
+            between –25 °C and +105 °C and up to +115 °C in accordance with IEC 60214-1 (during emergency
+            transformer operation in accordance with IEC 60076-7).                
+                                                                                  
+          Highest voltage for equipment Um (kV)        72.5…245   > 245           
+          Minimum useable volume [dm³]                 200        220             
+          Minimum fill volume at 20 °C [dm³]           35         45              
+                                                                                  
+         Table 15: Minimum useable volume and minimum fill volume of oil conservator of on-load tap-changer
+         You can find more details in the "Technical data – general section" (TD61).
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  15     
+                                                                                  
+                                                                                  
+
+===== PAGE 16/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.2 Step capacity diagrams                                                  
+                                                                                  
+      The following diagrams show the step capacities (P ) depending on rated step voltage U and rated
+                                      StN                    i                    
+      through-current I .                                                         
+                u                                                                 
+      2.2.1 Step capacity diagram for network application and process operation   
+      OILTAP G III                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 5: Step capacities (rated step voltage U with rated through-current I)
+                                i              u                                  
+          I On-load tap-changer OILTAP G III 1 602 Y with short oil compartment   
+          II On-load tap-changer OILTAP G III 1 602 Y with long oil compartment   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      16    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 17/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         OILTAP G I                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Figure 6: Step capacities (rated step voltage Ui with rated through-current Iu)
+                                                                                  
+                5,000 kVA: OILTAP G I 1 612 up to a maximum of 1,600 A            
+                6,500 kVA: OILTAP G I 1 622 up to a maximum of 1,600 A            
+                6,500 kVA: OILTAP G I 3 022 up to a maximum of 3,000 A            
+                                                                                  
+                8,000 kVA: OILTAP G I 1 602 up to a maximum of 1,600 A            
+                8,000 kVA: OILTAP G I 3 002 up to a maximum of 3,000 A            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  17     
+                                                                                  
+                                                                                  
+
+===== PAGE 18/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.2.2 Step capacity diagram with electrical arc furnace operation           
+                                                                                  
+      OILTAP G III                                                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 7: Step capacities (rated step voltage Ui with rated through-current Iu)
+                                                                                  
+          I On-load tap-changer OILTAP G III 1 602 Y with short oil compartment   
+          II On-load tap-changer OILTAP G III 1 602 Y with long oil compartment   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      18    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 19/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         OILTAP G I                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Figure 8: Step capacities (rated step voltage U with rated through-current I)
+                                   i              u                               
+                4,000 kVA: OILTAP G I 1 612 up to a maximum of 1,600 A            
+                4,000 kVA: OILTAP G I 2 012 up to maximum of 2,000 A              
+                6,400 kVA: OILTAP G I 1 602 up to a maximum of 1,600 A            
+                                                                                  
+                6,400 kVA: OILTAP G I 2 002 up to maximum of 2,000 A              
+                6,400 kVA: OILTAP G I 3 002 up to a maximum of 3,000 A            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  19     
+                                                                                  
+                                                                                  
+
+===== PAGE 20/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.3 Permitted voltage stresses                                              
+                                                                                  
+      This section describes the permitted voltage stresses of single-phase and multiphase on-load tap-changers.
+                                                                                  
+      When selecting the on-load tap-changer, you must check that the highest stresses do not exceed the related
+      rated withstand voltages at the insulation distances.                       
+                                                                                  
+      2.3.1 Insulation distances overview                                         
+                                                                                  
+               without change-over selector with reversing change-over selector   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          with coarse change-over selector in position + with coarse change-over selector in position -
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                  Note maximum stress with rated                  
+                                  lightning impulse withstand voltage at a0       
+                                  in mid-position!                                
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 9: Insulation distances overview                                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      20    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 21/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Tie-in switches                                                          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          a0    Between selected and preselected tap on the diverter switch       
+          a1    Between tap selector contacts of the winding of one tap position (connected or not connected)
+          a     Between beginning and end of a tap winding and, for a coarse winding model, also between be-
+                ginning and end of a coarse winding.                              
+                                                                                  
+                Note for coarse tap selector connection in position (-) of the change-over selector:
+                When stressed with impulse voltage, the permissible withstand voltage "a" between the end of a
+                coarse winding connected with the K tap selector contact and the tap selector contact at the end
+                of the tap winding of the same phase must be adhered to.          
+          b     Between the tap selector contacts of different phases and between change-over selector contacts
+                of different phases, which are connected with the beginning/end of a tap winding or with a tap se-
+                lector contact                                                    
+          f     Between diverter switch output terminal and ground                
+          Additionally for potential connection with tie-in switch:               
+                                                                                  
+          a5    Between open contacts of the tie-in switch (special design)       
+          Additionally for coarse tap selector connection in position (+) of the change-over selector:
+                                                                                  
+          c1    From one change-over selector contact (-) to take-off lead of the same phase
+          c2    Between change-over selector contacts (-) of different phases     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  21     
+                                                                                  
+                                                                                  
+
+===== PAGE 22/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.3.2 Rated insulation level on diverter switch                             
+                                                                                  
+       Abbreviations                                                              
+       U       In accordance with IEC 60214-1: highest effective value for phase-to-phase voltage in a
+        m                                                                         
+               three-phase system for which an on-load tap-changer is designed with respect to its insula-
+               tion.                                                              
+       U       Highest operating voltage (phase‑phase) on the diverter switch (kV)
+        b                                                                         
+       LI      Full wave lightning impulse (kV, 1.2/50 μs)                        
+       AC      Applied voltage (kV, 50 Hz, 1 min)                                 
+      Table 16: Abbreviations                                                     
+       Insulation distance f                                                      
+                                                                                  
+            U            U           LI [kV, 1.2/50 μs] AC [kV, 50 Hz, 1 min]     
+             m            b                                                       
+            [kV]         [kV]                                                     
+            72.5         55               350                 140                 
+            123          79               550                 230                 
+            170          145              750                 325                 
+            245          170             1050                 460                 
+                                                                                  
+            300          245             1050                 460                 
+      Table 17: OILTAP® G insulation distance f                                   
+                                                                                  
+       Insulation distance a0               Um ≤ 72.5 kV   Um > 72.5 kV           
+                                         without surge arrester With ZnO conductor
+       Lightning impulse (kV, 1.2/50 µs)      ≤ 140           ≤ 150               
+                                                                                  
+       Varistor response voltage (kV) for lightning impulse - ≥ 55                
+       1.2/50 µs (U (t) ≠ U (t) )                                                 
+              100% standardized 75% standardized                                  
+       Residual voltage (kV) at 3 kA peak current -           ≤ 120               
+       AC (kV, 50 Hz, 1 min)                   30              27                 
+      Table 18: OILTAP® G insulation distance a0                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      22    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 23/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2.3.3 Rated insulation level of inner insulation of the selector         
+                                                                                  
+         The selector size (ID letters D, E) characterizes the internal insulation of the selector, whose rated withstand
+         voltages must be matched to the requirements of the transformer winding. 
+         The permissible maximum operating voltage on the individual selector distances corresponds to half the val-
+         ue of the "Applied voltage AC (kV, 50 Hz, 1 min)" values listed below.   
+                                                                                  
+         The following table applies to these on-load tap-changer types with connecting pieces 1 to 3 in accordance
+         with drawing 890741, sheet 1, in the "Selectors" section [► 45]:         
+         ▪  OILTAP G III 1602 Y                                                   
+         ▪  OILTAP G I 1612                                                       
+         ▪  OILTAP G I 1622                                                       
+         ▪  OILTAP G I 1602                                                       
+                                                                                  
+         ▪  OILTAP G I 3022                                                       
+         ▪  OILTAP G I 3002                                                       
+           Insulation distance Selector size D      Selector size E               
+                                                                                  
+                                       Pitch of tap selector contact circle       
+                             10…16       10      12     14      16     18         
+                                                                                  
+            a1      LI        150                       150                       
+                    AC         30                       30                        
+             a      LI        500        680     660    645    630     560        
+                                                                                  
+                    AC        150                       180                       
+            b2)     LI        500        680     660    645    630     560        
+                    AC        150                       180                       
+                                                                                  
+            c1      LI        650                       850                       
+                    AC        235                       280                       
+                                                                                  
+            c22)    LI        680                       850                       
+                    AC        245                       280                       
+            a53)    LI        400                       400                       
+                                                                                  
+                    AC        120                       120                       
+         Table 19: Rated insulation level of the inner insulation for connecting pieces 1 to 3
+         2) Insulation distances only apply to G III 1602 Y                       
+                                                                                  
+         3) Between open contacts of the tie-in switch (special design)           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  23     
+                                                                                  
+                                                                                  
+
+===== PAGE 24/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      The following table applies to these on-load tap-changer types with connecting pieces 4 to 7 in accordance
+      with drawing 890741, sheet 2, in the "Selectors" section [► 45]:            
+      ▪  OILTAP G III 1602 Y                                                      
+                                                                                  
+      ▪  OILTAP G I 1612                                                          
+      ▪  OILTAP G I 1622                                                          
+      ▪  OILTAP G I 1602                                                          
+      ▪  OILTAP G I 3022                                                          
+      ▪  OILTAP G I 3002                                                          
+                                                                                  
+        Insulation distance Selector size D        Selector size E                
+                                     Pitch of tap selector contact circle         
+                                                                                  
+                             10…16        10       12      14       16            
+          a1      LI          150                      150                        
+                  AC          30                       30                         
+                                                                                  
+          a       LI          380                      420                        
+                  AC          120                      150                        
+                                                                                  
+          b2)     LI          380                      420                        
+                  AC          120                      150                        
+          c1      LI          490                      530                        
+                                                                                  
+                  AC          190                      190                        
+         c22)     LI          510                      530                        
+                  AC          200                      190                        
+                                                                                  
+         a53)     LI          400                      400                        
+                  AC          120                      120                        
+                                                                                  
+      Table 20: Rated insulation level of the inner insulation for connecting pieces 4 to 7
+      2) Insulation distances only apply to G III 1602 Y                          
+                                                                                  
+      3) Between open contacts of the tie-in switch (special design)              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      24    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 25/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         2 Technical data                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         On-load tap-changer type:                                                
+                                                                                  
+         The following table applies to this on-load tap-changer type with customer connection in accordance with
+         drawing 895970 in the "Dimensional drawings" section [► 32]:             
+         ▪  OILTAP G III 2002 Y                                                   
+            Insulation distance Selector size D       Selector size E             
+                                                                                  
+                                        Pitch of tap selector contact circle      
+                                10…16        10       12      14       16         
+                                                                                  
+             a1      LI          150                      150                     
+                     AC          30                       30                      
+             a       LI          410         540      520     500     480         
+                                                                                  
+                     AC          135                      150                     
+             b       LI          410         540      520     500     480         
+                     AC          135                      150                     
+                                                                                  
+             c1      LI          490                      700                     
+                     AC          185                      230                     
+                                                                                  
+             c22)    LI          500                      720                     
+                     AC          185                      230                     
+            a53)     LI          400                      400                     
+                                                                                  
+                     AC          120                      120                     
+         Table 21: Rated insulation level of inner insulation for OILTAP G III 2002 Y
+         3) Between open contacts of the tie-in switch (special design)           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  25     
+                                                                                  
+                                                                                  
+
+===== PAGE 26/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                              2 Technical data    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      2.4 Contact life                                                            
+                                                                                  
+      The anticipated, average contact life of the diverter switch contacts guiding the arc can be estimated using
+      the following illustration depending on the relative loading (I /I ). Because the actual contact life depends on
+                                          u um                                    
+      many factors arising during operational use, only approximate figures are possible (does not apply to con-
+      stant current operation).                                                   
+      Detailed information on the contact life and the permissible contact wear is to be found in the corresponding
+      maintenance manual.                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      Figure 10: Anticipated, average contact life with average OILTAP® G loading 
+      n – number of tap-change operations                                         
+                                                                                  
+      I – rated through-current                                                   
+       u                                                                          
+      I – max. rated through-current                                              
+       um                                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      26    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 27/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         3 Special designs                                                        
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         3  Special designs                                                       
+                                                                                  
+                                                                                  
+         3.1 Bridges for parallel connection of selector planes                   
+                                                                                  
+         Parallel bridges enable current splitting to the connection contacts of 2 selector planes and are only available
+         for OILTAP G I 3002 and OILTAP G I 3022, see drawing 894548 in the "Selectors" section [► 45].
+         Parallel bridges on the selector connection contacts are mandatory if the tap winding has been wound in two
+         or more branches and each of these branch taps is connected to the contacts of the selector.
+         This measure reliably prevents the following:                            
+                                                                                  
+         ▪  Introduction of equalizing currents into the current paths of selector and diverter switch
+         ▪  Commutating arc on movable selector contact bridges                   
+         ▪  Overvoltage between adjacent selector connection contacts connected in parallel
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  27     
+                                                                                  
+                                                                                  
+
+===== PAGE 28/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                 4 Drawings       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4 Drawings                                                            
+                                                                                  
+                                                                                  
+            4.1 Basic connection diagrams, contact designation according to MR    
+            standard                                                              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      28    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 29/58 =====
+
+
+
+===== PAGE 30/58 =====
+
+
+
+===== PAGE 31/58 =====
+
+
+
+===== PAGE 32/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                        4.2 Dimensional drawings  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.2 Dimensional drawings                                              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      32    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 33/58 =====
+
+
+
+===== PAGE 34/58 =====
+
+
+
+===== PAGE 35/58 =====
+
+
+
+===== PAGE 36/58 =====
+
+
+
+===== PAGE 37/58 =====
+
+
+
+===== PAGE 38/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                         4.3 Installation drawing 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.3 Installation drawing                                              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      38    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 39/58 =====
+
+
+
+===== PAGE 40/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                     4.4 On-load tap-changer head 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            4.4 On-load tap-changer head                                          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      40    OILTAP® G                 1800048/03 EN Maschinenfabrik Reinhausen GmbH 2018
+                                                                                  
+                                                                                  
+
+===== PAGE 41/58 =====
+
+
+
+===== PAGE 42/58 =====
+
+
+
+===== PAGE 43/58 =====
+
+
+
+===== PAGE 44/58 =====
+
+
+
+===== PAGE 45/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         4.5 Selector                                                             
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               4.5 Selector                                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  45     
+                                                                                  
+                                                                                  
+
+===== PAGE 46/58 =====
+
+
+
+===== PAGE 47/58 =====
+
+
+
+===== PAGE 48/58 =====
+
+
+
+===== PAGE 49/58 =====
+
+
+
+===== PAGE 50/58 =====
+
+
+
+===== PAGE 51/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         4.6 Connection diagrams (examples)                                       
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               4.6 Connection diagrams (examples)                                 
+                                                                                  
+               The connection diagrams contained herein are just examples.        
+                                                                                  
+               The order-specific connection diagram is enclosed with the delivery.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+         Maschinenfabrik Reinhausen GmbH 2018 1800048/03 EN     OILTAP® G  51     
+                                                                                  
+                                                                                  
+
+===== PAGE 52/58 =====
+
+
+
+===== PAGE 53/58 =====
+
+
+
+===== PAGE 54/58 =====
+
+
+
+===== PAGE 55/58 =====
+
+
+
+===== PAGE 56/58 =====
+
+
+
+===== PAGE 57/58 =====
+
+
+
+===== PAGE 58/58 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      MR worldwide                                                                
+                                                                                  
+      Australia             Malaysia                                              
+      Reinhausen Australia Pty. Ltd. Reinhausen Asia-Pacific Sdn. Bhd             
+      17/20-22 St Albans Road Level 11 Chulan Tower                               
+      Kingsgrove NSW 2208   No. 3 Jalan Conlay                                    
+      Phone: +61 2 9502 2202 50450 Kuala Lumpur                                   
+      Fax: +61 2 9502 2224  Phone: +60 3 2142 6481                                
+      E-Mail: sales@au.reinhausen.com Fax: +60 3 2142 6422                        
+                            E-Mail: mr_rap@my.reinhausen.com                      
+      Brazil                                                                      
+      MR do Brasil Indústria Mecánica Ltda. P.R.C. (China)                        
+      Av. Elias Yazbek, 465 MR China Ltd. (MRT)                                   
+      CEP: 06803-000        开德贸易（上海）有限公司                                          
+      Embu - São Paulo      中国上海浦东新区浦东南路360号                                      
+      Phone: +55 11 4785 2150 新上海国际大厦4楼E座                                         
+      Fax: +55 11 4785 2185 邮编： 200120                                            
+      E-Mail: vendas@reinhausen.com.br 电话：＋86 21 61634588                         
+                            传真：＋86 21 61634582                                    
+      Canada                邮箱：mr-sales@cn.reinhausen.com                         
+      Reinhausen Canada Inc. mr-service@cn.reinhausen.com                         
+      3755, rue Java, Suite 180                                                   
+      Brossard, Québec J4Y 0E4 Russian Federation                                 
+      Phone: +1 514 370 5377 OOO MR                                               
+      Fax: +1 450 659 3092  Naberezhnaya Akademika Tupoleva                       
+      E-Mail: m.foata@ca.reinhausen.com 15, Bld. 2 ("Tupolev Plaza")              
+                            105005 Moscow                                         
+      India                 Phone: +7 495 980 89 67                               
+      Easun-MR Tap Changers Ltd. (Joint Venture) Fax: +7 495 980 89 67            
+      612, CTH Road         E-Mail: mrr@reinhausen.ru                             
+      Tiruninravur, Chennai 602 024                                               
+      Phone: +91 44 26300883 South Africa                                         
+      Fax: +91 44 26390881  Reinhausen South Africa (Pty) Ltd.                    
+      E-Mail: service@easunmr.com No. 15, Third Street, Booysens Reserve          
+                            Johannesburg                                          
+      Indonesia             Phone: +27 11 8352077                                 
+      Pt. Reinhausen Indonesia Fax: +27 11 8353806                                
+      German Center, Suite 6310, E-Mail: support@za.reinhausen.com                
+      Jl. Kapt. Subijanto Dj.                                                     
+      BSD City, Tangerang   South Korea                                           
+      Phone: +62 21 5315-3183 Reinhausen Korea Ltd.                               
+      Fax: +62 21 5315-3184 21st floor, Standard Chartered Bank Bldg.,            
+      E-Mail: c.haering@id.reinhausen.com 47, Chongro, Chongro-gu,                
+                            Seoul 110-702                                         
+      Iran                  Phone: +82 2 767 4909                                 
+      Iran Transfo After Sales Services Co. Fax: +82 2 736 0049                   
+      (Joint Venture)       E-Mail: you-mi.jang@kr.reinhausen.com                 
+      Zanjan, Industrial Township No. 1 (Aliabad)                                 
+      Corner of Morad Str.  U.S.A.                                                
+      Postal Code 4533144551 Reinhausen Manufacturing Inc.                        
+      E-Mail: itass@iran-transfo.com 2549 North 9th Avenue                        
+                            Humboldt, TN 38343                                    
+      Italy                 Phone: +1 731 784 7681                                
+      Reinhausen Italia S.r.l. Fax: +1 731 784 7682                               
+      Via Alserio, 16       E-Mail: sales@reinhausen.com                          
+      20159 Milano                                                                
+      Phone: +39 02 6943471 United Arab Emirates                                  
+      Fax: +39 02 69434766  Reinhausen Middle East FZE                            
+      E-Mail: sales@it.reinhausen.com Dubai Airport Freezone, Building Phase 6    
+                            3rd floor, Office No. 6EB, 341 Dubai                  
+      Japan                 Phone: +971 4 2368 451                                
+      MR Japan Corporation  Fax: +971 4 2368 225                                  
+      German Industry Park  Email: service@ae.reinhausen.com                      
+      1-18-2 Hakusan, Midori-ku                                                   
+      Yokohama 226-0006                                                           
+      Phone: +81 45 929 5728                                                      
+      Fax: +81 45 929 5741                                                        
+      Luxembourg                                                                  
+      Reinhausen Luxembourg S.A.                                                  
+      72, Rue de Prés                                                             
+      L-7333 Steinsel                                                             
+      Phone: +352 27 3347 1                                                       
+      Fax: +352 27 3347 99                                                        
+      E-Mail: sales@lu.reinhausen.com                                             
+  Maschinenfabrik Reinhausen GmbH +49 (0)941 4090-0 www.reinhausen.com            
+  Falkensteinstrasse 8   +49(0)941 4090-7001                                      
+  93059 Regensburg       sales@reinhausen.com                                     
+  1800048/03 EN ▪ 07/18 ▪ F0019202                                                

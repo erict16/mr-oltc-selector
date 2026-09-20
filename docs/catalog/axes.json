@@ -1,0 +1,727 @@
+{
+  "sources": [
+    {
+      "id": "td61-1800061",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/overview/technical_data/1800061_en.pdf",
+      "title": "Technical Data TD 61 General Section 1800061/04 EN (2021)"
+    },
+    {
+      "id": "oltc-overview-pdf",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/overview/oltc_technical_overview.pdf",
+      "title": "OLTC technical overview (1-page table, reinhausen.com)"
+    },
+    {
+      "id": "portfolio-page",
+      "url": "https://www.reinhausen.com/portfolio/on-load-tap-changers",
+      "title": "On-Load Tap-Changers portfolio page"
+    },
+    {
+      "id": "vi-ba-7993270",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vacutap_vi/ba/ba_vi/bal_7993270_en.pdf",
+      "title": "VACUTAP VI operating instructions 7993270/03 EN"
+    },
+    {
+      "id": "vi-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/vacutap-vi",
+      "title": "VACUTAP VI product page"
+    },
+    {
+      "id": "vv-td-203",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vv/td/1800203_en.pdf",
+      "title": "VACUTAP VV Technical Data TD 203 1800203/09 EN"
+    },
+    {
+      "id": "vv-compact-f0053808",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/oltc/vv/f0053808_en_vacutapvv_compact_oltc.pdf",
+      "title": "VACUTAP VV compact flyer F0053808"
+    },
+    {
+      "id": "vv-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/vacutap-vv",
+      "title": "VACUTAP VV product page"
+    },
+    {
+      "id": "vm-td-2332907",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vm/technical_data/2332907_en.pdf",
+      "title": "VACUTAP VM / VM 300 / VMS Technical Data 2332907/07 EN"
+    },
+    {
+      "id": "vm-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/vacutap-vm",
+      "title": "VACUTAP VM product page"
+    },
+    {
+      "id": "vr-flyer-in5062036",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vr/flyer/in5062036_en.pdf",
+      "title": "VACUTAP VR flyer IN5062036/04 EN (03/2026)"
+    },
+    {
+      "id": "vr-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/vacutap-vr",
+      "title": "VACUTAP VR product page"
+    },
+    {
+      "id": "oiltap-v-td-82",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/oiltap_v/technical_data/082_03en.pdf",
+      "title": "OILTAP V Technical Data TD 82/03 EN"
+    },
+    {
+      "id": "oiltap-v-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/oiltap-v",
+      "title": "OILTAP V product page"
+    },
+    {
+      "id": "oiltap-g-td-48",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/oiltap_g/technical_data/td_g_1800048_03_en.pdf",
+      "title": "OILTAP G Technical Data TD 48 1800048/03 EN (2018)"
+    },
+    {
+      "id": "oiltap-g-product",
+      "url": "https://www.reinhausen.com/productdetail/on-load-tap-changers/oiltap-g",
+      "title": "OILTAP G product page"
+    }
+  ],
+  "failedUrls": [
+    {
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vr/technical_data/2188029_en.pdf",
+      "status": "FAIL HTTP 404",
+      "note": "TD 61 still names VACUTAP VR as TD 2188029. Public fileadmin path 404."
+    },
+    {
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vr/td/2188029_en.pdf",
+      "status": "FAIL HTTP 404"
+    },
+    {
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vr/technical_data/td_vr_2188029_en.pdf",
+      "status": "FAIL HTTP 404"
+    },
+    {
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/oiltap_g/technical_data/48_en.pdf",
+      "status": "FAIL HTTP 404",
+      "note": "EN TD 48 is td_g_1800048_03_en.pdf"
+    }
+  ],
+  "deferred": [
+    "DEETAP",
+    "ECOTAP",
+    "VACUTAP AVT/VT dry",
+    "VACUTAP VBO bolt-on",
+    "VACUTAP RMV-II reactor",
+    "VACUTAP VVS",
+    "VACUTAP VMS (in VM TD; out of scope)",
+    "Previous-generation VR VRC/VRD/VRE/VRF/VRG (TD 61 only; not on current flyer)",
+    "OILTAP MS/M/RM/R",
+    "VACUTAP VR TD 2188029 (public URL 404; current axes from flyer IN5062036/04)"
+  ],
+  "families": [
+    {
+      "id": "vi",
+      "code": "VI",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "compound",
+      "usesSelectorSize": false,
+      "rank": 10,
+      "currents": {
+        "III": [
+          400
+        ]
+      },
+      "umKv": [
+        40,
+        76,
+        123
+      ],
+      "iiiConnections": [
+        "Y",
+        "D"
+      ],
+      "connections": [
+        "Y",
+        "D"
+      ],
+      "maxStepVoltageV": 1500,
+      "stepCapacityKvaByCurrent": {
+        "400": 600
+      },
+      "maxPositionsLinear": 14,
+      "maxPositionsWithChangeOver": 27,
+      "selectorSizes": [],
+      "notes": "VI III 400 Y (neutral point) and VI III 400 D (any point in the winding). Irm 400 A. D at 123 kV series uses Um 123/76. No I-phase type and no selector size letter in BA 7993270/03 tables 7-8.",
+      "sourceIds": [
+        "vi-ba-7993270",
+        "vi-product",
+        "oltc-overview-pdf"
+      ]
+    },
+    {
+      "id": "oiltap-v",
+      "code": "V",
+      "brand": "OILTAP",
+      "medium": "oil",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "compound",
+      "usesSelectorSize": false,
+      "rank": 15,
+      "currents": {
+        "I": [
+          350
+        ],
+        "III": [
+          200,
+          250,
+          350,
+          400
+        ]
+      },
+      "umKv": [
+        40,
+        76,
+        123
+      ],
+      "iiiConnections": [
+        "Y",
+        "D"
+      ],
+      "connections": [
+        "Y",
+        "D"
+      ],
+      "maxStepVoltageV": 1500,
+      "stepCapacityKvaByCurrent": {
+        "200": 300,
+        "350": 525
+      },
+      "maxPositionsLinear": 14,
+      "maxPositionsWithChangeOver": 27,
+      "selectorSizes": [],
+      "notes": "TD 82/03 table 1a: V III 200 Y/D Ium 200 A, V III 350 Y/D Ium 350 A, V I 350 Ium 350 A. Section 2.2 special designs V III 250 Y/D (250 A) and V III 400 Y/D (400 A); drawings on request. No III 500 in this TD. Y Um 40/76/123; D Um 40/76/123/76; I Um 40/76. Ust 1500 V at 10 contacts (derates at 12/14). Pst 300 kVA (III 200, 10 contacts) / 525 kVA (III 350, 10 contacts). No selector size letter. Product page 200/400 A and overview 350/350 A lose to TD 82.",
+      "sourceIds": [
+        "oiltap-v-td-82",
+        "oiltap-v-product",
+        "td61-1800061",
+        "oltc-overview-pdf"
+      ]
+    },
+    {
+      "id": "vv",
+      "code": "VV",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "compound",
+      "usesSelectorSize": false,
+      "rank": 20,
+      "currents": {
+        "I": [
+          400
+        ],
+        "III": [
+          250,
+          400,
+          600
+        ]
+      },
+      "umKv": [
+        40,
+        76,
+        123,
+        145
+      ],
+      "iiiConnections": [
+        "Y",
+        "D"
+      ],
+      "connections": [
+        "Y",
+        "D"
+      ],
+      "maxStepVoltageV": 2000,
+      "stepCapacityKvaByCurrent": {
+        "250": 700,
+        "400": 700,
+        "600": 700
+      },
+      "maxPositionsLinear": 12,
+      "maxPositionsWithChangeOver": 23,
+      "selectorSizes": [],
+      "notes": "VV III 250/400/600 Y and D exist. VV I 401 (400 A; 600 A on request). No selector size letter. Example: VACUTAP VV III 250 Y-76 / 10 19 1W R. Ust 2000 V; 400 A derates 2000...1700 V; 600 A derates 2000...1000 V (TD 203 table 3). Insulation table 7: III Y at 40/76/123; III D at 40/76/145. Table 8: I at 76 and 145 only. Step capacity 700 kVA is the published max from the overview PDF; TD 203 points to the diagram. Mechanical groups VV III 40 kV, VV III 76/123 kV, VV III 145 kV.",
+      "sourceIds": [
+        "vv-td-203",
+        "vv-compact-f0053808",
+        "vv-product",
+        "oltc-overview-pdf"
+      ]
+    },
+    {
+      "id": "vm",
+      "code": "VM",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 40,
+      "currents": {
+        "I": [
+          300,
+          350,
+          500,
+          650,
+          800,
+          1000,
+          1200,
+          1500
+        ],
+        "II": [
+          300,
+          350,
+          500,
+          650
+        ],
+        "III": [
+          300,
+          350,
+          500,
+          650
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 3300,
+      "stepCapacityKvaByCurrent": {
+        "300": 990,
+        "350": 1155,
+        "500": 1625,
+        "650": 1625,
+        "800": 2600,
+        "1000": 2600,
+        "1200": 3500,
+        "1500": 3500
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE"
+      ],
+      "notes": "I 301/351/501/651/802/1002/1203/1503; II 302/352/502/652; III 300 Y / 350 Y / 500 Y / 650 Y only. No III D. Delta: 3x VM I, or VM III K = I+II (2332907 §3.2). Selector sizes B, C, D, DE. Example: VACUTAP VM III 500 Y-123/B-10 19 1W. Um 300 kV is I-only (table 14 note 3). Positions 18/35 from VM TD table 9 (overview/product page say 22 without COS; family TD wins). VM 300 uses selector B and 14/27 positions. VMS is in this TD but out of scope. Multiple coarse COS: max 107 positions.",
+      "sourceIds": [
+        "vm-td-2332907",
+        "vm-product",
+        "td61-1800061"
+      ]
+    },
+    {
+      "id": "vrs",
+      "code": "VRS",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 60,
+      "currents": {
+        "I": [
+          700,
+          1000,
+          1300,
+          2600
+        ],
+        "II": [
+          700,
+          1000,
+          1300
+        ],
+        "III": [
+          700,
+          1000,
+          1300
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300,
+        362
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 4500,
+      "stepCapacityKvaByCurrent": {
+        "700": 2100,
+        "1000": 2100,
+        "1300": 2100,
+        "2600": 4200
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE",
+        "RC",
+        "RD",
+        "RDE",
+        "RE",
+        "RF",
+        "RES"
+      ],
+      "notes": "Flyer IN5062036/04: VRS I 701/1001/1301/2622, VRS II 702/1002/1302, VRS III 700 Y / 1000 Y / 1300 Y. III is Y. I 2622 needs forced current splitting, not for arc furnace. Pst 1500/2100 kVA (see diagram) at 700-1300 A; 3000/4200 at 2600 A. Selector: flyer says R-selector; product-page downloads also name B/C/D/DE and RC/RD/RDE/RE/RF/RES. Rank after VM. No invented VR III 400. VR TD 2188029 public URL 404.",
+      "sourceIds": [
+        "vr-flyer-in5062036",
+        "vr-product",
+        "oltc-overview-pdf"
+      ]
+    },
+    {
+      "id": "vrm",
+      "code": "VRM",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 61,
+      "currents": {
+        "I": [
+          700,
+          1000,
+          1300,
+          2600
+        ],
+        "II": [
+          700,
+          1000,
+          1300
+        ],
+        "III": [
+          700,
+          1000,
+          1300
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300,
+        362
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 4500,
+      "stepCapacityKvaByCurrent": {
+        "700": 3000,
+        "1000": 3000,
+        "1300": 3000,
+        "2600": 6000
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE",
+        "RC",
+        "RD",
+        "RDE",
+        "RE",
+        "RF",
+        "RES"
+      ],
+      "notes": "Flyer: VRM I 701/1001/1301/2622, VRM II 702/1002/1302, VRM III 700 Y / 1000 Y / 1300 Y. III is Y. Pst 3000 kVA at 700-1300 A; 6000 kVA at 2600 A. Same selector-size caveat as VRS.",
+      "sourceIds": [
+        "vr-flyer-in5062036",
+        "vr-product"
+      ]
+    },
+    {
+      "id": "vrl",
+      "code": "VRL",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 62,
+      "currents": {
+        "I": [
+          1300,
+          1600,
+          1800,
+          2000,
+          2400,
+          2600,
+          3000,
+          3200
+        ],
+        "II": [
+          1300
+        ],
+        "III": [
+          1300,
+          1600
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300,
+        362,
+        420
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 6000,
+      "stepCapacityKvaByCurrent": {
+        "1300": 5850,
+        "1600": 6000,
+        "1800": 10000,
+        "2000": 10000,
+        "2400": 10000,
+        "2600": 11700,
+        "3000": 10000,
+        "3200": 12000
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE",
+        "RC",
+        "RD",
+        "RDE",
+        "RE",
+        "RF",
+        "RES"
+      ],
+      "notes": "Flyer: VRL I 1301/1601/1801/2001/2401/2601/2622/3001/3201/3222, VRL II 1302, VRL III 1300 Y / 1600 Y. III is Y. Ust 4500 V (III 1300 / I 1301), 4600 V (I 1601 / I 3222), 6000 V (I 1801-3201), 6000/4500 at I 2601/2622. I 2622 and I 3222 need forced current splitting. Portfolio also lists a separate VRL product page (3200 A I); electrical rows here are the flyer table.",
+      "sourceIds": [
+        "vr-flyer-in5062036",
+        "vr-product",
+        "oltc-overview-pdf"
+      ]
+    },
+    {
+      "id": "vrh",
+      "code": "VRH",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 63,
+      "currents": {
+        "I": [
+          650,
+          1300,
+          2600
+        ],
+        "II": [
+          650,
+          1300
+        ],
+        "III": [
+          650,
+          1300
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300,
+        362
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 6000,
+      "stepCapacityKvaByCurrent": {
+        "650": 3000,
+        "1300": 6000,
+        "2600": 12000
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE",
+        "RC",
+        "RD",
+        "RDE",
+        "RE",
+        "RF",
+        "RES"
+      ],
+      "notes": "Flyer: VRH I 651/1301/2622, VRH II 652/1302, VRH III 650 Y / 1300 Y. III is Y. Ust 6000 V. I 2622 forced current splitting.",
+      "sourceIds": [
+        "vr-flyer-in5062036"
+      ]
+    },
+    {
+      "id": "vrx",
+      "code": "VRX",
+      "brand": "VACUTAP",
+      "medium": "vacuum",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 64,
+      "currents": {
+        "I": [
+          650,
+          1300
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300,
+        362,
+        420
+      ],
+      "iiiConnections": [],
+      "connections": [],
+      "maxStepVoltageV": 12000,
+      "stepCapacityKvaByCurrent": {
+        "650": 6000,
+        "1300": 12000
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "B",
+        "C",
+        "D",
+        "DE",
+        "RC",
+        "RD",
+        "RDE",
+        "RE",
+        "RF",
+        "RES"
+      ],
+      "notes": "Flyer lists VRX I 652 and VRX I 1302 only. No II/III types. Ust 12000 V with diagram footnote. No III D, no III Y.",
+      "sourceIds": [
+        "vr-flyer-in5062036"
+      ]
+    },
+    {
+      "id": "oiltap-g",
+      "code": "G",
+      "brand": "OILTAP",
+      "medium": "oil",
+      "mounting": [
+        "in_tank"
+      ],
+      "structure": "combined",
+      "usesSelectorSize": true,
+      "rank": 70,
+      "currents": {
+        "I": [
+          1600,
+          3000
+        ],
+        "III": [
+          1600,
+          2000
+        ]
+      },
+      "umKv": [
+        72.5,
+        123,
+        170,
+        245,
+        300
+      ],
+      "iiiConnections": [
+        "Y"
+      ],
+      "connections": [
+        "Y"
+      ],
+      "maxStepVoltageV": 5000,
+      "stepCapacityKvaByCurrent": {
+        "1600": 5000,
+        "2000": 5000,
+        "3000": 8000
+      },
+      "maxPositionsLinear": 18,
+      "maxPositionsWithChangeOver": 35,
+      "selectorSizes": [
+        "D",
+        "E"
+      ],
+      "notes": "TD 48: G III 1602 Y 1600 A, G III 2002 Y 2000 A (neutral point). G I 1612/1622/1602 1600 A; G I 3022/3002 3000 A. Pst III 5000 kVA; I 5000 (1612) / 6500 (1622, 3022) / 8000 (1602, 3002) kVA. Selector D/E. Example: OILTAP G III 1602 Y-72.5/D-10 19 1WR. Positions 16 (18) / 31 (35); pitch 18 not for all types. Um in designation table 72.5/123/170/245/300, higher on request. Product page and overview PDF publish 4500 A 1-phase and Um to 362 kV; those maxima have no type code in TD 48 so they are not in currents/umKv. GAP: 4500 A.",
+      "sourceIds": [
+        "oiltap-g-td-48",
+        "oiltap-g-product",
+        "td61-1800061",
+        "oltc-overview-pdf"
+      ]
+    }
+  ]
+}

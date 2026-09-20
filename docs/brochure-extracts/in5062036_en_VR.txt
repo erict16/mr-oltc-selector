@@ -1,0 +1,1335 @@
+SOURCE_URL: https://www.reinhausen.com/fileadmin/downloadcenter/products/oltc/vr/flyer/in5062036_en.pdf
+DOCUMENT_FILE: in5062036_en_VR.pdf
+PAGES: 12
+EXTRACTOR: pdfplumber layout
+
+
+
+===== PAGE 1/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+   VACUTAP®      VR®                                                              
+   Maximum      performance.      Maximally     tested.                           
+                                                                                  
+                                                                                  
+                                                                                  
+   reinhausen.com                                                                 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 2/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       The        VACUTAP®                     VR®.                               
+                                                                                  
+                                                                                  
+                                                                                  
+       From           the      inventors                                          
+                                                                                  
+                                                                                  
+       of    vacuum                switching                                      
+                                                                                  
+                                                                                  
+                                                                                  
+       technology                                                                 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                         2                                        
+
+===== PAGE 3/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       VACUTAP® on-load tap-changers are demonstrating their value around the world
+       thanks to their unmatched ruggedness, reliability and economical operation. They
+                                                                                  
+       are effective both in everyday use as well as during overload operation of a trans-
+       former, or when the requirements for transformer availability are extremely high.
+       We launched the first generation of the VACUTAP® VR® in 2004. Providing 300,000
+                                                                                  
+       tap-change operations without requiring maintenance meant zero maintenance 
+       for virtually all network applications. The VACUTAP® VR® goes one step further and
+                                                                                  
+       offers even more power – for maximum performance.                          
+                                                                                  
+                                                                                  
+                                                                                  
+       Several tenthousand VACUTAP® VR® units are currently Reliable. Rugged. Economical.
+       demonstrating their value for our customers around the These three traits are the essence of our VACUTAP®
+       world. Our engineers incorporated this one-of-a-kind technology. And the VACUTAP® VR® takes advantage
+       operating experience into the development of the of the enormous versatility offered by this technology.
+       VACUTAP® VR®. The result is sure to impress: Optimiza- It is ideal for all operating applications:
+                                          +                                       
+       tion of the design allowed us to increase the permitted                    
+       values for step voltage and switching capacity once Grid                   
+                                          +                                       
+       again.                                                                     
+                                             Electric arc furnace                 
+                                          +                                       
+       The combination with the R-selector provides additional                    
+       advantages. The R-selector displays these advantages HVDC                  
+                                          +                                       
+       through the significantly increased tap-changing capa-                     
+       city of the change-over selector and higher permissible Variable shunt reactors
+                                          +                                       
+       operating and testing voltages. This means that higher                     
+       power requirements are ideal for taking full advantage Phase shifters      
+       of the strengths of this combination. In addition, the                     
+       Active Gas Inhibition System®* can be used to reduce In terms of economy, the VACUTAP® VR® makes no
+       gas gene-ration in the transformer tank caused by tap compromises, enabling 300,000 tap change operations
+       selector operations by up to 90 percent. with-out any maintenance.         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       *Available as an option or by default depending on the selector size.      
+                                                                                  
+                                         3                                        
+
+===== PAGE 4/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+      VACUTAP®            VR®    –                                                
+                                                                                  
+                                                                                  
+      Expertise        makes       the   difference                               
+                                                                                  
+                                                                                  
+       The VACUTAP® VR® is delivered with all of our expertise gained of more than 30 years
+                                                                                  
+       of vacuum technology development. This expert knowledge can be seen in many
+       technical details. Details that make the difference and guarantee reliable and safe
+       operation. This makes the VACUTAP® VR® much more than an on-load tap-changer.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       VACUTAP® Advanced Arc Control System                                       
+       The perfectly tuned interaction between our vacuum interrupter             
+       (Advanced Interrupter Technology), specially developed for on-load         
+       tap-changer applications, and the patented actuation kinematics            
+       ensures reliable and optimal arc quenching                                 
+                                                                                  
+       Interrupter Exchange Module                                                
+       – For applications with an extremely high number of tap-change             
+        operations, e.g. electric arc furnace                                     
+       – Complete carrier unit with pre-installed vacuum interrupters             
+       – A simplified replacement after 600,000 tap-change operations             
+        (e.g. electric arc furnace) reduces maintenance-related production        
+        shutdown times                                                            
+       VACUTAP® Step Protection System                                            
+       – This system protects the diverter switch from a phase short circuit when 
+        overvoltages occur in the network (e.g. due to lightning strikes, switching
+        operations, etc.)                                                         
+       – Optimal insulation coordination within the diverter switch prevents      
+        damage to the insulation in the diverter switch                           
+                                                                                  
+       Advanced Flux Control System                                               
+       Ensures the function of the vacuum interrupter with the                    
+       VACUATP® VRL® I 1801 .. 3201 versions at extreme currents magnetic         
+       fields in high-end applications                                            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                         4                                        
+
+===== PAGE 5/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       VACUTAP®           VR®    with     R-selector        –                     
+                                                                                  
+                                                                                  
+       a future-defining            combination                                   
+                                                                                  
+                                                                                  
+       The R-selector and the VACUTAP® VR® are an unbeatable team for high power  
+                                                                                  
+       capacities. The generation of selectors features more than just an increased
+       switching capacity of the change-over selector. The R-selector combines high
+       economy with maximum durability.                                           
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       Potential connection concept                                               
+       The length of the R-selector does not depend on whether tie-in resistors or
+       tie-in switches are being used. This is made possible by the modular poten-
+       tial connection concept, whereby the required resistors as well as the optio-
+       nal tie-in switches are installed on the side, above the change-over selector.
+       This gives transformer manufacturers planning security in the layout and   
+       design of transformer tanks from the very beginning.                       
+                                                                                  
+       Active Gas Inhibition System®*                                             
+       When disconnecting change-over selector contacts, a capacitive current     
+       caused by the coupling capacitors of the tap windings has to be interrupted.
+       The Active Gas Inhibition System® ensures that minimal gas is generated by 
+       the change-over selector connection. The high permissible reverse voltage  
+       of 60 kV and the cut-off current of up to 600 mA are decisive here.        
+       Optimized handling                                                         
+       Customer requests were consistently implemented in the design of the       
+       R-selector. This made it possible to improve the handling significantly. This
+       enables shorter lead times for transformer manufacturers and ultimately    
+       reduces costs. Lifting the selector to the diverter switch oil compartment 
+       (using a forklift or scissors lift) is also made easier, since the bottoms of the
+       tap selectors and change-over selectors are on the same level. This means  
+       improved handling as well as increased work safety when connecting to the  
+       diverter switch. Selector take-off leads on the interior side and the resulting
+       simplification of the cable routing guarantee more space and flexibility for
+       the connecting leads. The contacts are also more accessible and provide a  
+       larger connection surface.                                                 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+        VACUTAP®       I         Phases Selector                                  
+                       r                                                          
+        VRS®/VRM®/VRL®/VRH® 700 ... 1600 A I + II + III R-selector up to 6 levels 
+                       1800 ... 2400 A I R-selector with 4 levels                 
+        VRL®                                                                      
+                       2401 ... 3200 A I R-selector with 6 levels More information
+       * Available as an option or by default depending on the selector size      
+                                                                                  
+                                                                                  
+                                         5                                        
+
+===== PAGE 6/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       VACUTAP®           VR®     –  technical       data                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+        On-load tap-changer  VACUTAP® VRS® I/II/III   VACUTAP® VRM® I/II/III  VACUTAP® VRL® I/II/III                             VACUTAP® VRH®/VRX® I/II/III
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+        Designation                                                               
+                             107                                                  
+                             I SRV                                                
+                               207                                                
+                               II SRV                                             
+                                Y 007                                             
+                                III SRV                                           
+                                  1001                                            
+                                  I SRV                                           
+                                    2001                                          
+                                    II SRV                                        
+                                     Y 0001                                       
+                                     III SRV                                      
+                                        1031                                      
+                                        I SRV                                     
+                                         2031                                     
+                                         II SRV                                   
+                                           Y 0031                                 
+                                           III SRV                                
+                                               )12262                             
+                                               I SRV                              
+                                                     107                          
+                                                     I MRV                        
+                                                       207                        
+                                                       II MRV                     
+                                                        Y 007                     
+                                                        III MRV                   
+                                                           1001                   
+                                                           I MRV                  
+                                                            2001                  
+                                                            II MRV                
+                                                              Y 0001              
+                                                              III MRV             
+                                                                1031              
+                                                                I MRV             
+                                                                  2031            
+                                                                  II MRV          
+                                                                   Y 0031         
+                                                                   III MRV        
+                                                                       )12262     
+                                                                       I MRV      
+                                                                             1031 
+                                                                             I LRV
+                                                                               2031
+                                                                               II LRV
+                                                                                 Y 0031
+                                                                                 III LRV
+                                                                                    1061
+                                                                                    I LRV
+                                                                                     Y 0061
+                                                                                     III LRV
+                                                                                          1081
+                                                                                          I LRV
+                                                                                               1002
+                                                                                               I LRV
+                                                                                                     1042
+                                                                                                     I LRV
+                                                                                                          1062
+                                                                                                          I LRV
+                                                                                                           )12262
+                                                                                                           I LRV
+                                                                                                                1003
+                                                                                                                I LRV
+                                                                                                                     1023
+                                                                                                                     I LRV
+                                                                                                                           )12223
+                                                                                                                           I LRV
+                                                                                                                                 156
+                                                                                                                                 I HRV
+                                                                                                                                   256
+                                                                                                                                   II HRV
+                                                                                                                                    Y 056
+                                                                                                                                    III HRV
+                                                                                                                                       1031
+                                                                                                                                       I HRV
+                                                                                                                                        2031
+                                                                                                                                        II HRV
+                                                                                                                                          Y 0031
+                                                                                                                                          III HRV
+                                                                                                                                              )12262
+                                                                                                                                              I HRV
+                                                                                                                                                   256
+                                                                                                                                                   I XRV
+                                                                                                                                                        2031
+                                                                                                                                                        I XRV
+        Max. rated through-current Ir (A) 700 1000 1300 2600 700 1000 1300 2600 1300 1600 1800 2000 2400  2600 3000  3200 3200    650  1300  2600  650  1300
+        Rated short-time current (kA) 10 12 16 26      10   12    16   26      16   16    19   24    24  25/26  30   32    32     10    16   26    10   16
+        Rated duration of short-circuits (s) 3 3 3 3   3    3     3    3       3     3    3    3     3    3     3    3     3       3    3     3    3     3
+        Rated peak withstand current (kA) 25 30 40 65  25   30   40    65      40   40   47,5  60    60   65    75   80    80     25    40   65    25   40
+                                                                                                          6000
+        Max. rated step voltage Uir (V) 4500 4500 4500 4500 4500 4500 4500 4500 4500 4600 6000 6000 6000
+                                                                                                          4500
+                                                                                                               6000 6000  4600    6000 6000  6000 120002) 120002)
+                              15002) 15002) 15002) 30002)                           48002)               10000
+        Step capacity PStN (kVA)                                                  
+                              21002) 21002) 21002) 42002)                         
+                                                      3000 3000  3000 6000    5850
+                                                                                    60002)
+                                                                                         10000 10000 10000
+                                                                                                         11700
+                                                                                                               10000 10000 12000  3000 6000  12000 6000 12000
+        Rated frequency (Hz)         50 ... 60                50 ... 60                            50 ... 60                                50 ... 60
+                              without change-over selector: max. 18, without change-over selector: max. 18, without change-over selector: max. 18, without change-over selector: max. 18,
+        Operating positions                                                       
+                               with change-over selector: max. 35 with change-over selector: max. 35 with change-over selector: max. 35 with change-over selector: max. 35
+        Motor-drive unit              ETOS®                   ETOS®                                 ETOS®                                   ETOS®
+        Rated insulation level                                                    
+        Designation                                                               
+                                 Y 007                                            
+                                 III SRV                                          
+                                   Y 0001                                         
+                                   III SRV                                        
+                                    Y 0031                                        
+                                    III SRV                                       
+                                       Y 007                                      
+                                       III MRV                                    
+                                         Y 0001                                   
+                                         III MRV                                  
+                                          Y 0031                                  
+                                          III MRV                                 
+                                             Y 0031                               
+                                             III LRV                              
+                                               Y0061                              
+                                               III LRV                            
+                                                  )2Y 056                         
+                                                  III HRV                         
+                                                   )2Y0031                        
+                                                   III HRV                        
+                                                                        207       
+                                                                        II SRV    
+                                                                         2001     
+                                                                         II SRV   
+                                                                           2031   
+                                                                           II SRV 
+                                                                              207 
+                                                                              II MRV
+                                                                               2001
+                                                                               II MRV
+                                                                                 2031
+                                                                                 II MRV
+                                                                                    2031
+                                                                                    II LRV
+                                                                                       )2256
+                                                                                       II HRV
+                                                                                        )22031
+                                                                                        II HRV
+                                                                                                               107
+                                                                                                               I SRV
+                                                                                                                 1001
+                                                                                                                 I SRV
+                                                                                                                  1031
+                                                                                                                  I SRV
+                                                                                                                    )12262
+                                                                                                                    I SRV
+                                                                                                                      107
+                                                                                                                      I MRV
+                                                                                                                        1001
+                                                                                                                        I MRV
+                                                                                                                         1031
+                                                                                                                         I MRV
+                                                                                                                           )12262
+                                                                                                                           I MRV
+                                                                                                                             1031
+                                                                                                                             I LRV
+                                                                                                                               1061
+                                                                                                                               I LRV
+                                                                                                                                1081
+                                                                                                                                I LRV
+                                                                                                                                  1002
+                                                                                                                                  I LRV
+                                                                                                                                   1042
+                                                                                                                                   I LRV
+                                                                                                                                    )21062
+                                                                                                                                    I LRV
+                                                                                                                                      )2 )12262
+                                                                                                                                      I LRV
+                                                                                                                                       )21003
+                                                                                                                                       I LRV
+                                                                                                                                         )21023
+                                                                                                                                         I LRV
+                                                                                                                                           )12223
+                                                                                                                                           I LRV
+                                                                                                                                             )2156
+                                                                                                                                             I HRV
+                                                                                                                                               )21031
+                                                                                                                                               I HRV
+                                                                                                                                                )2 )12262
+                                                                                                                                                I HRV
+                                                                                                                                                   )2256
+                                                                                                                                                   I XRV
+                                                                                                                                                     )22031
+                                                                                                                                                     I XRV
+       1) Forced current splitting by two parallel winding branches required. Not for electrical arc furnace operation.
+       2) See step capacity diagram                                               
+        Highest voltage for equipment Um (kV) 72.5 123 170 245 72.5  123     170    245    300    362       72.5   123    170     245    300    362    420
+        Rated lightning impulse withstand                                         
+                               350    550    750    1050      350    550     750    1050   1050   1175      350    550    750    1050    1050   1175   1425
+        voltage (kV, 1.2|50 µs)                                                   
+        Rated short-duration power frequency                                      
+                               140    230    325     460      140    230     325    460    460    510       140    230    325     460    460    510    630
+        withstand voltage (kV, 50 Hz, 1 min.)                                     
+       1) Forced current splitting by two parallel winding branches required. Not for electrical arc furnace operation.
+       2) See step capacity diagram                                               
+                                         6                                        
+     1) Forced current splitting by two parallel winding branches required. Not for electrical arc furnace operation.
+     2) Special applications on request                                           
+
+===== PAGE 7/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+On-load tap-changer VACUTAP® VRS® I/II/III VACUTAP® VRM® I/II/III VACUTAP® VRL® I/II/III VACUTAP® VRH®/VRX® I/II/III
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+Designation                                                                       
+107                                                                               
+I SRV                                                                             
+207                                                                               
+II SRV                                                                            
+Y 007                                                                             
+III SRV                                                                           
+1001                                                                              
+I SRV                                                                             
+2001                                                                              
+II SRV                                                                            
+Y 0001                                                                            
+III SRV                                                                           
+1031                                                                              
+I SRV                                                                             
+2031                                                                              
+II SRV                                                                            
+Y 0031                                                                            
+III SRV                                                                           
+)12262                                                                            
+I SRV                                                                             
+107                                                                               
+I MRV                                                                             
+207                                                                               
+II MRV                                                                            
+Y 007                                                                             
+III MRV                                                                           
+1001                                                                              
+I MRV                                                                             
+2001                                                                              
+II MRV                                                                            
+Y 0001                                                                            
+III MRV                                                                           
+1031                                                                              
+I MRV                                                                             
+2031                                                                              
+II MRV                                                                            
+Y 0031                                                                            
+III MRV                                                                           
+)12262                                                                            
+I MRV                                                                             
+1031                                                                              
+I LRV                                                                             
+2031                                                                              
+II LRV                                                                            
+Y 0031                                                                            
+III LRV                                                                           
+  1061                                                                            
+  I LRV                                                                           
+   Y 0061                                                                         
+   III LRV                                                                        
+        1081                                                                      
+        I LRV                                                                     
+             1002                                                                 
+             I LRV                                                                
+                   1042                                                           
+                   I LRV                                                          
+                       1062                                                       
+                       I LRV                                                      
+                         )12262                                                   
+                         I LRV                                                    
+                              1003                                                
+                              I LRV                                               
+                                   1023                                           
+                                   I LRV                                          
+                                         )12223                                   
+                                         I LRV                                    
+                                               156                                
+                                               I HRV                              
+                                                256                               
+                                                II HRV                            
+                                                  Y 056                           
+                                                  III HRV                         
+                                                    1031                          
+                                                    I HRV                         
+                                                      2031                        
+                                                      II HRV                      
+                                                       Y 0031                     
+                                                       III HRV                    
+                                                           )12262                 
+                                                           I HRV                  
+                                                                 256              
+                                                                 I XRV            
+                                                                      2031        
+                                                                      I XRV       
+Max. rated through-current Ir (A) 700 1000 1300 2600 700 1000 1300 2600 1300 1600 1800 2000 2400 2600 3000 3200 3200 650 1300 2600 650 1300
+Rated short-time current (kA) 10 12 16 26 10 12 16 26 16 16 19 24 24 25/26 30 32 32 10 16 26 10 16
+Rated duration of short-circuits (s) 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  
+Rated peak withstand current (kA) 25 30 40 65 25 30 40 65 40 40 47,5 60 60 65 75 80 80 25 40 65 25 40
+                       6000                                                       
+Max. rated step voltage Uir (V) 4500 4500 4500 4500 4500 4500 4500 4500 4500 4600 6000 6000 6000
+                       4500                                                       
+                             6000 6000  4600    6000 6000  6000 120002) 120002)   
+15002) 15002) 15002) 30002) 48002) 10000                                          
+Step capacity PStN (kVA)                                                          
+21002) 21002) 21002) 42002)                                                       
+3000 3000 3000 6000 5850                                                          
+ 60002)                                                                           
+       10000 10000 10000                                                          
+                       11700                                                      
+                             10000 10000 12000  3000 6000 12000 6000 12000        
+Rated frequency (Hz) 50 ... 60 50 ... 60 50 ... 60        50 ... 60               
+without change-over selector: max. 18, without change-over selector: max. 18, without change-over selector: max. 18, without change-over selector: max. 18,
+Operating positions                                                               
+with change-over selector: max. 35 with change-over selector: max. 35 with change-over selector: max. 35 with change-over selector: max. 35
+Motor-drive unit ETOS® ETOS® ETOS®                        ETOS®                   
+Rated insulation level                                                            
+Designation                                                                       
+Y 007                                                                             
+III SRV                                                                           
+Y 0001                                                                            
+III SRV                                                                           
+Y 0031                                                                            
+III SRV                                                                           
+Y 007                                                                             
+III MRV                                                                           
+Y 0001                                                                            
+III MRV                                                                           
+Y 0031                                                                            
+III MRV                                                                           
+Y 0031                                                                            
+III LRV                                                                           
+Y0061                                                                             
+III LRV                                                                           
+)2Y 056                                                                           
+III HRV                                                                           
+)2Y0031                                                                           
+III HRV                                                                           
+207                                                                               
+II SRV                                                                            
+2001                                                                              
+II SRV                                                                            
+2031                                                                              
+II SRV                                                                            
+207                                                                               
+II MRV                                                                            
+2001                                                                              
+II MRV                                                                            
+2031                                                                              
+II MRV                                                                            
+  2031                                                                            
+  II LRV                                                                          
+     )2256                                                                        
+     II HRV                                                                       
+      )22031                                                                      
+      II HRV                                                                      
+                             107                                                  
+                             I SRV                                                
+                               1001                                               
+                               I SRV                                              
+                                1031                                              
+                                I SRV                                             
+                                  )12262                                          
+                                  I SRV                                           
+                                    107                                           
+                                    I MRV                                         
+                                      1001                                        
+                                      I MRV                                       
+                                       1031                                       
+                                       I MRV                                      
+                                         )12262                                   
+                                         I MRV                                    
+                                           1031                                   
+                                           I LRV                                  
+                                             1061                                 
+                                             I LRV                                
+                                              1081                                
+                                              I LRV                               
+                                               1002                               
+                                               I LRV                              
+                                                 1042                             
+                                                 I LRV                            
+                                                  )21062                          
+                                                  I LRV                           
+                                                    )2 )12262                     
+                                                    I LRV                         
+                                                     )21003                       
+                                                     I LRV                        
+                                                       )21023                     
+                                                       I LRV                      
+                                                        )12223                    
+                                                        I LRV                     
+                                                           )2156                  
+                                                           I HRV                  
+                                                             )21031               
+                                                             I HRV                
+                                                              )2 )12262           
+                                                              I HRV               
+                                                                 )2256            
+                                                                 I XRV            
+                                                                   )22031         
+                                                                   I XRV          
+Highest voltage for equipment Um (kV) 72.5 123 170 245 72.5 123 170 245 300 362 72.5 123 170 245 300 362 420
+Rated lightning impulse withstand                                                 
+350 550 750 1050 350 550 750 1050 1050 1175 350 550 750 1050 1050 1175 1425       
+voltage (kV, 1.2|50 µs)                                                           
+Rated short-duration power frequency                                              
+140 230 325 460 140 230 325 460 460 510 140 230 325 460 460   510    630          
+withstand voltage (kV, 50 Hz, 1 min.)                                             
+                                         7                                        
+
+===== PAGE 8/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                               1001                               
+                                               I MRV                              
+                                                2001                              
+                                                II                                
+                                                MRV                               
+                                                 Y0001                            
+                                                 III                              
+                                                 MRV                              
+                                                                                  
+                                                                                  
+                                                                                  
+            0   100 200 300 400 500 600 700      1000        1300 1400          1800    2000           2400
+                                                               Rated through-current Ir [A]
+                                   107                                            
+                                   I                                              
+                                   MRV                                            
+                                    207                                           
+                                    II                                            
+                                    MRV                                           
+                                      Y007                                        
+                                      III                                         
+                                      MRV                                         
+                                                                                1081
+                                                                                I 
+                                                                                LRV
+                                                       4800 kVA                   
+                                          3000 kVA                                
+                                2100 kVA                                          
+                                         1500 kVA                                 
+        ]V[                                                                       
+        riU egatlov                                                               
+        pets                                                                      
+        detaR                                                                     
+                                   107                                            
+                                   I                                              
+                                   SRV                                            
+                                    207                                           
+                                    II                                            
+                                    SRV                                           
+                                      Y007                                        
+                                      III                                         
+                                      SRV                                         
+                                               1001                               
+                                               I                                  
+                                               SRV                                
+                                                2001                              
+                                                II                                
+                                                SRV                               
+                                                 Y0001                            
+                                                 III                              
+                                                 SRV                              
+                                                          1031                    
+                                                          I LRV                   
+                                                          1031                    
+                                                          I MRV                   
+                                                          1031                    
+                                                          I                       
+                                                          SRV                     
+                                                           2031                   
+                                                           II                     
+                                                           LRV                    
+                                                           2031                   
+                                                           II MRV                 
+                                                           2031                   
+                                                           II                     
+                                                           SRV                    
+                                                             Y0031                
+                                                             III                  
+                                                             LRV                  
+                                                             Y0031                
+                                                             III MRV              
+                                                             Y0031                
+                                                             III                  
+                                                             SRV                  
+         6000                                                                     
+         5500                                                                     
+                                                        6000 kVA                  
+         5000                                                                     
+         4500                                                                     
+         4000                                                                     
+         3500                                                                     
+         3000                                                                     
+         2500                                                                     
+         2000                                                                     
+         1500                                                                     
+         1000                                                                     
+          500                                                                     
+           0                                                                      
+                                                               Rated through-current Ir [A]
+                             156                                                  
+                             I HRV                                                
+                              256                                                 
+                              II HRV                                              
+                               Y056                                               
+                               III HRV                                            
+                                    107                                           
+                                    I MRV                                         
+                                    107                                           
+                                    I SRV                                         
+                                     207                                          
+                                     II MRV                                       
+                                     207                                          
+                                     II SRV                                       
+                                      Y007                                        
+                                      III                                         
+                                      MRV                                         
+                                      Y007                                        
+                                      III SRV                                     
+                                               1001                               
+                                               I MRV                              
+                                               1001                               
+                                               I SRV                              
+                                                1031                              
+                                                I HRV                             
+                                                2001                              
+                                                II MRV                            
+                                                2001                              
+                                                II SRV                            
+                                                 2031                             
+                                                 II HRV                           
+                                                 Y0001                            
+                                                 III MRV                          
+                                                 Y0001                            
+                                                 III SRV                          
+                                                  Y0031                           
+                                                  III HRV                         
+                                                           1031                   
+                                                           I                      
+                                                           LRV                    
+                                                           1031                   
+                                                           I MRV                  
+                                                           1031                   
+                                                           I SRV                  
+                                                            2031                  
+                                                            II                    
+                                                            LRV                   
+                                                            2031                  
+                                                            II MRV                
+                                                            2031                  
+                                                            II SRV                
+                                                             Y0031                
+                                                             III                  
+                                                             LRV                  
+                                                             Y0031                
+                                                             III MRV              
+                                                             Y0031                
+                                                             III SRV              
+                                                                       1061       
+                                                                       I LRV      
+                                                                        Y0061     
+                                                                        III LRV   
+        Step capacity diagram for VR® grid                                        
+                                    3000 kVA                                      
+                      1500 kVA                                                    
+                                 2100 kVA                                         
+                                          1500 kVA                                
+       ]V[                                                                        
+       riU                                                                        
+       egatlov                                                                    
+       pets                                                                       
+       detaR                                                                      
+            0  100 200 300 400 500 600 700       1000        1300 1400  1600    1800    2000           2400    2600           3000    3200
+        Step capacity diagram for VR® electric arc furnace                        
+         4000                                                                     
+         3500                                                                     
+         3000                                                                     
+         2500                                                                     
+         2000                                                                     
+         1500                                                                     
+         1000                                                                     
+          500                                                                     
+           0                                                                      
+                                                                                1081
+                                                                                I 
+                                                                                LRV
+       VACUTAP®           VR®    –  technical       data                          
+                                         8                                        
+
+===== PAGE 9/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+0 100 200 300 400 500 600 700 1000 1300 1400 1800 2000 2400                       
+Rated through-current Ir [A]                                                      
+     1002                                                                         
+     I                                                                            
+     LRV                                                                          
+                     1042                                                         
+                     I                                                            
+                     LRV                                                          
+0 100 200 300 400 500 600 700 1000 1300 1400 1600 1800 2000 2400 2600 3000 3200   
+Rated through-current Ir [A]                                                      
+           6000 kVA                                                               
+1081                                                                              
+I                                                                                 
+LRV                                                                               
+     1002                                                                         
+     I                                                                            
+     LRV                                                                          
+                     1042                                                         
+                     I                                                            
+                     LRV                                                          
+                            1062                                                  
+                            I                                                     
+                            LRV                                                   
+                                            1003                                  
+                                            I                                     
+                                            LRV                                   
+                                                   1023                           
+                                                   I                              
+                                                   LRV                            
+   10000 kVA                                                                      
+                                         9                                        
+
+===== PAGE 10/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                            Rated through-current Ir [A]                          
+        ]V[                                                                       
+        riU                                                                       
+        egatlov                                                                   
+        pets                                                                      
+        detaR                                                                     
+           6500                                                                   
+          6000                                                                    
+           5500                                                                   
+          5000                                                                    
+          4500                                                                    
+          4000                      6000 kVA                                      
+           3500                                                                   
+          3000                                                                    
+           2500                                                                   
+          2000                                                                    
+           1500                                                                   
+           1000                                                                   
+           500                                                                    
+            0                                                                     
+             0 200 400 600 800 1000 1200 1400 1600 1800 2000 2200 24002600 2800 3000 3200
+                                          2262                                    
+                                          I HRV                                   
+                                                 2262                             
+                                                 I                                
+                                                 LRV                              
+                                                 2262                             
+                                                 I                                
+                                                 MRV                              
+                                                 2262                             
+                                                 I                                
+                                                 SRV                              
+                                                         2223                     
+                                                         I                        
+                                                         LRV                      
+                            Rated through-current Ir [A]                          
+        ]V[                                                                       
+        riU                                                                       
+        egatlov                                                                   
+        pets                                                                      
+        detaR                                                                     
+          13000                                                                   
+          12000                                                                   
+          11000                                     12000 kVA                     
+          10000                                                                   
+          9000                                                                    
+          8000                                                                    
+           7000                                                                   
+          6000                                                                    
+           5000                                                                   
+          4000                                                                    
+           3000                                                                   
+           2000                                                                   
+           1000                                                                   
+            0                                                                     
+             0  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300           
+                                  256                                             
+                                  I XRV                                           
+                                                         2031                     
+                                                         I XRV                    
+       VACUTAP®           VR®    –  technical       data                          
+        Grid with forced current splitting VR® step capacity diagram              
+                                           12000 kVA                              
+                   3000 kVA                                                       
+                           4200 kVA                                               
+                                  3000 kVA                                        
+        VRX® I 652 and VRX® I 1302 step capacity diagram                          
+                                 6000 kVA                                         
+                                        10                                        
+
+===== PAGE 11/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+               Your     advantages          at  a  glance                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                      Maintenance-free and long-lasting                           
+                      – Maintenance interval of 300,000 tap changes without time-based components
+                      – Lifetime of the diverter switch insert is 1.2 million tap-change operations
+                      – Minimal maintenance requirement despite maximum lifetime  
+                                                                                  
+                      Maximum operational reliability                             
+                      – Absolutely reliable arc quenching thanks to VACUTAP® Advanced Arc Control System
+                      – Maximum protection of the diverter switch in the event of surges in the network
+                        thanks to VACUTAP® Step Protection System                 
+                                                                                  
+                      Low life-cycle costs                                        
+                      – Completely maintenance-free in most applications          
+                      – In extreme operating conditions (e.g. electric arc furnace), the Interrupter Exchange
+                        Module allows for a simplified replacement after 600,000 tap-change operations
+                                                                                  
+                      Designed with future requirements in mind                   
+                      – The top-performance vacuum on-load tap-changer for future applications
+                      – Suitable for selected alternative insulation fluids       
+                      – Depending on the application, an optimal selection of selectors is available in
+                        various series                                            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                        11                                        
+
+===== PAGE 12/12 =====
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+       myReinhausen – digital access to your MR data                              
+       Register now for free on our customer platform myReinhausen.com!           
+                                                                                  
+       Maschinenfabrik Reinhausen GmbH                                            
+                                                                                  
+       Falkensteinstraße 8, 93059 Regensburg, Germany                             
+       +49 941 4090-0, info@reinhausen.com                                        
+       reinhausen.com                                                             
+                                                                                  
+                                                                                  
+       Please note:                                                               
+       The data in our publications may differ from the data of the devices delivered.
+       We reserve the right to make changes without notice.                       
+       IN5062036/04 EN – VACUTAP® VR®                                             
+       F0340004 – uw – 03/2026                                                    
+       ©Maschinenfabrik Reinhausen GmbH 2013              THE POWER BEHIND POWER. 
