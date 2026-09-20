@@ -35,7 +35,7 @@ export function LangSwitcher({
               opt.id === "zh" ? "tracking-normal" : "tracking-[0.14em]",
               "focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[var(--color-accent)]",
               on
-                ? "border-[var(--color-accent)] bg-[oklch(58%_0.2_256_/_0.1)] text-[var(--color-accent)]"
+                ? "border-[var(--color-accent)] text-[var(--color-accent)]"
                 : "border-[var(--color-rule)] text-[var(--color-muted)] hover:border-[var(--color-accent)] hover:text-[var(--color-ink-2)]",
             )}
           >

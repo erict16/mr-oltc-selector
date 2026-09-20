@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Language chips: selected is vermilion outline on white, same as the kV presets. Drop the leftover cobalt wash.
+
 ## 1.0.2 — 2026-09
 
 - Type tokens match the brochure: VM I 501, G III 1602, G selector D/E.
