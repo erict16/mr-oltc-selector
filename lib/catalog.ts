@@ -24,8 +24,9 @@ export const EARTH_INSULATION: Record<number, { pf: number; bil: number }> = {
   420: { pf: 570, bil: 1425 },
 };
 
+/** Menu Ums. 76 is the 72.5 kV IEC class on compact families; VM/G still print 72.5 from the TD. */
 export const UM_OPTIONS_KV = [
-  40, 72.5, 76, 123, 145, 170, 245, 300, 362, 420,
+  40, 76, 123, 145, 170, 245, 300, 362, 420,
 ] as const;
 
 export type CatalogueMenuItem = {
@@ -379,6 +380,15 @@ export const SERIES: SeriesDef[] = [
     rank: 70,
   },
 ];
+
+/** 76 (VV/VI drawings) and 72.5 (VM/G TD) are one IEC class. */
+export function familyDutyUm(wanted: number, familyUms: number[]): number {
+  const has725 = familyUms.some((u) => Math.abs(u - 72.5) < 0.05);
+  const has76 = familyUms.some((u) => Math.abs(u - 76) < 0.05);
+  if (Math.abs(wanted - 76) < 0.2 && has725 && !has76) return 72.5;
+  if (Math.abs(wanted - 72.5) < 0.2 && has76 && !has725) return 76;
+  return wanted;
+}
 
 /** Ums that exist for this phase and Y/D on the published type. */
 export function allowedUms(

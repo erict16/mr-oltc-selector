@@ -10,7 +10,7 @@ export type Release = {
 
 const v100: Record<Lang, Release> = {
   zh: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {
@@ -23,7 +23,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   en: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {
@@ -36,7 +36,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   vi: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {
@@ -49,7 +49,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   es: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {
@@ -62,7 +62,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   tr: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {
@@ -75,7 +75,7 @@ const v100: Record<Lang, Release> = {
     ],
   },
   ru: {
-    version: "1.0.2",
+    version: "1.0.3",
     date: "2026-09",
     groups: [
       {

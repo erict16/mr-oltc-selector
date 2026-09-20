@@ -5,6 +5,7 @@ import {
   SERIES,
   allowedUms,
   coveringUms,
+  familyDutyUm,
   nearestCurrent,
   nearestUm,
   phaseToken,
@@ -266,10 +267,11 @@ function ratingCoversDuty(wanted: number, rating: number): boolean {
 
 function buildAttempts(s: SeriesDef, input: SelectInput): Attempt[] {
   const out: Attempt[] = [];
+  const umList = allowedUms(s, input.phases, input.connection);
   const covering = coveringUms(
-    input.umKv,
-    allowedUms(s, input.phases, input.connection),
-  ).filter((u) => u >= input.umKv - 0.1);
+    familyDutyUm(input.umKv, umList),
+    umList,
+  ).filter((u) => u >= familyDutyUm(input.umKv, umList) - 0.1);
   if (!covering.length) return out;
   const um0 = covering[0];
   // 126 twin only on the min-adequate families (CV2/CM2/�?. SHZV extra Ums
@@ -315,10 +317,11 @@ function buildAttempts(s: SeriesDef, input: SelectInput): Attempt[] {
     (input.phases === "III" || connIllegal)
   ) {
     const curI = nearestCurrent(input.throughCurrentA, s.currents.I);
+    const umListI = allowedUms(s, "I", input.connection);
     const umI = coveringUms(
-      input.umKv,
-      allowedUms(s, "I", input.connection),
-    ).filter((u) => u >= input.umKv - 0.1);
+      familyDutyUm(input.umKv, umListI),
+      umListI,
+    ).filter((u) => u >= familyDutyUm(input.umKv, umListI) - 0.1);
     const umForI = umI[0] ?? um0;
     if (curI != null && umForI != null) {
       out.push({

@@ -11,7 +11,7 @@ description: >
   星点、线端、正反调、粗细调、线性调、Imax、Um、检查型号是否存在、解读型号含义。
   不触发：报价、价格、OS 商务条款、运输单据。
 allowed-tools: Bash, Read
-version: 1.0.2
+version: 1.0.3
 ---
 
 # 有载分接开关选型
@@ -24,7 +24,7 @@ version: 1.0.2
 
 输出：`VI-III-400Y/76-10193W`，紧凑真空，Ium 400 A，Um 76 kV，±8 中间 3 档正反调。
 
-在助手里把工况直接发给它即可。自己跑命令用钉死的版本：`npx -y mr-oltc-selector@1.0.2`（需要 Node 20+）。不要装全局包，不要用浮动版本。
+在助手里把工况直接发给它即可。自己跑命令用钉死的版本：`npx -y mr-oltc-selector@1.0.3`（需要 Node 20+）。不要装全局包，不要用浮动版本。
 
 ---
 
@@ -32,7 +32,7 @@ _以下是为 AI 助手准备的执行说明。_
 
 ## 必须遵守
 
-1. 用 `npx -y mr-oltc-selector@1.0.2 <参数>` 跑选型，不要凭记忆猜型号。禁止浮动版本，禁止 `npm i -g`。二进制是 `mr-oltc`。
+1. 用 `npx -y mr-oltc-selector@1.0.3 <参数>` 跑选型，不要凭记忆猜型号。禁止浮动版本，禁止 `npm i -g`。二进制是 `mr-oltc`。
 2. 没有 Node / npx，停下来让用户装 Node 20+。禁止编造未列出的电流档（例如 VV III 251），禁止给复合式加选择器字母。
 3. CLI 输出型号后，对照下面的样本册规则检查。通不过就明说，不要包装成可下单。
 4. 检查通过后，用 3 到 6 句短句解释为什么这个型号正确：系列、Ium、Um、Y/D 或 3×、分接代码、结构。不要写长文。
@@ -43,10 +43,10 @@ _以下是为 AI 助手准备的执行说明。_
 ## 怎么跑
 
 ```
-npx -y mr-oltc-selector@1.0.2 --iu 350 --um 72.5 --conn Y --reg W --pm 8
-npx -y mr-oltc-selector@1.0.2 --mva 25 --kv 110 --conn Y --reg W --pm 8
-npx -y mr-oltc-selector@1.0.2 --iu 500 --um 123 --conn Y --reg W --pm 8 --structure combined
-npx -y mr-oltc-selector@1.0.2 --iu 350 --um 76 --conn Y --reg W --pm 8 --oil
+npx -y mr-oltc-selector@1.0.3 --iu 350 --um 72.5 --conn Y --reg W --pm 8
+npx -y mr-oltc-selector@1.0.3 --mva 25 --kv 110 --conn Y --reg W --pm 8
+npx -y mr-oltc-selector@1.0.3 --iu 500 --um 123 --conn Y --reg W --pm 8 --structure combined
+npx -y mr-oltc-selector@1.0.3 --iu 350 --um 76 --conn Y --reg W --pm 8 --oil
 ```
 
 | 参数 | 含义 |

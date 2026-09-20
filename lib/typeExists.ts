@@ -5,7 +5,7 @@ import {
   SERIES,
 } from "./catalog";
 import { parseTypeString } from "./parseType";
-import type { PhaseCode, SeriesDef } from "./types";
+import type { PhaseCode, SelectorSize, SeriesDef } from "./types";
 
 const COMPOUND_NO_GRADE = new Set(["vi", "vv", "oiltap_v"]);
 const STAR_ONLY_III = new Set(["vm", "vrs", "vrl", "oiltap_g"]);
@@ -34,16 +34,11 @@ export function commercialTypeExists(
   }
 
   if (COMPOUND_NO_GRADE.has(s.id) && parsed.selectorSize) return false;
-  if (s.usesSelectorSize) {
-    const allowed = s.selectorSizes?.length
+  if (s.usesSelectorSize && parsed.selectorSize) {
+    const allowed: SelectorSize[] = s.selectorSizes?.length
       ? s.selectorSizes
-      : (["B", "C", "D", "DE"] as const);
-    if (
-      parsed.selectorSize &&
-      !allowed.includes(parsed.selectorSize as (typeof allowed)[number])
-    ) {
-      return false;
-    }
+      : ["B", "C", "D", "DE"];
+    if (!allowed.some((x) => x === parsed.selectorSize)) return false;
   }
 
   if (phase === "III") {

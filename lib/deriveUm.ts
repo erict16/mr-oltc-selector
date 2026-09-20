@@ -9,15 +9,15 @@ export const WINDING_RATED_KV = [
   33, 35, 66, 69, 110, 115, 132, 138, 150, 220, 230, 330,
 ] as const;
 
-/** First-paint tap-side Un. 110 kV is the common HV class; star still → Um 72.5. */
+/** First-paint tap-side Un. 110 kV is the common HV class; star → Um 76. */
 export const DEFAULT_WINDING_RATED_KV = 110;
 
 /** Un → winding highest voltage (IEC / GB equipment class). */
 export const RATED_TO_WINDING_UM: Record<number, number> = {
   33: 40,
   35: 40,
-  66: 72.5,
-  69: 72.5,
+  66: 76,
+  69: 76,
   110: 123,
   115: 123,
   132: 145,
@@ -62,9 +62,9 @@ export function windingUmFromRatedKv(ratedKv: number): number {
  * OLTC Um from the tap-winding equipment class + where the switch sits.
  *
  * Y (star / neutral), graded insulation:
- *   110 / 132 / 150 kV class → catalogue 72.5 (LI 350 / PF 140)
- *   220 kV class stays 252 — do not silently pick CV2 / 72.5
- *   35 / 66 kV stay at winding Um (40.5 / 72.5)
+ *   110 / 132 / 150 kV class Y → 76 (VV/VI drawings). VM/G TDs still print 72.5.
+ *   220 kV class stays 245.
+ *   35 / 66 kV stay at winding Um (40 / 76).
  *
  * D / any (line end): winding Um. Do not drop — line-end 132 is 145, not 72.5.
  *
@@ -76,8 +76,8 @@ export function deriveOltcUm(
   connection: SelectInput["connection"],
 ): number {
   if (connection !== "Y") return windingUmKv;
-  // 110 / 132 kV class star-point → 72.5 (VM/VR) / covering then maps VV/VI to 76.
-  if (windingUmKv >= 122.9 && windingUmKv <= 170.1) return 72.5;
+  // 110 / 132 kV class star-point → 76 (not Huaming 72.5).
+  if (windingUmKv >= 122.9 && windingUmKv <= 170.1) return 76;
   return windingUmKv;
 }
 
