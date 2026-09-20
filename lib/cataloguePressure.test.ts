@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { SERIES } from "./catalog";
+import { publishedCurrentTokens, SERIES } from "./catalog";
 import { selectOltc } from "./engine";
 import { parseTypeString } from "./parseType";
 import { commercialTypeExists } from "./typeExists";
@@ -33,8 +33,20 @@ function checkModel(model: string, ctx: string, bucket: string[]): void {
   if (s && STAR_ONLY.has(s.code) && parsed.phases === "III" && parsed.connection === "D") {
     bucket.push(`${ctx} III-D ${model}`);
   }
-  if (!s?.currents[parsed.phases as "I" | "II" | "III"]?.includes(parsed.currentA)) {
+  const tokens = s
+    ? publishedCurrentTokens(s, parsed.phases as "I" | "II" | "III")
+    : [];
+  if (!tokens.includes(parsed.currentA)) {
     bucket.push(`${ctx} invented-Ium ${model}`);
+  }
+  if (/VV-III-\d+D\/123/.test(model)) {
+    bucket.push(`${ctx} vv-d-123 ${model}`);
+  }
+  if (/VM-III-\d+Y\/300/.test(model)) {
+    bucket.push(`${ctx} vm-iii-300 ${model}`);
+  }
+  if (/^G-III-\d+Y\/[\d.]+B/.test(model)) {
+    bucket.push(`${ctx} g-selector-B ${model}`);
   }
 }
 

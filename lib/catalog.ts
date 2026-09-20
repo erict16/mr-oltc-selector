@@ -157,6 +157,8 @@ export const SERIES: SeriesDef[] = [
     vacuum: true,
     currents: { III: [400] },
     umKv: [40, 76, 123],
+    umKvY: [40, 76, 123],
+    umKvD: [40, 76, 123],
     usesSelectorSize: false,
     maxStepVoltageV: 1500,
     stepCapacityByCurrent: { 400: 600 },
@@ -179,7 +181,11 @@ export const SERIES: SeriesDef[] = [
     structure: "compound",
     vacuum: true,
     currents: { I: [400], III: [250, 400, 600] },
+    currentTokens: { I: [401], III: [250, 400, 600] },
     umKv: [40, 76, 123, 145],
+    umKvY: [40, 76, 123],
+    umKvD: [40, 76, 145],
+    umKvByPhase: { I: [76, 145], III: [40, 76, 123, 145] },
     usesSelectorSize: false,
     maxStepVoltageV: 2000,
     stepCapacityByCurrent: { 250: 700, 400: 700, 600: 700 },
@@ -207,8 +213,19 @@ export const SERIES: SeriesDef[] = [
       II: [350, 500, 650],
       III: [350, 500, 650],
     },
+    currentTokens: {
+      I: [351, 501, 651, 802, 1002, 1203, 1503],
+      II: [352, 502, 652],
+      III: [350, 500, 650],
+    },
     umKv: [72.5, 123, 170, 245, 300],
+    umKvByPhase: {
+      I: [72.5, 123, 170, 245, 300],
+      II: [72.5, 123, 170, 245],
+      III: [72.5, 123, 170, 245],
+    },
     usesSelectorSize: true,
+    selectorSizes: ["B", "C", "D", "DE"],
     maxStepVoltageV: 3300,
     stepCapacityByCurrent: {
       350: 1155,
@@ -243,8 +260,14 @@ export const SERIES: SeriesDef[] = [
       II: [700, 1000, 1300],
       III: [700, 1000, 1300],
     },
+    currentTokens: {
+      I: [701, 1001, 1301, 2622],
+      II: [702, 1002, 1302],
+      III: [700, 1000, 1300],
+    },
     umKv: [72.5, 123, 170, 245],
     usesSelectorSize: true,
+    selectorSizes: ["B", "C", "D", "DE"],
     maxStepVoltageV: 4500,
     stepCapacityByCurrent: {
       700: 1500,
@@ -275,8 +298,14 @@ export const SERIES: SeriesDef[] = [
       II: [1300],
       III: [1300, 1600],
     },
+    currentTokens: {
+      I: [1301, 1601, 1801, 2001, 2401, 2601, 3001, 3201],
+      II: [1302],
+      III: [1300, 1600],
+    },
     umKv: [72.5, 123, 170, 245, 300, 362, 420],
     usesSelectorSize: true,
+    selectorSizes: ["B", "C", "D", "DE", "E"],
     maxStepVoltageV: 6000,
     stepCapacityByCurrent: {
       1300: 3000,
@@ -308,6 +337,9 @@ export const SERIES: SeriesDef[] = [
     vacuum: false,
     currents: { I: [350], III: [200, 350] },
     umKv: [40, 76, 123],
+    umKvY: [40, 76, 123],
+    umKvD: [40, 76, 123],
+    umKvByPhase: { I: [40, 76], III: [40, 76, 123] },
     usesSelectorSize: false,
     maxStepVoltageV: 1500,
     stepCapacityByCurrent: { 200: 300, 350: 525 },
@@ -331,8 +363,10 @@ export const SERIES: SeriesDef[] = [
     structure: "combined",
     vacuum: false,
     currents: { I: [1600, 3000], III: [1600, 2000] },
-    umKv: [72.5, 123, 170, 245, 300, 362],
+    currentTokens: { I: [1602, 3002], III: [1602, 2002] },
+    umKv: [72.5, 123, 170, 245, 300],
     usesSelectorSize: true,
+    selectorSizes: ["D", "E"],
     maxStepVoltageV: 5000,
     stepCapacityByCurrent: { 1600: 5000, 2000: 5000, 3000: 6500 },
     connections: ["Y", "D"],
@@ -345,6 +379,40 @@ export const SERIES: SeriesDef[] = [
     rank: 70,
   },
 ];
+
+/** Ums that exist for this phase and Y/D on the published type. */
+export function allowedUms(
+  s: SeriesDef,
+  phases: PhaseCode,
+  conn: Connection,
+): number[] {
+  let ums = s.umKvByPhase?.[phases] ?? s.umKv;
+  if (conn === "D" && s.umKvD?.length) {
+    ums = ums.filter((u) => s.umKvD!.some((d) => Math.abs(d - u) < 0.05));
+  } else if (conn === "Y" && s.umKvY?.length) {
+    ums = ums.filter((u) => s.umKvY!.some((y) => Math.abs(y - u) < 0.05));
+  }
+  return ums;
+}
+
+export function typeCurrentToken(
+  s: SeriesDef,
+  phases: PhaseCode,
+  ium: number,
+): number {
+  const iums = s.currents[phases];
+  const tokens = s.currentTokens?.[phases];
+  if (!iums?.length || !tokens?.length) return ium;
+  const i = iums.findIndex((c) => c === ium);
+  return i >= 0 ? tokens[i] : ium;
+}
+
+export function publishedCurrentTokens(
+  s: SeriesDef,
+  phases: PhaseCode,
+): number[] {
+  return s.currentTokens?.[phases] ?? s.currents[phases] ?? [];
+}
 
 export function nearestUm(wanted: number, allowed: number[]): number | null {
   if (!allowed.length) return null;
@@ -405,29 +473,35 @@ export function pickSelectorSize(
   pfKv?: number,
   acrossTapBilKv?: number,
   acrossTapPfKv?: number,
+  familySizes?: SelectorSize[],
 ): SelectorSize {
-  const allowed = SELECTOR_SIZES_BY_UM[um] ?? ["B", "C", "D", "DE"];
+  const umAllowed = SELECTOR_SIZES_BY_UM[um] ?? ["B", "C", "D", "DE"];
+  const allowed =
+    familySizes?.length
+      ? umAllowed.filter((x) => familySizes.includes(x))
+      : umAllowed;
+  const pool = allowed.length ? allowed : familySizes?.length ? familySizes : umAllowed;
   if (requested && requested !== "auto") {
-    if (allowed.includes(requested)) return requested;
-    return firstAllowedAtOrAbove(requested, allowed);
+    if (pool.includes(requested)) return requested;
+    return firstAllowedAtOrAbove(requested, pool);
   }
 
   let floor = defaultSelectorSizeForUm(um);
-  floor = firstAllowedAtOrAbove(floor, allowed);
+  floor = firstAllowedAtOrAbove(floor, pool);
 
   const earth = EARTH_INSULATION[um];
   if (earth && bilKv && bilKv > earth.bil + 1) {
     const i = SIZE_ORDER.indexOf(floor);
     floor = firstAllowedAtOrAbove(
       SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, i + 1)] ?? "DE",
-      allowed,
+      pool,
     );
   }
   if (earth && pfKv && pfKv > earth.pf + 1) {
     const i = SIZE_ORDER.indexOf(floor);
     floor = firstAllowedAtOrAbove(
       SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, i + 1)] ?? "DE",
-      allowed,
+      pool,
     );
   }
 
@@ -437,16 +511,16 @@ export function pickSelectorSize(
 
   for (let i = floorIdx; i < SIZE_ORDER.length; i++) {
     const cand = SIZE_ORDER[i];
-    if (!allowed.includes(cand)) continue;
+    if (!pool.includes(cand)) continue;
     const ins = INTERNAL_INSULATION[cand];
     if (needALi <= 0 && needAPf <= 0) return cand;
     if (ins.a_li + 0.5 >= needALi && ins.a_pf + 0.5 >= needAPf) return cand;
   }
 
   for (const cand of SIZE_ORDER) {
-    if (!allowed.includes(cand)) continue;
+    if (!pool.includes(cand)) continue;
     const ins = INTERNAL_INSULATION[cand];
     if (ins.a_li + 0.5 >= needALi && ins.a_pf + 0.5 >= needAPf) return cand;
   }
-  return allowed[allowed.length - 1];
+  return pool[pool.length - 1];
 }

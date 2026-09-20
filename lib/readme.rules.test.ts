@@ -7,7 +7,7 @@ describe("README selection rules", () => {
 
   it("states existence, ranking, and CLI pin", () => {
     expect(md).toContain("Minimum-adequate");
-    expect(md).toContain("mr-oltc-selector@1.0.1");
+    expect(md).toContain("mr-oltc-selector@1.0.2");
     expect(md).toContain("--iu");
     expect(md).not.toMatch(/\bMR\b/);
   });

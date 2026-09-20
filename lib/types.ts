@@ -101,8 +101,15 @@ export interface SeriesDef {
   structure: StructureKind;
   vacuum: boolean;
   currents: Partial<Record<PhaseCode, number[]>>;
+  /** Published type current token aligned with `currents` (501 vs 500 A, 1602 vs 1600 A). */
+  currentTokens?: Partial<Record<PhaseCode, number[]>>;
   umKv: number[];
+  umKvY?: number[];
+  umKvD?: number[];
+  umKvByPhase?: Partial<Record<PhaseCode, number[]>>;
   usesSelectorSize: boolean;
+  /** Combined families only. OILTAP G is D/E, not B. */
+  selectorSizes?: SelectorSize[];
   umSizePairs?: string[];
   maxStepVoltageV: number;
   stepCapacityByCurrent?: Record<number, number>;

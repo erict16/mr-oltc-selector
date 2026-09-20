@@ -15,8 +15,8 @@ import { agentGuide } from "@/lib/i18nAgents";
 
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const ZIP = "https://github.com/erict16/mr-oltc-selector/archive/refs/heads/master.zip";
-const INSTALL = "npx -y mr-oltc-selector@1.0.1";
-const RUN = "npx -y mr-oltc-selector@1.0.1 --iu 350 --um 72.5 --conn Y --reg W --pm 8";
+const INSTALL = "npx -y mr-oltc-selector@1.0.2";
+const RUN = "npx -y mr-oltc-selector@1.0.2 --iu 350 --um 72.5 --conn Y --reg W --pm 8";
 const WB_PAGE = "https://skillhub.cn/skills/mr-oltc-selector";
 const TYPE_OLTC = "VI-III-400Y/76-10193W";
 const TYPE_OCTC = "VV-III-250Y/76-10193W";

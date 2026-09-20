@@ -1,4 +1,9 @@
-import { iiiTypeAllowsConnection, SERIES } from "./catalog";
+import {
+  allowedUms,
+  iiiTypeAllowsConnection,
+  publishedCurrentTokens,
+  SERIES,
+} from "./catalog";
 import { parseTypeString } from "./parseType";
 import type { PhaseCode, SeriesDef } from "./types";
 
@@ -19,18 +24,26 @@ export function commercialTypeExists(
   if (s.code !== parsed.family) return false;
 
   const phase = parsed.phases as PhaseCode;
-  const allowedI = s.currents[phase];
-  if (!allowedI?.includes(parsed.currentA)) return false;
-  if (
-    parsed.umKv &&
-    !s.umKv.some((u) => Math.abs(u - parsed.umKv) < 0.05)
-  ) {
-    return false;
+  const tokens = publishedCurrentTokens(s, phase);
+  if (!tokens.includes(parsed.currentA)) return false;
+  const connForUm: "Y" | "D" | "any" =
+    parsed.connection === "D" ? "D" : parsed.connection === "Y" ? "Y" : "any";
+  if (parsed.umKv) {
+    const ums = allowedUms(s, phase, connForUm === "any" ? "Y" : connForUm);
+    if (!ums.some((u) => Math.abs(u - parsed.umKv) < 0.05)) return false;
   }
 
   if (COMPOUND_NO_GRADE.has(s.id) && parsed.selectorSize) return false;
-  if (s.usesSelectorSize && parsed.umKv && parsed.selectorSize) {
-    // letter must be a published size; empty size is incomplete, not illegal here
+  if (s.usesSelectorSize) {
+    const allowed = s.selectorSizes?.length
+      ? s.selectorSizes
+      : (["B", "C", "D", "DE"] as const);
+    if (
+      parsed.selectorSize &&
+      !allowed.includes(parsed.selectorSize as (typeof allowed)[number])
+    ) {
+      return false;
+    }
   }
 
   if (phase === "III") {

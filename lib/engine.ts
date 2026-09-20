@@ -3,11 +3,13 @@ import {
   FAMILY_MIN_RANK,
   INTERNAL_INSULATION,
   SERIES,
+  allowedUms,
   coveringUms,
   nearestCurrent,
   nearestUm,
   phaseToken,
   pickSelectorSize,
+  typeCurrentToken,
 } from "./catalog";
 import {
   commercialTypeExists,
@@ -157,7 +159,8 @@ function buildModelString(
   //   VVIII-250Y/76-10193W
   //   VMIII-500Y/123B-10193W
   const conn = connection === "any" ? "" : connection;
-  const core = `${series.code}-${phases}-${current}${conn}/${umToken}-${tapCode}`;
+  const token = typeCurrentToken(series, phases as PhaseCode, current);
+  const core = `${series.code}-${phases}-${token}${conn}/${umToken}-${tapCode}`;
   if (unitCount > 1) return `${unitCount}x${core}`;
   return core;
 }
@@ -263,9 +266,10 @@ function ratingCoversDuty(wanted: number, rating: number): boolean {
 
 function buildAttempts(s: SeriesDef, input: SelectInput): Attempt[] {
   const out: Attempt[] = [];
-  const covering = coveringUms(input.umKv, s.umKv).filter(
-    (u) => u >= input.umKv - 0.1,
-  );
+  const covering = coveringUms(
+    input.umKv,
+    allowedUms(s, input.phases, input.connection),
+  ).filter((u) => u >= input.umKv - 0.1);
   if (!covering.length) return out;
   const um0 = covering[0];
   // 126 twin only on the min-adequate families (CV2/CM2/�?. SHZV extra Ums
@@ -311,12 +315,17 @@ function buildAttempts(s: SeriesDef, input: SelectInput): Attempt[] {
     (input.phases === "III" || connIllegal)
   ) {
     const curI = nearestCurrent(input.throughCurrentA, s.currents.I);
-    if (curI != null) {
+    const umI = coveringUms(
+      input.umKv,
+      allowedUms(s, "I", input.connection),
+    ).filter((u) => u >= input.umKv - 0.1);
+    const umForI = umI[0] ?? um0;
+    if (curI != null && umForI != null) {
       out.push({
         series: s,
         phases: "I",
         current: curI,
-        um: um0,
+        um: umForI,
         unitCount: 3,
         deltaForced: connIllegal,
       });
@@ -514,6 +523,7 @@ export function selectOltc(input: SelectInput): SelectOutput {
               input.pfKv,
               input.acrossTapBilKv,
               input.acrossTapPfKv,
+              s.selectorSizes,
             )
           : "";
         const tapCode = tap.tapCode;

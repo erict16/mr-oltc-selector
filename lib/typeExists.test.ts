@@ -18,4 +18,9 @@ describe("commercialTypeExists", () => {
   it("rejects selector letter on compound VV", () => {
     expect(commercialTypeExists("VV-III-250Y/76B-10193W")).toBe(false);
   });
+
+  it("I-phase uses published sector digit 501", () => {
+    expect(commercialTypeExists("3xVM-I-501/123B-10193W")).toBe(true);
+    expect(commercialTypeExists("3xVM-I-500/123B-10193W")).toBe(false);
+  });
 });

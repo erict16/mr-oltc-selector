@@ -6,7 +6,7 @@ Do not invent or hand-draw icons. Use [@heroicons/react](https://heroicons.com/)
 
 ## CLI
 
-`npx -y mr-oltc-selector@1.0.1`. Same engine as the web app. No prices. Bin is `mr-oltc`. `--iu` is Imax and is never multiplied by `--k`.
+`npx -y mr-oltc-selector@1.0.2`. Same engine as the web app. No prices. Bin is `mr-oltc`. `--iu` is Imax and is never multiplied by `--k`.
 
 ## Ranking
 

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 — 2026-09
+
+- Type tokens match the brochure: VM I 501, G III 1602, G selector D/E.
+- No VV III-D at 123 kV; no VM III at Um 300 kV.
+
 ## 1.0.1 — 2026-09
 
 - Buttons use red-orange; sheet stays cool.
