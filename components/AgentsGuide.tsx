@@ -95,8 +95,8 @@ export function AgentsGuide() {
                     <img
                       src={`${BASE}/agents/workbuddy-skillhub.jpg`}
                       alt={c.wbShotAlt ?? c.wbShot}
-                      width={1936}
-                      height={1243}
+                      width={1941}
+                      height={1240}
                     />
                   </figure>
                 ) : null}

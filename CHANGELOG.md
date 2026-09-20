@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Language chips: selected is vermilion outline on white, same as the kV presets. Drop the leftover cobalt wash.
+- `/agents` Chinese step 1 shows the WorkBuddy SkillHub search screenshot.
 
 ## 1.0.2 — 2026-09
 

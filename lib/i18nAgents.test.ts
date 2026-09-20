@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { LANG_OPTIONS } from "./i18n";
@@ -26,6 +26,21 @@ describe("agent guide copy", () => {
       expect(blob, id).not.toMatch(/\bMR\b/);
       expect(blob, id).not.toMatch(/华明/);
     }
+  });
+
+  it("WorkBuddy screenshot is Chinese-only", () => {
+    const zh = agentGuide("zh");
+    expect(zh.s1wb).toBe("WorkBuddy");
+    expect(zh.wbShot).toContain("WorkBuddy");
+    expect(zh.wbShotAlt).toContain("SkillHub");
+    expect(agentGuide("en").s1wb).toBeUndefined();
+    expect(agentGuide("en").wbShot).toBeUndefined();
+    for (const { id } of LANG_OPTIONS) {
+      if (id !== "zh") expect(agentGuide(id).wbShot).toBeUndefined();
+    }
+    expect(
+      existsSync(path.join(process.cwd(), "public", "agents", "workbuddy-skillhub.jpg")),
+    ).toBe(true);
   });
 });
 
