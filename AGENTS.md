@@ -10,7 +10,7 @@ Do not invent or hand-draw icons. Use [@heroicons/react](https://heroicons.com/)
 
 ## Ranking
 
-Minimum-adequate: VI / VV compact vacuum, then VM, then VRS / VRL. OILTAP V / G only on oil. Combined III is Y-only; delta uses 3× I when that row exists.
+Minimum-adequate: VI / VV compact vacuum, then VM, then VRS / VRM / VRL / VRH / VRX. OILTAP V / G only on oil. Combined III is Y-only; delta uses 3× I when that row exists. VRX is I-only.
 
 ## Type string
 

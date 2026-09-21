@@ -4,6 +4,7 @@
 
 - Language chips: selected is vermilion outline on white, same as the kV presets. Drop the leftover cobalt wash.
 - `/agents` Chinese step 1 shows the WorkBuddy SkillHub search screenshot.
+- Catalogue: VRM, VRH, VRX from the VR flyer; OILTAP V III 250/400 specials. Pressure grid rejects unpublished types.
 
 ## 1.0.2 — 2026-09
 

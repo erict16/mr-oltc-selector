@@ -9,7 +9,7 @@ export type TypeParts = {
   tapCode: string;
 };
 
-const FAMILIES = "VRS|VRL|VI|VV|VM|G|V";
+const FAMILIES = "VRX|VRH|VRM|VRS|VRL|VI|VV|VM|G|V";
 
 /** Collapse a commercial type to a parseable line. */
 export function normalizeType(raw: string): string {

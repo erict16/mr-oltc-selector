@@ -36,12 +36,18 @@ describe("TD type strings (not SERIES as oracle)", () => {
     expect(commercialTypeExists("VM-III-500Y/300DE-10193W")).toBe(false);
     expect(commercialTypeExists("G-III-1600Y/72.5B-10193W")).toBe(false);
     expect(commercialTypeExists("3xVM-I-500/123B-10193W")).toBe(false);
+    expect(commercialTypeExists("VRX-III-650Y/72.5B-10193W")).toBe(false);
+    expect(commercialTypeExists("V-III-500Y/76-10193W")).toBe(false);
+    expect(commercialTypeExists("VRM-III-700D/72.5B-10193W")).toBe(false);
   });
 
   it("accepts published tokens 501 / 1602 / D at 145", () => {
     expect(commercialTypeExists("3xVM-I-501/123B-10193W")).toBe(true);
     expect(commercialTypeExists("G-III-1602Y/72.5D-10193W")).toBe(true);
     expect(commercialTypeExists("VV-III-600D/145-10193W")).toBe(true);
+    expect(commercialTypeExists("VRM-III-700Y/72.5B-10193W")).toBe(true);
+    expect(commercialTypeExists("3xVRX-I-652/72.5B-10193W")).toBe(true);
+    expect(commercialTypeExists("V-III-400Y/76-10193W")).toBe(true);
   });
 
   it("500 A / 123 kV D does not emit VV III-D at 123", () => {

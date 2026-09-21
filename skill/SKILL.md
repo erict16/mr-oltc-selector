@@ -7,7 +7,7 @@ license: MIT
 description: >
   有载分接开关选型（公开真空/油样本册）：贴变压器铭牌或给参数（容量、电压、电流、调压方式、分接范围），
   用 mr-oltc 命令算出样本册里真实存在的有载（OLTC）开关型号，并说明选型理由。
-  触发：选型、分接开关、有载开关、OLTC、tap changer、VACUTAP、OILTAP、VI、VV、VM、VRS、VRL、
+  触发：选型、分接开关、有载开关、OLTC、tap changer、VACUTAP、OILTAP、VI、VV、VM、VRS、VRM、VRL、VRH、VRX、
   星点、线端、正反调、粗细调、线性调、Imax、Um、检查型号是否存在、解读型号含义。
   不触发：报价、价格、OS 商务条款、运输单据。
 allowed-tools: Bash, Read
@@ -77,9 +77,9 @@ npx -y mr-oltc-selector@1.0.3 --iu 350 --um 76 --conn Y --reg W --pm 8 --oil
 详见 `references/brochure-check.md`。命中任何一条就判不通过：
 
 - **发明电流档**，VV III 只有 250/400/600，没有 251 或 500。500 A 真空三相走 VV 600 或 VM 500 Y。
-- **VM / VRS / VRL / OILTAP G 的 III-D**，三相只有星点。线端用 `3x … I-`。VI / VV / OILTAP V 的 III-D 存在。
-- **复合式等级字母**，没有 `VV-III-250Y/76B`。VM / VRS / VRL / G 才带 B/C/D/DE/E。
-- **油灭弧**，不会出 VI / VV / VM / VRS / VRL。油型盖不住就说超出目录，不要拿真空顶上。
+- **VM / VRS / VRM / VRL / VRH / OILTAP G 的 III-D**，三相只有星点。线端用 `3x … I-`。VI / VV / OILTAP V 的 III-D 存在。VRX 没有三相型号。
+- **复合式等级字母**，没有 `VV-III-250Y/76B`。VM / VRS / VRM / VRL / VRH / VRX / G 才带 B/C/D/DE/E。
+- **油灭弧**，不会出 VI / VV / VM / VRS / VRM / VRL / VRH / VRX。油型盖不住就说超出目录，不要拿真空顶上。
 - **干式 / 箱顶**，本目录没有对应系列，直接超出目录。
 - **星点 Um**，110/132 kV 类 Y 工况开关取 72.5（覆盖后 VV/VI 用 76），不是 123。
 - **10 19 3W 工作位置数**，19 是机械位置，变压器电压级数是 17。
@@ -87,7 +87,7 @@ npx -y mr-oltc-selector@1.0.3 --iu 350 --um 76 --conn Y --reg W --pm 8 --oil
 ## 深入 OLTC（解释时用）
 
 - 样本册 Ium 是型号里的电流数字。CLI 输入是 Imax，型号数字是 Ium ≥ 该工况。
-- 排名按最低满足：VI → VV → VM → VRS → VRL。油：OILTAP V → G。合法的 III 存在时，一台 III 优于 3× I。
+- 排名按最低满足：VI → VV → VM → VRS → VRM → VRL → VRH → VRX。油：OILTAP V → G。合法的 III 存在时，一台 III 优于 3× I。
 - 选择器默认：≤123 B，170 C，245 D，更高 DE/E。公开例子：`VM-III-500Y/123B`。
 - 分接代码 `P = 2×(±N)+mid`，三个中间位置共用一个电压。
 

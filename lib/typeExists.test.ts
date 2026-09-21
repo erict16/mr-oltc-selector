@@ -23,4 +23,21 @@ describe("commercialTypeExists", () => {
     expect(commercialTypeExists("3xVM-I-501/123B-10193W")).toBe(true);
     expect(commercialTypeExists("3xVM-I-500/123B-10193W")).toBe(false);
   });
+
+  it("accepts flyer VR codes and OILTAP V specials", () => {
+    expect(commercialTypeExists("VRM-III-700Y/72.5B-10193W")).toBe(true);
+    expect(commercialTypeExists("VRH-III-650Y/72.5B-10193W")).toBe(true);
+    expect(commercialTypeExists("3xVRX-I-652/72.5B-10193W")).toBe(true);
+    expect(commercialTypeExists("V-III-250Y/76-10193W")).toBe(true);
+    expect(commercialTypeExists("V-III-400D/40-10193W")).toBe(true);
+  });
+
+  it("rejects unpublished VR / OILTAP V strings", () => {
+    expect(commercialTypeExists("VRM-III-700D/72.5B-10193W")).toBe(false);
+    expect(commercialTypeExists("VRX-III-650Y/72.5B-10193W")).toBe(false);
+    expect(commercialTypeExists("VRX-I-651/72.5B-10193W")).toBe(false);
+    expect(commercialTypeExists("VRS-III-400Y/72.5B-10193W")).toBe(false);
+    expect(commercialTypeExists("V-III-500Y/76-10193W")).toBe(false);
+    expect(commercialTypeExists("VR-III-400Y/72.5B-10193W")).toBe(false);
+  });
 });

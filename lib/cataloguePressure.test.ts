@@ -48,14 +48,31 @@ function checkModel(model: string, ctx: string, bucket: string[]): void {
   if (/^G-III-\d+Y\/[\d.]+B/.test(model)) {
     bucket.push(`${ctx} g-selector-B ${model}`);
   }
+  if (/VRX-III-/.test(model)) {
+    bucket.push(`${ctx} vrx-iii ${model}`);
+  }
+  if (/VRX-I-651\b/.test(model)) {
+    bucket.push(`${ctx} vrx-i-651 ${model}`);
+  }
+  if (/VRS-III-400/.test(model) || /VRM-III-400/.test(model)) {
+    bucket.push(`${ctx} vr-iii-400 ${model}`);
+  }
+  if (/V-III-500/.test(model)) {
+    bucket.push(`${ctx} oiltap-v-500 ${model}`);
+  }
+  if (/VRM-III-\d+D/.test(model) || /VRH-III-\d+D/.test(model)) {
+    bucket.push(`${ctx} vr-iii-d ${model}`);
+  }
 }
 
 describe("catalogue pressure", () => {
   it("grid never invents a type or leaks medium / mounting", () => {
     const illegal: string[] = [];
-    const currents = [200, 250, 350, 400, 500, 600, 650, 800, 1000, 1300, 1600];
-    const ums = [40, 72.5, 76, 123, 145, 170];
-    const usts = [800, 1500, 2000, 3300, 4500, 6000];
+    const currents = [
+      200, 250, 350, 400, 500, 600, 650, 700, 800, 1000, 1300, 1600, 2600,
+    ];
+    const ums = [40, 72.5, 76, 123, 145, 170, 245, 300, 362, 420];
+    const usts = [800, 1500, 2000, 3300, 4500, 6000, 12000];
     const conns = ["Y", "D"] as const;
     const pms = [8, 16] as const;
 

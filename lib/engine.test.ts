@@ -121,4 +121,68 @@ describe("hard locks", () => {
     expect(["VI", "VV"]).toContain(parsed.family);
     expect(parsed.selectorSize).toBe("");
   });
+
+  it("oil 400 A uses OILTAP V III 400, not G", () => {
+    const out = selectOltc(
+      duty({
+        preferVacuum: false,
+        medium: "oil",
+        throughCurrentA: 400,
+        umKv: 76,
+        stepVoltageV: 1000,
+      }),
+    );
+    expect(out.ok).toBe(true);
+    const primary = out.results[0]!.model;
+    expect(primary).toMatch(/^V-III-400Y\/76-/);
+    expect(primary).not.toMatch(/^G-/);
+    expect(commercialTypeExists(primary)).toBe(true);
+  });
+
+  it("650 A / 6000 V star-point uses VRH, not VRS (650 A Pst is short)", () => {
+    const out = selectOltc(
+      duty({
+        throughCurrentA: 650,
+        umKv: 72.5,
+        stepVoltageV: 6000,
+      }),
+    );
+    expect(out.ok).toBe(true);
+    const primary = out.results[0]!.model;
+    expect(primary).toMatch(/^VRH-III-1300Y\//);
+    expect(primary).not.toMatch(/^VRS-/);
+    expect(commercialTypeExists(primary)).toBe(true);
+  });
+
+  it("650 A / 4000 V star-point uses VRH III 650", () => {
+    const out = selectOltc(
+      duty({
+        throughCurrentA: 650,
+        umKv: 72.5,
+        stepVoltageV: 4000,
+      }),
+    );
+    expect(out.ok).toBe(true);
+    const primary = out.results[0]!.model;
+    expect(primary).toMatch(/^VRH-III-650Y\//);
+    expect(commercialTypeExists(primary)).toBe(true);
+  });
+
+  it("never emits a VRX three-phase type", () => {
+    const out = selectOltc(
+      duty({
+        throughCurrentA: 650,
+        umKv: 72.5,
+        stepVoltageV: 9000,
+      }),
+    );
+    expect(out.ok).toBe(true);
+    for (const r of out.results) {
+      expect(r.model).not.toMatch(/VRX-III-/);
+      expect(commercialTypeExists(r.model)).toBe(true);
+    }
+    expect(out.results.some((r) => r.model.startsWith("3xVRX-I-652/"))).toBe(
+      true,
+    );
+  });
 });

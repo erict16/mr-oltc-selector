@@ -8,7 +8,7 @@ import { parseTypeString } from "./parseType";
 import type { PhaseCode, SelectorSize, SeriesDef } from "./types";
 
 const COMPOUND_NO_GRADE = new Set(["vi", "vv", "oiltap_v"]);
-const STAR_ONLY_III = new Set(["vm", "vrs", "vrl", "oiltap_g"]);
+const STAR_ONLY_III = new Set(["vm", "vrs", "vrm", "vrl", "vrh", "oiltap_g"]);
 
 export const III_D_FAMILIES = ["vi", "vv", "oiltap_v"] as const;
 
